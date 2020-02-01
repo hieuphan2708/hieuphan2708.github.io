@@ -1,17 +1,17 @@
-- title: Trans
-  url: "https://github.com/hieuphan2708/TaniaJekyll"
-  description: "Tài liệu tham khảo chất lượng được dịch sang Tiếng Việt"
+- title: "Trans"
+  url: "https://github.com/dinhanhthi/TaniaJekyll"
+  description: "A beautiful personal jekyll theme based on Bootstrap 4.1."
   img: "tania-jekyll.svg"
-- title: Tech
-  url: "https://github.com/hieuphan2708/NoteTheme"
-  description: "Ứng dụng công nghệ thông tin vào quá trình học tập ngành y"
+- title: "Tech"
+  url: "https://github.com/dinhanhthi/NoteTheme"
+  description: "A Jekyll theme designed only for taking note."
   img: "notetheme.svg"
-- title: Help
-  url: "https://github.com/hieuphan2708/nxfem"
-  description: "Tải giùm bạn sách ngoại văn, các bài báo khoa học, tài liệu Uptodate, BMJ, Dynamed. Ai cần gì thì mình lấy, mình không public vì vấn đề bản quyền"
+- title: "NXFEM"
+  url: "https://github.com/dinhanhthi/nxfem"
+  description: "A Matlab library for Nitsche - Extended Finite Element Method."
   img: "nxfem.png"
-- title: Auto
+- title: "Bot"
   url: "http://math2it.com/gioi-thieu"
-  description: "Bot tải tài liệu UpToDate"
+  description: "A Vietnamese site for intuitive knowledge (Maths, LaTeX, Education and Technology)."
   img: "math2it.gif"
 
