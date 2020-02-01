@@ -4,7 +4,7 @@
   icon: fa-home
   name: home
   color: ffeead
-- title: Bài dịch
+- title: "Bài dịch"
   url: /tutorial
   icon: fa-map-o
   name: tutorial
