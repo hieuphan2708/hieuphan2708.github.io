@@ -5,19 +5,13 @@ favicon: /img/favicon.ico
 author:
   avatar: /img/avatar.png
   cv: /files/mycv.pdf
-  mynote:
-    url: https://note.dinhanhthi.com
-    text: <span>note</span>.dinhanhthi.com
-    description: I write this NoteTheme theme for noting all of what I have studied.
-    img: /img/mynote.png
 
 # number of challenge books
 ncb: 10
 ncb-year: "2018"
 
 # site's language
-lang:
-  current: en
+lang: en
 
 # disqus shortname
 disqus: note-thi
