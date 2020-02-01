@@ -25,34 +25,18 @@ nav:
     vn: "Tạp ghi"
 index:
   intro: "Everyday is filled with devotion in our quest to polish ourselves to our brightest!"
-  about:
-    en: "About"
-    vn: "Về tôi"
+  about: "About"
 section:
-  project:
-    en: "Recent projects"
-    vn: "Dự án gần đây"
-    more:
-      en: "see others"
-      vn: "xem tất cả"
-  reading: 
-    en: "Books I've just read"
-    vn: "Sách tôi vừa đọc"
-    more:
-      en: "see other books"
-      vn: "xem toàn bộ sách"
+  project: "Dự án gần đây"
+    more: "xem tất cả"
+  reading: "Sách tôi vừa đọc"
+    more: "xem toàn bộ sách"
   tutorial:
     en: "Tutorials"
     vn: "Toán học và công nghệ"
     more:
       en: "see full list"
       vn: "xem đầy đủ"
-  mynote:
-    en: "My notes"
-    vn: "Ghi chú của tôi"
-    more: 
-      en: "You cannot remember everything."
-      vn: "Bạn không thể nhớ hết mọi điều."
   sketch:
     en: "Latest sketches"
     vn: "Hình vẽ gần đây"
