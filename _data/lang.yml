@@ -24,7 +24,8 @@ nav:
     en: "My notes"
     vn: "Tạp ghi"
 index:
-  intro: "Everyday is filled with devotion in our quest to polish ourselves to our brightest!"
+  intro: 
+    en: "Everyday is filled with devotion in our quest to polish ourselves to our brightest!"
   about: "About"
 section:
   project: "Dự án gần đây"
