@@ -17,8 +17,8 @@ ncb-year: "2018"
 
 # site's language
 lang:
-  current: vi # current site's language
-  other_url: http://vn.dinhanhthi.com # other language
+  current: en # current site's language
+  other_url: # other language
 
 # disqus shortname
 disqus: note-thi
