@@ -1,0 +1,37 @@
+title: Hiếu nè
+description: Everyday is filled with devotion in our quest to polish ourselves to our brightest
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "hieuphan2708.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+title-separator: "-"
+
+author:
+  name: Phan Nguyên Hiếu
+  github: hieuphan2708
+  facebook: hieu.baby
+  email: pnhieu.stu14@medvnu.edu.vn
+
+
+# Build settings
+timezone: "Europe/Paris"
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+permalink: /:categories/:title
+# paginate: 24
+# paginate_path: "/thought/page-:num"
+
+# Facebook App ID
+# fb_app_id: ""
+
+sass:
+  style: compact
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+
+plugins:
+  - jekyll-feed
