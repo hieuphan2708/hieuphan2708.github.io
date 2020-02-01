@@ -17,7 +17,7 @@ ncb-year: "2018"
 
 # site's language
 lang:
-  current: en # current site's language
+  current: vi # current site's language
   other_url: http://vn.dinhanhthi.com # other language
 
 # disqus shortname
