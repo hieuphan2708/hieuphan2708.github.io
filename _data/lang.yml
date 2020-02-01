@@ -25,7 +25,7 @@ nav:
     vn: "Tạp ghi"
 index:
   intro:
-    en: "Hi! I'm a beautiful jekyll template for your personal website. I have many layouts which are <span class=\"tgreen\">flexible</span> & <span class=\"tgreen\">clear</span> for different purposes."
+    en: "Xin cảm ơn mọi người đã ghé thăm blog này. Đây là blog để mình lưu lại những thứ “may mắn” được đọc trong quãng đời sinh viên y khoa."
     vn: "Chào bạn! Tôi là <span style=\"color: #fff;\">Thi</span>, một người thích Toán, thích lập trình và không ngừng tự học. Trên trang này, tôi muốn chia sẻ với bạn những thứ <span class=\"tgreen\">hay ho</span> và <span class=\"tgreen\">bổ ích</span> tôi biết được."
   about:
     en: "About"
