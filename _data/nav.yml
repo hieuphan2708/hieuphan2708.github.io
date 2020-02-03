@@ -1,5 +1,5 @@
 # name used as "fa-{{name}}"
-- title: Home
+- title: "Trang chủ"
   url: /
   icon: fa-home
   name: home
@@ -8,10 +8,10 @@
   url: /tutorial
   icon: fa-language
   name: tutorial
-  color: fc5d76
-- title: "RCEM Learning"
+  color: 4974a5
+- title: "#FOAMed"
   url: /reading
-  icon: fa-desktop
+  icon: fa-cubes
   name: reading
   color: 5eeda3
 - title: Me
