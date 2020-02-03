@@ -8,7 +8,7 @@
   url: /tutorial
   icon: fa-language
   name: tutorial
-  color: 4974a5
+  color: fc5d76
 - title: "FOAMed"
   url: /reading
   icon: fa-cubes
