@@ -4,6 +4,7 @@ title: "Hội chứng vành cấp"
 tags: [tim mạch]
 img: acute-coronary-syndromes_image.jpg
 categories: thought
+notnumbering: 1
 ---
 
 ## Giới thiệu:
