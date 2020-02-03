@@ -6,7 +6,7 @@
   color: ffeead
 - title: "Bài dịch"
   url: /tutorial
-  icon: fa-map-o
+  icon: fa-language
   name: tutorial
   color: fc5d76
 - title: "RCEM Learning"
