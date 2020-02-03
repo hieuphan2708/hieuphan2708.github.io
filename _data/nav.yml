@@ -11,7 +11,7 @@
   color: fc5d76
 - title: "RCEM Learning"
   url: /reading
-  icon: fa-book
+  icon: fa-desktop
   name: reading
   color: 5eeda3
 - title: Me
@@ -21,7 +21,7 @@
   color: 3292f6
 - title: Sketch
   url: /sketch
-  icon: fa-pencil
+  icon: fa-edit
   name: sketch
   color: fdb54b
 - title: Thought
