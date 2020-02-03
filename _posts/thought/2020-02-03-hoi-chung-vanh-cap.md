@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hội chứng vành cấp"
-tags: [tim mạch, đau ngực]
+tags: [tim mạch]
 img: acute-coronary-syndromes_image.jpg
 categories: thought
 ---
