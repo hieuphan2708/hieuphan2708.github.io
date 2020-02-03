@@ -17,3 +17,5 @@ categories: thought
 -   Hội chứng vành cấp (ACS) bao gồm đau thắt ngực không ổn định (UA), nhồi máu cơ tim không ST chênh lên (NSTEMI) và nhồi máu cơ tim ST chênh lên (STEMI). Nhồi máu cơ tim được xem là bệnh lý có sự chết tế bào cơ tim sau thiếu máu cục bộ kéo dài.
 
 -   Hoại tử cơ tim giải phóng các protein (troponin, myoglobin, creatine kinase, v.v.) vào tuần hoàn và cũng dẫn đến một hội chứng lâm sàng với các triệu chứng đặc trưng và thay đổi trên điện tâm đồ. Các tiêu chuẩn cho nhồi máu cơ tim cấp như sau:
+
+-   Trong bối cảnh tăng men tim, thay đổi đoạn ST trên ECG sẽ xác định STEMI hoặc NSTEMI (Xem Hình 1). Tuy nhiên tại thời điểm nhập viện chưa có men tim và việc phân loại bệnh nhân bị đau ngực do thiếu máu cục bộ chủ yếu dựa vào ECG. Hầu hết bệnh nhân có ST chênh lên có tắc động mạch vành hoàn toàn và tiến triển thành STEMI. Tuy nhiên, nhiều bệnh nhân không có ST chênh lên có thể không tăng men tim sau đó và được gọi chung là hội chứng vành cấp không ST chênh lên (NSTE-ACS) cho đến khi men tim xác định là Non-STEMI (tăng men tim) hay UA (không tăng men tim).
