@@ -6,9 +6,9 @@ img: acute-coronary-syndromes_image.jpg
 categories: thought
 ---
 
-# Giới thiệu:
+## Giới thiệu:
 
-## Bối cảnh và định nghĩa:
+### Bối cảnh và định nghĩa:
 
 -   Đau ngực cấp là do một loạt các bệnh lý từ vô tội đến cực kỳ nghiêm trọng; trong số đó có khả năng gây tử vong trong vòng vài phút hoặc vài giờ.
 
