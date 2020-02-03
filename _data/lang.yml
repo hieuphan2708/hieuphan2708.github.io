@@ -32,10 +32,10 @@ index:
     vn: "Về tôi"
 section:
   project:
-    en: "Recent projects"
+    en: "Dự án gần đây"
     vn: "Dự án gần đây"
     more:
-      en: "see others"
+      en: "xem tất cả"
       vn: "xem tất cả"
   reading: 
     en: "Books I've just read"
