@@ -159,7 +159,7 @@ notnumbering: 1
 		- Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) < 120 phút hoặc thời gian đau ngực < 90 phút.
  		- Bệnh nhân sốc tim và bệnh nhân có chống chỉ định với tiêu sợi huyết bất kể thời gian đau ngực.
 
- 	- Tiêu sợi huyết thường được ưu tiên nếu
+ 	 - Tiêu sợi huyết thường được ưu tiên nếu
 	        - Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) > 120 phút.
 
 #### Can thiệp mạch vành qua da nguyên phát (PPCI)
@@ -183,4 +183,5 @@ notnumbering: 1
 	- Nên được dùng sớm (nếu không có chống chỉ định: dị ứng, đang xuất huyết) ở tất cả các bệnh nhân đau ngực do thiếu máu cục bộ.
 	- Dùng liều tải 150-325 mg, tiếp tục đến hết đời liều 75-100mg.
 -    Clopidogrel
-	- 
+	- Thúc đẩy tạo ra platelet c-AMP, giảm platelet calcium + ngăn thụ thể Glp IIb/IIIa chuyển sang dạng ái lực cao → ức chế kết tập tiểu cầu.
+	
