@@ -11,6 +11,7 @@ notnumbering: 1
 
 ### Bối cảnh
 - Tỉ lệ tử vong trung bình 10% liên tục trong 50 năm mặc dù đã có nhiều thay đổi trong điều trị.
+
 ### Định nghĩa
 
 {% include img/full-50.html src="/img/post/thought/hinh21.png" des="Các nguyên nhân gây xuất huyết tiêu hóa trên" %}
@@ -20,7 +21,8 @@ notnumbering: 1
 
 ### Sinh lý bệnh
 
-- Trong loét dạ dày, xuất huyết xảy ra do xói mòn mạch máu trên nền loét.
+- Trong loét dạ dày, xuất huyết xảy ra do *xói mòn mạch máu* trên nền loét.
+- Ở những bệnh nhân mắc bệnh gan, tăng áp tĩnh mạch cửa dẫn đến lưu lượng máu lớn thông qua các mạch máu bàng hệ "collateral vessel" (đặc biệt là ở thực quản đoạn xa). Những mạch máu này có thể trở nên giãn và ngoằn ngoèo, khiến chúng dễ bị chảy máu.
 
  
 
