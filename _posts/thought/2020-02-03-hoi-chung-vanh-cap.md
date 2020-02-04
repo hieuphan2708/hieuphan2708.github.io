@@ -98,8 +98,8 @@ notnumbering: 1
 #### Bổ sung thêm chuyển đạo
 
 -    Cần bổ sung thêm chuyển đạo nếu nghi ngờ nhồi máu thành sau (V7, V8, V9) hoặc nhồi máu thất phải (V4R), cụ thể như sau:
-	- ST chênh lên ở thành dưới vì nếu AMI thành dưới sẽ dễ xảy ra thêm AMI thành sau và AMI thất phải sau đó. Cụ thể là do AMI thành dưới 80% tưới máu bởi động mạch vành phải (cũng là động mạch tưới máu cho thất phải) và 20% do động mạch mũ trái (cũng là động mạch cấp máu cho thành sau).
-	- ST chênh xuống ở thành trước vách (tức V1-V3) (thường chỉ ra tình trạng thiếu máu cục bộ) nhưng có thể là AMI thành sau bị che dấu (V1-V3 là chuyển đạo soi gương của thành sau).
+	+ ST chênh lên ở thành dưới vì nếu AMI thành dưới sẽ dễ xảy ra thêm AMI thành sau và AMI thất phải sau đó. Cụ thể là do AMI thành dưới 80% tưới máu bởi động mạch vành phải (cũng là động mạch tưới máu cho thất phải) và 20% do động mạch mũ trái (cũng là động mạch cấp máu cho thành sau).
+	+ ST chênh xuống ở thành trước vách (tức V1-V3) (thường chỉ ra tình trạng thiếu máu cục bộ) nhưng có thể là AMI thành sau bị che dấu (V1-V3 là chuyển đạo soi gương của thành sau).
 
 {% include img/full.html src="/img/post/thought/hinh17.png" des="Hình 7. AMI thành dưới. ST chênh lên ở chuyển đạo II, III, aVF và ST chênh xuống ở những chuyển đạo soi gương V1, V2, V3" %}
 {% include img/full.html src="/img/post/thought/hinh18.png" des="Hình 7. ST chênh xuống ở chuyển đạo thành sau V7-V9 ở cùng 1 bệnh nhân hình 7 xác nhận AMI thành sau" %}  
@@ -109,9 +109,9 @@ notnumbering: 1
 
 -    Bệnh nhân bị đau tim do thiếu máu cục bộ và block nhánh nhánh trái (LBBB) nên được cho là AMI và nên được xem xét điều trị tái tưới máu ngay lập tức, vì chúng được chứng minh là có tỷ lệ tử vong cao nhất ở bệnh nhân mắc AMI, và cũng tăng lợi ích lớn nhất từ tiêu sợi huyết.
 -    Tiêu chuẩn ECG LBBB gợi ý AMI (đặc hiệu cao, nhạy thấp):
-	- ST chênh lên > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là dương (tức là V5, V6).
-	- ST chênh xuống > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là âm (tức là V1, V2, V3).
-	- ST chênh lên > 5mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là âm (tức là V1, V2, V3).
+	+ ST chênh lên > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là dương (tức là V5, V6).
+	+ ST chênh xuống > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là âm (tức là V1, V2, V3).
+	+ ST chênh lên > 5mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là âm (tức là V1, V2, V3).
 {% include img/full.html src="/img/post/thought/hinh19.png" des="Hình 9. LBBB điển hình" %}
 {% include img/full.html src="/img/post/thought/hinh110.png" des="Hình 10. ST chênh lên > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là dương (tức là V5, V6)." %}
 
@@ -122,6 +122,9 @@ notnumbering: 1
 ### Các marker sinh hóa
 
 -     Troponins được ưa dùng hơn trong ACS vì nhạy và đặc hiệu hơn CK-MB
-
+-     Thời điểm xét nghiệm troponin có tầm quan trọng rất lớn: 
+	- Bệnh nhân có ECG bình thường hoặc không giúp chẩn đoán thì xét nghiệm sau 6 đến 12 tiếng từ khi đau ngực để an toàn nói rằng bệnh nhân có nguy cơ thấp. 
+	- Bệnh nhân có ECG gợi ý NSTEMI hoặc UA, xét nghiệm troponin có thể được thực hiện ngay tại thời điểm đó vì sẽ xác định chẩn đoán, giúp phân tầng nguy cơ ban đầu và ảnh hưởng đến các chiến lược điều trị. 
+	- Bệnh nhân có ST chênh lên không cần xét nghiệm troponin khẩn cấp vì chiến lược điều trị ban đầu của họ được xác định bằng cách trình bày lâm sàng và phát hiện ECG.
 
 
