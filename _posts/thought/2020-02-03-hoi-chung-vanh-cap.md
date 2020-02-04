@@ -248,8 +248,17 @@ notnumbering: 1
 -    Vỡ tim và chèn ép tim:
 	 - Vỡ thành tim cấp thì gây tử vong, bán cấp thì gây chèn ép tim do tràn máu ra khoang màng ngoài tim.
 	 - Điều trị tái tưới máu + phẫu thuật + chọc dò màng ngoài tim song song với ổn định huyết động.
- 
 
+#### Biến chứng rối loạn nhịp và rối loạn dẫn truyền
+-    Rối loạn nhịp thất:
+	 - Thường gặp nhất là rung thất (tử vong ngay, đòi hỏi khử rung lập tức), nhịp nhanh thất (trụy huyết động thì khử rung, không trụy huyết động thì dùng amiodarone hoặc lignocaine), 
+	 - Nhịp tự thất gia tốc và ngoại tâm thu thất không cần can thiệp thêm.
+-    Rối loạn nhịp trên thất:
+	 - Thường gặp nhất là rung nhĩ, thường tái phát và tự giới hạn. Điều trị với chẹn beta, amiodarone hoặc digoxin nếu có chỉ định, trụy huyết động thì khử rung.
+	 - Cần điều trị chống huyết khối, mặc dù bệnh cảnh AMI đã bao hàm.
+-    Rối loạn dẫn truyền:
+	 - Block nhĩ thất độ 1 và Block nhĩ thất độ 2 type 1 không cần can thiệp thêm, trừ AMI thành trước cần dùng atropin và đặt máy tạo nhịp.
+	 - Block nhĩ thất độ 2 type 2 và block nhĩ thất độ 3 có chỉ định đặt máy taọ nhịp 
 
 
 
