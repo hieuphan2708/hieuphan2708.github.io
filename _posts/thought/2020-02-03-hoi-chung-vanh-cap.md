@@ -158,7 +158,7 @@ notnumbering: 1
 	 - PPCI thường được ưu tiên nếu
 		- Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) < 120 phút hoặc thời gian đau ngực < 90 phút.
  		- Bệnh nhân sốc tim và bệnh nhân có chống chỉ định với tiêu sợi huyết bất kể thời gian đau ngực.
- 	 - Tiêu sợi huyết thường được ưu tiên nếu:
+ 	 - Tiêu sợi huyết thường được ưu tiên nếu
 		- Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) > 120 phút.
 #### Can thiệp mạch vành qua da nguyên phát (PPCI)
 -    Tức là nong mạch vành hoặc đặt stent mà không dùng tiêu sợi huyết trước đó hoặc dùng đồng thời. Vừa đạt được mục đích tái tưới máu vừa không làm tăng nguy cơ xuất huyết.
@@ -167,10 +167,6 @@ notnumbering: 1
 #### Tiêu sợi huyết (TSH)
 -    Nguy cơ chính là xuất huyết, đặc biệt là xuất huyết não, nguy cơ tối đa là 24h sau khi dùng tiêu sợi huyết. Các yếu tố nguy cơ của TSH là nữ, lớn tuổi, nhẹ cân và huyết áp cao lúc nhập viện.
 -    Chống chỉ định tiêu sợi huyết như sau:
-	| Tuyệt đối | Tương đối |
-	|:-----------:|:-----------:|
-	| a         |    b      |
-	| 1         |    2      |
-	| foo       |   bar     |
+
 
 
