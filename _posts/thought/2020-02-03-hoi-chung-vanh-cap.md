@@ -59,8 +59,8 @@ notnumbering: 1
 {% include img/full.html src="/img/post/thought/bang13.png" des="Bảng 3. Giá trị của những phát hiện thực thể để chẩn đoán AMI" %}
 
 ## Chẩn đoán phân biệt
--   Một trong những mục đích chính của việc đánh giá sớm và nhanh chóng bệnh nhân bị đau ngực là xác định các tình trạng đe dọa tính mạng và đặc biệt là chẩn đoán hoặc loại trừ hội chứng vành cấp (ACS).
--   Mô tả kỹ lưỡng về cơn đau là bước đầu tiên trong quá trình chẩn đoán và sẽ giúp tạo ra sự khác biệt ban đầu giữa đau ngực do tim và không do tim và đau do thiếu máu cục bộ và không do thiếu máu cục bộ (Xem Bảng 4 và Hình 3). Đánh giá triệu chứng sẽ bao gồm mô tả đặc điểm của cơn đau, vị trí, mức độ nghiêm trọng và bức xạ của cơn đau, khởi phát và thời gian của cơn đau, làm giảm và làm nặng thêm các triệu chứng và các triệu chứng liên quan. Các tính năng quan trọng khác của bệnh sử sẽ bao gồm xác định yếu tố nguy cơ, các đợt đau ngực trước đây và tiền sử bệnh lý.
+-   Một trong những mục đích chính của việc đánh giá sớm và nhanh chóng bệnh nhân bị đau ngực là xác định các tình trạng đe dọa tính mạng và đặc biệt là *chẩn đoán hoặc loại trừ hội chứng vành cấp (ACS).*
+-   Mô tả kỹ lưỡng về cơn đau là bước đầu tiên trong quá trình chẩn đoán và sẽ giúp tạo ra sự khác biệt ban đầu giữa *đau ngực do tim và không do tim* và *đau do thiếu máu cục bộ và không do thiếu máu cục bộ* (Xem Bảng 4 và Hình 3). Đánh giá triệu chứng sẽ bao gồm mô tả đặc điểm của cơn đau, vị trí, mức độ nghiêm trọng và bức xạ của cơn đau, khởi phát và thời gian của cơn đau, làm giảm và làm nặng thêm các triệu chứng và các triệu chứng liên quan. Các tính năng quan trọng khác của bệnh sử sẽ bao gồm xác định yếu tố nguy cơ, các đợt đau ngực trước đây và tiền sử bệnh lý.
 
 {% include img/full.html src="/img/post/thought/bang14.png" des="Bảng 4. Mô tả đặc trưng của các triệu chứng liên quan đến các nguyên nhân chính gây đau ngực" %}
 {% include img/full.html src="/img/post/thought/hinh13.png" des="Hình 3. Đau ngực do tim và không do tim" %}
