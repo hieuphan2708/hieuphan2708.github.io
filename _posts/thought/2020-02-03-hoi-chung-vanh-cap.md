@@ -91,11 +91,15 @@ notnumbering: 1
 {% include img/full.html src="/img/post/thought/hinh15.png" des="Hình 5. AMI thành trước. ST chênh lên ở chuyển đạo V1, V2, V3, V4 và ST chênh xuống ở những chuyển đạo soi gương II, III, aVF" %}
 
 #### ST chênh xuống/thay đổi sóng T (xem hình 6)
+
 -   Sự hiện diện của ST chênh xuống/thay đổi sóng T trong bối cảnh đau ngực do thiếu máu cục bộ cấp tính thường biểu hiện thiếu máu cơ tim (tức là đau thắt ngực không ổn định) nhưng cũng liên quan đến khả năng AMI (tức NSTEMI- xem Bảng 5). Khoảng 50% bệnh nhân ST chênh xuống và 33% bệnh nhân bị đảo ngược sóng T được chứng minh sau đó là bị nhồi máu cơ tim.
 {% include img/full.html src="/img/post/thought/hinh16.png" des="Hình 6. AMI với ST chênh xuống và sóng T đảo. ST chênh xuống ở chuyển đạo thành bên V4-V6, I, aVL và sóng T đảo ở những chuyển đạo thành dưới II, III, aVF" %}
 
+#### Bổ sung thêm chuyển đạo
 
-
+-    Cần bổ sung thêm chuyển đạo nếu nghi ngờ nhồi máu thành sau (V7, V8, V9) hoặc nhồi máu thất phải (V4R), cụ thể như sau:
+	- ST chênh lên ở thành dưới vì nếu AMI thành dưới sẽ dễ xảy ra thêm AMI thành sau và AMI thất phải sau đó. Cụ thể là do AMI thành dưới 80% tưới máu bởi động mạch vành phải (cũng là động mạch tưới máu cho thất phải) và 20% do động mạch mũ trái (cũng là động mạch cấp máu cho thành sau).
+	- ST chênh xuống ở thành trước vách (tức V1-V3) (thường chỉ ra tình trạng thiếu máu cục bộ) nhưng có thể là AMI thành sau bị che dấu (V1-V3 là chuyển đạo soi gương của thành sau).
   
 
 
