@@ -194,7 +194,7 @@ notnumbering: 1
 -    Fondaparinux
 	 - Ức chế chọn lọc yếu tố Xa.
 	 - Chỉ định cho nhóm bệnh nhân điều trị TSH hoặc chưa có biện pháp tái tưới máu cụ thể, không chỉ định cho BN PPCI.
--    Ức chế thụ thể Glp IIb/IIIa
+-    Ức chế thụ thể Gp IIb/IIIa
 	 - Không có nghiên cứu nói về vai trò của thuốc này trên BN STEMI.
 
 ### Điều trị cụ thể NSTEMI và UA
@@ -210,6 +210,16 @@ notnumbering: 1
 -    Fondaparinux
 	 - Ít nguy cơ xuất huyết hơn khi so với LMWH.
 	 - Thường được chỉ định ở bệnh nhân không có chỉ định với PCI khẩn (< 120 phút).
--    Ức chế thụ thể Glp IIb/IIIa
-	
-	
+-    Ức chế thụ thể Gp IIb/IIIa
+	 - NICE khuyến nghị sử dụng thuốc ức chế thụ thể GpIIb/IIIa (tirofiban, eptifibatide) ở bệnh nhân NSTE-ACS ngay cả khi bệnh nhân không trải qua can thiệp mạch vành qua da (PCI).
+
+#### Thuốc chống thiếu máu cục bộ
+-    Nitrat
+	 - Giãn tĩnh mạch chủ yếu, giãn mạch vành, giãn động mạch.
+	 - Cải thiện triệu chứng, không cải thiện tử vong.
+-    Chẹn beta
+	 - Nói chung là ức chế tác dụng của catecholamine (qua cơ chế chronotropic và inotropic).
+	 - Nên dùng ở bệnh nhân NSTE-ASC (khi không có chống chỉ định). Dùng đường nào cũng được. Một số thuốc như atenolol, metoprolol, bisoprolol.
+-    Chẹn kênh canxi
+	 - Không có vai trò gì ngoại trừ thay thế chẹn beta khi có chống chỉ định.
+  	
