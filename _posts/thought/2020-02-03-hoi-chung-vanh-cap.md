@@ -108,13 +108,20 @@ notnumbering: 1
 #### Block nhánh trái (xem hình 9 và hình 10)
 
 -    Bệnh nhân bị đau tim do thiếu máu cục bộ và block nhánh nhánh trái (LBBB) nên được cho là AMI và nên được xem xét điều trị tái tưới máu ngay lập tức, vì chúng được chứng minh là có tỷ lệ tử vong cao nhất ở bệnh nhân mắc AMI, và cũng tăng lợi ích lớn nhất từ tiêu sợi huyết.
--    Tiêu chuẩn ECG LBBB gợi ý AMI (đặc hiệu cao, nhạy thấp)
+-    Tiêu chuẩn ECG LBBB gợi ý AMI (đặc hiệu cao, nhạy thấp):
 	- ST chênh lên > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là dương (tức là V5, V6).
 	- ST chênh xuống > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là âm (tức là V1, V2, V3).
 	- ST chênh lên > 5mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là âm (tức là V1, V2, V3).
 {% include img/full.html src="/img/post/thought/hinh19.png" des="Hình 9. LBBB điển hình" %}
 {% include img/full.html src="/img/post/thought/hinh110.png" des="Hình 10. ST chênh lên > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là dương (tức là V5, V6)." %}
 
+#### ECG bình thường
+
+-     Một ECG bình thường làm giảm đáng kể xác suất AMI. Tuy nhiên, điều đó không làm giảm xác suất này đủ để cho phép xuất viện an toàn chỉ dựa trên bệnh sử và ECG. Do đó, những bệnh nhân bị đau ngực do nghi ngờ thiếu máu cơ tim cục bộ và có ECG bình thường nên được xét nghiệm chẩn đoán thêm (ví dụ, men tim), trước khi có thể tự tin được gán cho nhóm nguy cơ thấp.
+
+### Các marker sinh hóa
+
+-     Troponins được ưa dùng hơn trong ACS vì nhạy và đặc hiệu hơn CK-MB
 
 
 
