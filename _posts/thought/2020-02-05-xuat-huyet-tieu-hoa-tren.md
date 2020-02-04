@@ -6,8 +6,7 @@ categories: thought
 img: Upper-Gastrointestinal-Haemorrhage.jpg
 notnumbering: 1
 ---
-
-<div style="text-align: justify"> 
+ 
 ## Bối cảnh và định nghĩa
 
 ### Bối cảnh
@@ -130,6 +129,5 @@ notnumbering: 1
 ## Cạm bẫy
 - Điều quan trọng nhất trong số này là không nhận ra những bệnh nhân cần hồi sức kịp thời, nội soi khẩn cấp và nhập viện chăm sóc tích cực (bất thường về huyết động hoặc điểm Rockall từ ba điểm trở lên).
 - Ở một bệnh nhân bị sốc không có nguyên nhân rõ ràng, phải thực hiện khám trực tràng sớm để tránh bỏ sót tiêu phân đen. Cần nhận ra bệnh nhân bị hạ huyết áp tư thế không rõ nguyên nhân hoặc ngất.
-</div>
 
 
