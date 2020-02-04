@@ -119,7 +119,7 @@ notnumbering: 1
 
 #### ECG bình thường
 
--    Một ECG bình thường làm giảm đáng kể xác suất AMI. Tuy nhiên, điều đó không làm giảm xác suất này đủ để cho phép xuất viện an toàn chỉ dựa trên bệnh sử và ECG. Do đó, những bệnh nhân bị đau ngực do nghi ngờ thiếu máu cơ tim cục bộ và có ECG bình thường nên được xét nghiệm chẩn đoán thêm (ví dụ, men tim), trước khi có thể tự tin được gán cho nhóm nguy cơ thấp.
+-    Một ECG bình thường làm giảm đáng kể xác suất AMI. Tuy nhiên, điều đó không làm giảm xác suất đủ để cho bệnh nhân xuất viện an toàn nếu chỉ dựa trên bệnh sử và ECG. Do đó, những bệnh nhân bị đau ngực nghi ngờ do thiếu máu cơ tim cục bộ và có ECG bình thường nên được xét nghiệm chẩn đoán thêm (ví dụ, men tim), trước khi có thể tự tin được gán cho nhóm nguy cơ thấp.
 
 ### Các marker sinh hóa
 
@@ -131,7 +131,7 @@ notnumbering: 1
 -    Nồng độ Troponin tăng trong vòng 12 giờ và duy trì ở mức tối đa 2 tuần, có thể che dấu các đợt tái nhồi máu sớm → CK-MB hữu ích trong trường hợp này.
 -    Ngoài ra, Troponin có thể tăng trong bệnh cảnh tổn thương cơ tim (không do thiếu máu cục bộ hoặc thiếu máu cục bộ thứ phát) hoặc không tổn thương cơ tim (như suy thận).  
 
-{% include img/full.html src="/img/post/thought/hinhthem.png" des="Hình. Các nguyên nhân tăng troponin" %}
+{% include img/full-50.html src="/img/post/thought/hinhthem.png" des="Hình. Các nguyên nhân tăng troponin" %}
 
 ### Phân tầng nguy cơ
 
@@ -154,6 +154,7 @@ notnumbering: 1
 ### Điều trị cụ thể STEMI
 
 -    Ưu tiên của điều trị sớm là thiết lập tái tưới máu cơ tim bị ảnh hưởng. Các lựa chọn thay thế hiện nay để đạt được mục tiêu này là cơ học (can thiệp mạch vành qua da (PCI) hoặc dược lý (tiêu sợi huyết)).
+
 #### Can thiệp mạch vành qua da nguyên phát (PPCI)
 -    Tức là nong mạch vành hoặc đặt stent mà không dùng tiêu sợi huyết trước đó hoặc dùng đồng thời. Vừa đạt được mục đích tái tưới máu vừa không làm tăng nguy cơ xuất huyết.
 -    Lợi ích của PPCI so với tiêu sợi huyết rõ ràng ở thời điểm trên 3h kể từ lúc đau ngực, còn trước 3h thì không rõ ràng.
