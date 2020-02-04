@@ -125,6 +125,7 @@ notnumbering: 1
 -     Thời điểm xét nghiệm troponin có tầm quan trọng rất lớn: 
 	- Bệnh nhân có ECG bình thường hoặc không giúp chẩn đoán thì xét nghiệm sau 6 đến 12 tiếng từ khi đau ngực để an toàn nói rằng bệnh nhân có nguy cơ thấp. 
 	- Bệnh nhân có ECG gợi ý NSTEMI hoặc UA, xét nghiệm troponin có thể được thực hiện ngay tại thời điểm đó vì sẽ xác định chẩn đoán, giúp phân tầng nguy cơ ban đầu và ảnh hưởng đến các chiến lược điều trị. 
-	- Bệnh nhân có ST chênh lên không cần xét nghiệm troponin khẩn cấp vì chiến lược điều trị ban đầu của họ được xác định bằng cách trình bày lâm sàng và phát hiện ECG.
+	- Bệnh nhân có ST chênh lên không cần xét nghiệm troponin khẩn cấp vì chiến lược điều trị ban đầu của họ được xác định bằng cách trình bày lâm sàng và phát hiện ECG
+
 
 
