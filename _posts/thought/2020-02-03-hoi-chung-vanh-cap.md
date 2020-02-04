@@ -222,4 +222,36 @@ notnumbering: 1
 	 - Nên dùng ở bệnh nhân NSTE-ASC (khi không có chống chỉ định). Dùng đường nào cũng được. Một số thuốc như atenolol, metoprolol, bisoprolol.
 -    Chẹn kênh canxi
 	 - Không có vai trò gì ngoại trừ thay thế chẹn beta khi có chống chỉ định.
+{% include img/full-50.html src="/img/post/thought/hinhthem4.png" des="Đánh giá nguy cơ ban đầu và quản lý ACS bằng thang điểm GRACE theo NICE" %}
+
+### Điều trị biến chứng
+
+#### Phù phổi
+-    Suy tim trái với phù phổi biểu hiện khó thở, giảm SaO2, nhịp tim nhanh, tiếng T3, ran phổi. Khám lâm sàng để phân biệt các nguyên nhân gây suy tim khác trong bệnh cảnh AMI (rối loạn nhịp, bất thường van tim). Xquang ngực xác nhận phù phổi, siêu âm tim để xem chức năng thất trái).
+-    Điều trị bao gồm điều trị tái tưới máu, điều trị suy thất trái và phù phổi (LMNOP).
+
+#### Sốc tim
+-    Suy thất trái:
+	 - Hậu quả thường gặp của AMI, hay gặp AMI thành trước hoặc có LBBB. Đặc trưng bởi giảm tưới máu hệ thống (tri giác lơ mơ, tim nhanh, tụt HA, tay chân lạnh ẩm, CRT > 2s, tiểu ít-vô niệu). Đánh giá lâm sàng cần phải loại trừ các nguyên nhân khác gây tụt HA (giảm thể tích tuần hoàn, rối loạn nhịp, do thuốc, biến chứng cơ học của AMI, đặc biệt là nhồi máu thất phải vì điều trị khác hoàn toàn).
+	 - Điều trị tái tưới máu sớm, điều trị tụt huyết áp nếu cần, đặc biệt khi có bằng chứng giảm tưới máu não và thận.
+-    Suy thất phải:
+	 - Nhồi máu thất phải thường đi kèm nhồi máu cơ tim thành dưới, mặc dù có thể xảy ra đơn độc. Biểu hiện: tụt huyết áp, tĩnh mạch cổ phồng. Khi thấy nhồi máu cơ tim thành dưới cần mắc thêm chuyển đạo V4R để xem có nhồi máu thất phải không. Siêu âm tim mô tả rối loạn chức năng thất phải, van ba lá do thất phải giãn.
+	 - Điều quan trọng là phải nhận ra tụt huyết áp do nhồi máu thất phải. Điều sống còn là cần duy trì preload thất phải bằng các dùng nitrat. Tuy nhiên đây là một thách thức vì gây tụt huyết áp nặng thêm.
+
+#### Biến chứng cơ học
+-    Hở van hai lá:
+	 - Dấu hiệu trụy huyết động đột ngột + âm thổi tâm thu mới xuất hiện gợi ý hở 2 lá. Siêu âm tim để chẩn đoán xác định.
+	 - Điều trị tái tưới máu + phẫu thuật sửa van khẩn cấp song song với ổn định huyết động.
+-    Vỡ vách liên thất:
+	 - Biến chứng thường gặp nhất của AMI thành trước và thành sau. Lâm sàng không thể phân biệt được với hở 2 lá và phải xác nhận bằng siêu âm tim.
+	 - Điều trị tái tưới máu + phẫu thuật sửa van khẩn cấp song song với ổn định huyết động.
+-    Vỡ tim và chèn ép tim:
+	 - Vỡ thành tim cấp thì gây tử vong, bán cấp thì gây chèn ép tim do tràn máu ra khoang màng ngoài tim.
+	 - Điều trị tái tưới máu + phẫu thuật + chọc dò màng ngoài tim song song với ổn định huyết động.
+ 
+
+
+
+
+
   	
