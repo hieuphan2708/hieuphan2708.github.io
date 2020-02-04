@@ -88,6 +88,11 @@ notnumbering: 1
 	- Co thắt mạch vành tự giải quyết.
 
 {% include img/full.html src="/img/post/thought/hinh14.png" des="Hình 4. AMI thành dưới. ST chênh lên ở chuyển đạo II, III, aVF và ST chênh xuống ở những chuyển đạo soi gương V1, V2, V3 có thể là AMI thành sau" %}
+{% include img/full.html src="/img/post/thought/hinh15.png" des="Hình 5. AMI thành trước. ST chênh lên ở chuyển đạo V1, V2, V3, V4 và ST chênh xuống ở những chuyển đạo soi gương II, III, aVF" %}
+
+#### ST chênh xuống/thay đổi sóng T (xem hình 6)
+-   Sự hiện diện của ST chênh xuống/thay đổi sóng T trong bối cảnh đau ngực do thiếu máu cục bộ cấp tính thường biểu hiện thiếu máu cơ tim (tức là đau thắt ngực không ổn định) nhưng cũng liên quan đến khả năng AMI (tức NSTEMI- xem Bảng 5). Khoảng 50% bệnh nhân ST chênh xuống và 33% bệnh nhân bị đảo ngược sóng T được chứng minh sau đó là bị nhồi máu cơ tim.
+{% include img/full.html src="/img/post/thought/hinh16.png" des="Hình 6. AMI với ST chênh xuống và sóng T đảo. ST chênh xuống ở chuyển đạo thành bên V4-V6, I, aVL và sóng T đảo ở những chuyển đạo thành dưới II, III, aVF" %}
 
 
 
