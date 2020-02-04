@@ -64,7 +64,9 @@ notnumbering: 1
 
 {% include img/full-50.html src="/img/post/thought/bang14.png" des="Bảng 4. Mô tả đặc trưng của các triệu chứng liên quan đến các nguyên nhân chính gây đau ngực" %}
 {% include img/full.html src="/img/post/thought/hinh13.png" des="Hình 3. Đau ngực do tim và không do tim" %}
+
 ## Chiến lược khảo sát
+
 ### ECG
 -   ECG sẽ quyết định trực tiếp đến các bước tiếp theo:
 	- Chiến lược tái tưới máu cơ hoặc ngay lập tức (tức là ST chênh lên). 
@@ -74,13 +76,17 @@ notnumbering: 1
 	- ST chênh lên ở ít nhất hai chuyển đạo liên tiếp nhau (lớn hơn 0,2mV ở các chuyển đạo V1, V2 hoặc V3 và lớn hơn 0,1mV ở các chuyển đạo khác).
 	- ST chênh xuống.
 	- Chỉ có bất thường sóng T.
+
 {% include img/full-50.html src="/img/post/thought/bang15.png" des="Bảng 5. Giá trị của những thay đổi trên ECG để chẩn đoán AMI" %}
+
 #### ST chênh lên (xem hình 4 và hình 5)
+
 -   Sự hiện diện của ST chênh lên, sự hình thành sóng Q hoặc khiếm khuyết dẫn truyền mới xuất hiện (ví dụ: block nhánh nhánh trái) trong bối cảnh đau ngực do thiếu máu cục bộ cấp tính có khả năng cao là AMI.
 -   Tuy nhiên ECG tự nó không thể xác định AMI, phải chứng minh bằng men tim.
 -   Có những tình huống mà ST chênh lên không nhất thiết chỉ ra rằng hoại tử cơ tim đã hoặc sẽ xảy ra:
 	- Đã bị nhồi máu cơ tim nhưng đã tái tưới máu sớm.
 	- Co thắt mạch vành tự giải quyết.
+
 {% include img/full.html src="/img/post/thought/hinh14.png" des="Hình 4. AMI thành dưới" %}
 
 
