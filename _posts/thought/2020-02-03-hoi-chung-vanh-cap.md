@@ -97,7 +97,7 @@ notnumbering: 1
 
 #### Bổ sung thêm chuyển đạo
 
--    Cần bổ sung thêm chuyển đạo nếu nghi ngờ nhồi máu thành sau (V7, V8, V9) hoặc nhồi máu thất phải (V4R), cụ thể như sau:
+-   Cần bổ sung thêm chuyển đạo nếu nghi ngờ nhồi máu thành sau (V7, V8, V9) hoặc nhồi máu thất phải (V4R), cụ thể như sau:
 
 	- ST chênh lên ở thành dưới vì nếu AMI thành dưới sẽ dễ xảy ra thêm AMI thành sau và AMI thất phải sau đó. Cụ thể là do AMI thành dưới 80% tưới máu bởi động mạch vành phải (cũng là động mạch tưới máu cho thất phải) và 20% do động mạch mũ trái (cũng là động mạch cấp máu cho thành sau).
 	- ST chênh xuống ở thành trước vách (tức V1-V3) (thường chỉ ra tình trạng thiếu máu cục bộ) nhưng có thể là AMI thành sau bị che dấu (V1-V3 là chuyển đạo soi gương của thành sau).
@@ -108,8 +108,8 @@ notnumbering: 1
 
 #### Block nhánh trái (xem hình 9 và hình 10)
 
--    Bệnh nhân bị đau tim do thiếu máu cục bộ và block nhánh nhánh trái (LBBB) nên được cho là AMI và nên được xem xét điều trị tái tưới máu ngay lập tức, vì chúng được chứng minh là có tỷ lệ tử vong cao nhất ở bệnh nhân mắc AMI, và cũng tăng lợi ích lớn nhất từ tiêu sợi huyết.
--    Tiêu chuẩn ECG LBBB gợi ý AMI (đặc hiệu cao, nhạy thấp):
+-   Bệnh nhân bị đau tim do thiếu máu cục bộ và block nhánh nhánh trái (LBBB) nên được cho là AMI và nên được xem xét điều trị tái tưới máu ngay lập tức, vì chúng được chứng minh là có tỷ lệ tử vong cao nhất ở bệnh nhân mắc AMI, và cũng tăng lợi ích lớn nhất từ tiêu sợi huyết.
+-   Tiêu chuẩn ECG LBBB gợi ý AMI (đặc hiệu cao, nhạy thấp):
 
 	- ST chênh lên > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là dương (tức là V5, V6).
 	- ST chênh xuống > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là âm (tức là V1, V2, V3).
@@ -119,31 +119,44 @@ notnumbering: 1
 
 #### ECG bình thường
 
--     Một ECG bình thường làm giảm đáng kể xác suất AMI. Tuy nhiên, điều đó không làm giảm xác suất này đủ để cho phép xuất viện an toàn chỉ dựa trên bệnh sử và ECG. Do đó, những bệnh nhân bị đau ngực do nghi ngờ thiếu máu cơ tim cục bộ và có ECG bình thường nên được xét nghiệm chẩn đoán thêm (ví dụ, men tim), trước khi có thể tự tin được gán cho nhóm nguy cơ thấp.
+-    Một ECG bình thường làm giảm đáng kể xác suất AMI. Tuy nhiên, điều đó không làm giảm xác suất này đủ để cho phép xuất viện an toàn chỉ dựa trên bệnh sử và ECG. Do đó, những bệnh nhân bị đau ngực do nghi ngờ thiếu máu cơ tim cục bộ và có ECG bình thường nên được xét nghiệm chẩn đoán thêm (ví dụ, men tim), trước khi có thể tự tin được gán cho nhóm nguy cơ thấp.
 
 ### Các marker sinh hóa
 
--     Troponins được ưa dùng hơn trong ACS vì nhạy và đặc hiệu hơn CK-MB
--     Thời điểm xét nghiệm troponin có tầm quan trọng rất lớn: 
+-    Troponins được ưa dùng hơn trong ACS vì nhạy và đặc hiệu hơn CK-MB
+-    Thời điểm xét nghiệm troponin có tầm quan trọng rất lớn: 
 	- Bệnh nhân có ECG bình thường hoặc không giúp chẩn đoán thì xét nghiệm sau 6 đến 12 tiếng từ khi đau ngực để an toàn nói rằng bệnh nhân có nguy cơ thấp. 
 	- Bệnh nhân có ECG gợi ý NSTEMI hoặc UA, xét nghiệm troponin có thể được thực hiện ngay tại thời điểm đó vì sẽ xác định chẩn đoán, giúp phân tầng nguy cơ ban đầu và ảnh hưởng đến các chiến lược điều trị. 
 	- Bệnh nhân có ST chênh lên không cần xét nghiệm troponin khẩn cấp vì chiến lược điều trị ban đầu của họ được xác định bằng cách trình bày lâm sàng và phát hiện ECG.
--     Nồng độ Troponin tăng trong vòng 12 giờ và duy trì ở mức tối đa 2 tuần, có thể che dấu các đợt tái nhồi máu sớm → CK-MB hữu ích trong trường hợp này.
--     Ngoài ra, Troponin có thể tăng trong bệnh cảnh tổn thương cơ tim (không do thiếu máu cục bộ hoặc thiếu máu cục bộ thứ phát) hoặc không tổn thương cơ tim (như suy thận).  
+-    Nồng độ Troponin tăng trong vòng 12 giờ và duy trì ở mức tối đa 2 tuần, có thể che dấu các đợt tái nhồi máu sớm → CK-MB hữu ích trong trường hợp này.
+-    Ngoài ra, Troponin có thể tăng trong bệnh cảnh tổn thương cơ tim (không do thiếu máu cục bộ hoặc thiếu máu cục bộ thứ phát) hoặc không tổn thương cơ tim (như suy thận).  
 
 {% include img/full.html src="/img/post/thought/hinhthem.png" des="Hình. Các nguyên nhân tăng troponin" %}
 
 ### Phân tầng nguy cơ
 
--     Trái ngược với bệnh nhân STEMI, phân tầng nguy cơ ở bệnh nhân NSTE-ACS không chỉ xác định tiên lượng mà còn ảnh hưởng trực tiếp đến các lựa chọn điều trị.
--     Tuy nhiên, bệnh nhân NSTE-ACS là một quần thể không đồng nhất với các mức độ khác nhau của bệnh xơ vữa động mạch và nguy cơ huyết khối. Để lựa chọn phương pháp điều trị phù hợp nhất, phân tầng rủi ro *sớm* và *lặp đi lặp lại* nên được thực hiện vì lợi ích từ các chiến lược điều trị tích cực nhất định có liên quan đến nguy cơ càng cao thì lợi ích càng lớn.
--     Hai thang điểm phân tầng nguy cơ thường dùng nhất là TIMI và GRACE.
+-    Trái ngược với bệnh nhân STEMI, phân tầng nguy cơ ở bệnh nhân NSTE-ACS không chỉ xác định tiên lượng mà còn ảnh hưởng trực tiếp đến các lựa chọn điều trị.
+-    Tuy nhiên, bệnh nhân NSTE-ACS là một quần thể không đồng nhất với các mức độ khác nhau của bệnh xơ vữa động mạch và nguy cơ huyết khối. Để lựa chọn phương pháp điều trị phù hợp nhất, phân tầng rủi ro *sớm* và *lặp đi lặp lại* nên được thực hiện vì lợi ích từ các chiến lược điều trị tích cực nhất định có liên quan đến nguy cơ càng cao thì lợi ích càng lớn.
+-    Hai thang điểm phân tầng nguy cơ thường dùng nhất là TIMI và GRACE.
 
 {% include img/full-50.html src="/img/post/thought/hinhthem2.jpg" des="Thang điểm TIMI. Điểm càng cao nguy cơ càng cao" %}
 {% include img/full-50.html src="/img/post/thought/hinhthem3.jpg" des="Thang điểm GRACE. Phân tầng rủi ro: <1.5%: rất thấp, 1.5-3%: thấp, 3-6%: trung bình, 6-9%: cao, >9%: rất cao" %}
 
-## Điều trị:
+## Điều trị
 
+### Điều trị chung
 
+-    Bản chất ACS là mất cân bằng cung cầu oxy. Việc điều trị là khôi phục lại cân bằng này.
+-    Gồm hai phương pháp: bằng thuốc và can thiệp. Điều trị bằng thuốc chia thành nhóm chống huyết khối (kháng tiểu cầu và chống đông) và nhóm chống thiếu máu cục bộ (giảm nhu cầu oxy (thông qua chronotropic và inotropic) và giãn mạch).
+-    Trước khi điều trị tái tưới máu, điều quan trọng là phải thực hiện can thiệp ban đầu cho tất cả bệnh nhân đau ngực do thiếu máu cục bộ. Cụ thể bao gồm oxy liệu pháp (nếu SaO2 < 94%), giảm đau và lo lắng, sử dụng aspirin và GTN. Đau và lo lắng làm tăng hoạt giao cảm, do đó giảm đau và lo lắng có lợi về mặt sinh lý ở bệnh nhân ACS. Thuốc được chọn là nhóm opiate (diamorphin hoặc morphin) tiêm tĩnh mạch. Đau tái phát không dung nạp với opiate có thể hiệu quả với chẹn beta hoặc nitrats.
+-    Cùng với aspirin, các biện pháp này nên sử dụng càng sớm càng tốt.
+
+### Điều trị cụ thể STEMI
+
+-    Ưu tiên của điều trị sớm là thiết lập tái tưới máu cơ tim bị ảnh hưởng. Các lựa chọn thay thế hiện nay để đạt được mục tiêu này là cơ học (can thiệp mạch vành qua da (PCI) hoặc dược lý (tiêu sợi huyết)).
+#### Can thiệp mạch vành qua da nguyên phát (PPCI)
+-    Tức là nong mạch vành hoặc đặt stent mà không dùng tiêu sợi huyết trước đó hoặc dùng đồng thời.
+-    
+ 
 
 
