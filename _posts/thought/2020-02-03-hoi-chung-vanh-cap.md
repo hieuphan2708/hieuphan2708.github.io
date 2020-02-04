@@ -30,4 +30,11 @@ notnumbering: 1
 -   Huyết khối trong bối cảnh NSTE-ACS rất giàu tiểu cầu; Huyết khối tự ly giải và phân mảnh thành các hạt nhỏ hơn, có thể gây ra nhồi máu xa ở các khu vực nhỏ (nhồi máu vi mô) mà không tắc hoàn toàn động mạch vành. Đây là quá trình được cho là xảy ra trong nhồi máu cơ tim không ST chênh lên (NSTEMI).
 
 -   Phản ứng huyết khối đối với sự phá vỡ mảng xơ là **một quá trình động của tạo huyết khối và tan huyết khối**, các chất trung gian gây co mạch, và mức độ khác nhau của sự kết tập và kết dính tiểu cầu (xem Hình 2). Quá trình cụ thể nào chiếm ưu thế sẽ xác định hội chứng lâm sàng đó (nghĩa là STEMI, NSTEMI hoặc UA).
+
 {% include img/full-50.html src="/img/post/thought/hinh12.gif" des="Hình 2. Quá trình động trong sinh lý bệnh của hội chứng vành cấp" %}
+
+### Diễn tiến tự nhiên và dịch tễ
+
+-   Tỷ lệ mắc NSTE-ACS cao hơn STEMI và dường như số lượng NSTE-ACS so với STEMI đang tăng theo thời gian. Tỷ lệ tử vong nội viện do STEMI cao hơn so với NSTE-ACS nhưng tỷ lệ tử vong dài hạn NSTE-ACS cao hơn. Dường như do tuổi lớn hơn và tỷ lệ bệnh đồng mắc cao hơn (ví dụ đái tháo đường và suy thận) ở nhóm NSTE-ACS.
+
+-   Thật không may, người ta ước tính rằng tỷ lệ tử vong chung của AMI là từ 30 đến 50% với phần lớn các trường hợp tử vong xảy ra trong vòng 2 giờ kể từ khi xuất hiện triệu chứng, thường là trước khi đến bệnh viện hay trước khi được điều trị.
