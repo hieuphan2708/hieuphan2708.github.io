@@ -24,4 +24,7 @@ notnumbering: 1
 ### Vai trò của gan trong hạ đường huyết
 - Các tế bào gan rất quan trọng để dự trữ glycogen và sản xuất glucose sau đó thông qua glycogenolyisis.
 - Gluconeogenesis là quá trình glucose được sản xuất từ các chất không phải carbohydrate bao gồm protein và chất béo.
-- Các bệnh làm giảm khả năng sản xuất glucose của tế bào gan thông qua quá trình glycogenolysis hoặc gluconeogenesis làm tăng nguy cơ hạ đường huyết.
+- Các bệnh làm giảm khả năng sản xuất glucose của tế bào gan thông qua quá trình glycogenolysis hoặc gluconeogenesis làm tăng nguy cơ hạ đường huyết như bệnh gan do rượu.
+
+### Tác động của thuốc hạ đường huyết
+- 
