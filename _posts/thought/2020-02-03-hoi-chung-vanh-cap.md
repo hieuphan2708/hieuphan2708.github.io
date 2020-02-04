@@ -187,6 +187,29 @@ notnumbering: 1
 -    Ticagrelor
 	 - Ức chế thụ thể P2Y12.
 	 - NICE ưu tiên dùng thay Clopidogrel ở BN PPCI và ở BN chống chỉ định với Prasugrel.
+-    Heparin
+	 - Không trực tiếp chống huyết khối mà ngăn ngừa tái tắc sau khi dùng tiêu sợi huyết.
+	 - Heparin không phân đoạn (UH) ức chế thrombin, do đó ngăn fibrinogen chuyển thành fibrin. Cửa sổ điều trị hẹp nên cần chỉnh liều theo cân nặng.
+	 - Heparin trọng lượng phân tử thấp (LMWH) cơ chế tương tự như UH nhưng còn gắn kết thêm với yếu tố Xa giúp chống bị bất hoạt bởi UH. 
+-    Fondaparinux
+	 - Ức chế chọn lọc yếu tố Xa.
+	 - Chỉ định cho nhóm bệnh nhân điều trị TSH hoặc chưa có biện pháp tái tưới máu cụ thể, không chỉ định cho BN PPCI.
+-    Ức chế thụ thể Glp IIb/IIIa
+	 - Không có nghiên cứu nói về vai trò của thuốc này trên BN STEMI.
 
+### Điều trị cụ thể NSTEMI và UA
 
+#### Thuốc chống huyết khối
+-    Aspirin: tương tự như trên
+-    Clopidogrel
+	 - Lợi ích rõ ở bệnh nhân thuộc tất cả các nhóm TIMI, các nhóm GRACE 6 tháng nguy cơ > 1.5% (nhóm nguy cơ thấp trở lên).
+	 - Khuyến nghị tiếp tục trong 12 tháng
+-    Ticagrelor: tương tự như trên
+-    Heparin
+	 - Trong NSTEMI và UA, UH được đưa vào guideline của ESC mặc dù nhiều nghiên cứu cho thấy LMWH cải thiện tiên lượng tốt hơn.
+-    Fondaparinux
+	 - Ít nguy cơ xuất huyết hơn khi so với LMWH.
+	 - Thường được chỉ định ở bệnh nhân không có chỉ định với PCI khẩn (< 120 phút).
+-    Ức chế thụ thể Glp IIb/IIIa
+	
 	
