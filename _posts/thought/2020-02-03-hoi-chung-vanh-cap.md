@@ -158,6 +158,7 @@ notnumbering: 1
 	 - PPCI thường được ưu tiên nếu
 		- Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) < 120 phút hoặc thời gian đau ngực < 90 phút.
  		- Bệnh nhân sốc tim và bệnh nhân có chống chỉ định với tiêu sợi huyết bất kể thời gian đau ngực.
+
  	 - Tiêu sợi huyết thường được ưu tiên nếu
 		- Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) > 120 phút.
 
@@ -168,6 +169,9 @@ notnumbering: 1
 #### Tiêu sợi huyết (TSH)
 -    Nguy cơ chính là xuất huyết, đặc biệt là xuất huyết não, nguy cơ tối đa là 24h sau khi dùng tiêu sợi huyết. Các yếu tố nguy cơ của TSH là nữ, lớn tuổi, nhẹ cân và huyết áp cao lúc nhập viện.
 -    Chống chỉ định tiêu sợi huyết như sau:
-
+-    Hạn chế chính của TSH là tái tưới máu thất bại (ST chênh lên không mất sau 90 phút kể từ lúc TSH) → PCI cứu vãn (PCI được thực hiện trên động mạch vành vẫn bị tắc mặc dù đã dùng TSH).
+<div class="alert alert-warning" role="alert">
+  Có nên điều trị TSH cho bệnh nhân dùng warfarin?
+</div>
 
 
