@@ -31,6 +31,13 @@ notnumbering: 1
 {% include img/full.html src="/img/post/thought/hypg.png.png" des="Tác động của thuốc hạ đường huyết" %}
 
 ### Tác động của các hormone khác
-- 
+- Khi bị hạ đường huyết, cơ thể sẽ tự bảo vệ mình bằng cách:
+	- Ức chế bài tiết insulin nội sinh.
+	- Một chuỗi các tác dụng hormone đối kháng.
+- Trong giai đoạn cấp, giải phóng hormone đối kháng là glucagon từ tuyến tụy và catecholamine từ tuyến thượng thận kích thích glycogenolysis và gluconeogenesis.
+- Tuy nhiên, nếu gan không thể đáp ứng do dự trữ glycogen không đủ hoặc có bệnh gan, thì tác dụng của glucagon sẽ không hiệu quả và gluconeogenesis đóng vai trò lớn hơn.
+- Cortisol và hormone tăng trưởng có vai trò tương tự trong giai đoạn sau của hạ đường huyết.
+
+
 
 
