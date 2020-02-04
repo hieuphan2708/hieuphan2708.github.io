@@ -176,14 +176,14 @@ notnumbering: 1
 
 #### Các biện pháp chống huyết khối phụ trợ
 -    Aspirin
-	- Ức chế không hồi phục acetylates platelet cyclooxygenase → ức chế kết tập tiểu cầu.
-	- Nên được dùng sớm (nếu không có chống chỉ định: dị ứng, đang xuất huyết) ở tất cả các bệnh nhân đau ngực do thiếu máu cục bộ.
-	- Dùng liều tải 150-325 mg, tiếp tục đến hết đời liều 75-100mg.
+	 - Ức chế không hồi phục acetylates platelet cyclooxygenase → ức chế kết tập tiểu cầu.
+	 - Nên được dùng sớm (nếu không có chống chỉ định: dị ứng, đang xuất huyết) ở tất cả các bệnh nhân đau ngực do thiếu máu cục bộ.
+	 - Dùng liều tải 150-325 mg, tiếp tục đến hết đời liều 75-100mg.
 -    Clopidogrel
-	- Thúc đẩy tạo ra platelet c-AMP, giảm platelet calcium + ngăn thụ thể Glp IIb/IIIa chuyển sang dạng ái lực cao → ức chế kết tập tiểu cầu.
+	 - Thúc đẩy tạo ra platelet c-AMP, giảm platelet calcium + ngăn thụ thể Glp IIb/IIIa chuyển sang dạng ái lực cao → ức chế kết tập tiểu cầu.
 -    Prasugrel
-	- Cơ chế tương tự Clopidogrel. 
-	- NICE ưu tiên dùng thay Clopidogrel ở BN PPCI.
+	 - Cơ chế tương tự Clopidogrel. 
+	 - NICE ưu tiên dùng thay Clopidogrel ở BN PPCI.
 -    
 
 	
