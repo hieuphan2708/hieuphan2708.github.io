@@ -27,4 +27,10 @@ notnumbering: 1
 - Các bệnh làm giảm khả năng sản xuất glucose của tế bào gan thông qua quá trình glycogenolysis hoặc gluconeogenesis làm tăng nguy cơ hạ đường huyết như bệnh gan do rượu.
 
 ### Tác động của thuốc hạ đường huyết
+ 
+{% include img/full.html src="/img/post/thought/hypg.png.png" des="Tác động của thuốc hạ đường huyết" %}
+
+### Tác động của các hormone khác
 - 
+
+
