@@ -28,7 +28,7 @@ notnumbering: 1
 
 ### Tác động của thuốc hạ đường huyết
  
-{% include img/full.html src="/img/post/thought/hypg.png.png" des="Tác động của thuốc hạ đường huyết" %}
+{% include img/full.html src="/img/post/thought/hypg.png" des="Tác động của thuốc hạ đường huyết" %}
 
 ### Tác động của các hormone khác
 - Khi bị hạ đường huyết, cơ thể sẽ tự bảo vệ mình bằng cách:
