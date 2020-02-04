@@ -70,7 +70,7 @@ notnumbering: 1
 - Đánh giá tỉ lệ tử vong.
 - Điểm số bao gồm ba thông số lâm sàng (tuổi, sự hiện diện của sốc và bệnh đồng mắc) và hai thông số dựa trên kết quả nội soi (máu và chẩn đoán). Điểm Rockall trước khi nội soi tối đa là 7 và sau khi nội soi là 11. Điểm Rockall là 3 trước khi nội soi tỷ lệ tử vong ~ 10% và điểm 6 tỷ lệ tử vong ~ 50%.
 - Nhược điểm chính của thang điểm Rockall là nó đòi hỏi nội soi để tính toán tất cả các thành phần của thang điểm. Tuy nhiên, thang điểm trước khi nội soi có thể được sử dụng để giúp xác định những người có tỷ lệ tử vong cao có thể được hưởng lợi từ việc nhập đơn vị chăm sóc tích cực.
-{% include img/full-50.html src="/img/post/thought/Rockall.png" des="Thang điểm Rockall" %}
+{% include img/full.html src="/img/post/thought/Rockall.png" des="Thang điểm Rockall" %}
 <div class="alert alert-danger" role="alert">
   Cả hai thang điểm Glasgow-Blatchford và Rockall đều là những công cụ hữu ích để hỗ trợ bác sĩ lâm sàng trong việc xác định nguy cơ xuất huyết tiêu hóa trên. Thang điểm Blatchford có thể được sử dụng cùng với đánh giá lâm sàng để xác định bệnh nhân có nguy cơ thấp có thể phù hợp để xuất viện.
 </div>
