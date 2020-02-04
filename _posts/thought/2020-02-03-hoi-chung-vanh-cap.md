@@ -52,5 +52,8 @@ notnumbering: 1
 {% include img/full.html src="/img/post/thought/bang11.jpg" des="Bảng 1. Giá trị của các thành phần cụ thể của bệnh sử đau ngực trong chẩn đoán nhồi máu cơ tim cấp" %}
 
 -   Do đó, dựa trên những phân tích này, bệnh sử đau ngực là có ích, nhưng không phải chẩn đoán, bước đầu tiên trong đánh giá của những bệnh nhân này. Cụ thể, không có yếu tố duy nhất nào trong bệnh sử mang theo tỷ lệ khả năng đủ mạnh để cho phép bác sĩ cấp cứu cho bệnh nhân xuất viện an toàn mà không cần xét nghiệm chẩn đoán thêm. Các nghiên cứu đã nhắc lại rằng lâm sàng mặc dù gợi ý, không thể được sử dụng để chẩn đoán hoặc loại trừ ACS.
--   Tuy nhiên, bệnh sử hình thành một điểm khởi đầu trong quá trình chẩn đoán, thành lập rộng liệu cơn đau có khả năng là thiếu máu cơ tim (hoặc không) hay không; nó cung cấp thông tin để thêm vào các yếu tố nguy cơ giúp chẩn đoán nhiều hoặc ít khả năng ACS.
+-   Tuy nhiên, bệnh sử hình thành một điểm khởi đầu trong quá trình chẩn đoán, thành lập rộng liệu cơn đau có khả năng là thiếu máu cơ tim (hoặc không) hay không; nó cung cấp thông tin để thêm vào các yếu tố nguy cơ (xem Bảng 2) giúp chẩn đoán nhiều hoặc ít khả năng ACS.
 {% include img/full-50.html src="/img/post/thought/bang12.jpg" des="Bảng 2. Yếu tố nguy cơ ACS" %}
+### Khám thực thể
+-   Các phát hiện liên quan đến ACS thường không đặc hiệu và bao gồm xanh xao, lo lắng, đổ mồ hôi, nhịp tim nhanh và nhịp thở nhanh. Nói chung, các phát hiện cụ thể có liên quan đến các nguyên nhân khác (không do thiếu máu cục bộ) đối với đau ngực hoặc có liên quan đến các biến chứng của AMI (xem Bảng 3)
+{% include img/full.html src="/img/post/thought/bang13.png" des="Bảng 3. Giá trị của những phát hiện thực thể để chẩn đoán AMI" %}
