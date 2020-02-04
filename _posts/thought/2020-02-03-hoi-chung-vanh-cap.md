@@ -53,15 +53,40 @@ notnumbering: 1
 
 -   Do đó, dựa trên những phân tích này, bệnh sử đau ngực là có ích, nhưng không phải chẩn đoán, bước đầu tiên trong đánh giá của những bệnh nhân này. Cụ thể, không có yếu tố duy nhất nào trong bệnh sử mang theo tỷ lệ khả năng đủ mạnh để cho phép bác sĩ cấp cứu cho bệnh nhân xuất viện an toàn mà không cần xét nghiệm chẩn đoán thêm. Các nghiên cứu đã nhắc lại rằng lâm sàng mặc dù gợi ý, không thể được sử dụng để chẩn đoán hoặc loại trừ ACS.
 -   Tuy nhiên, bệnh sử hình thành một điểm khởi đầu trong quá trình chẩn đoán, thành lập rộng liệu cơn đau có khả năng là thiếu máu cơ tim (hoặc không) hay không; nó cung cấp thông tin để thêm vào các yếu tố nguy cơ (xem Bảng 2) giúp chẩn đoán nhiều hoặc ít khả năng ACS.
-{% include img/full.html src="/img/post/thought/bang12.jpg" des="Bảng 2. Yếu tố nguy cơ ACS" %}
+{% include img/full-50.html src="/img/post/thought/bang12.jpg" des="Bảng 2. Yếu tố nguy cơ ACS" %}
 ### Khám thực thể
 -   Các phát hiện liên quan đến ACS thường không đặc hiệu và bao gồm xanh xao, lo lắng, đổ mồ hôi, nhịp tim nhanh và nhịp thở nhanh. Nói chung, các phát hiện cụ thể có liên quan đến các nguyên nhân khác (không do thiếu máu cục bộ) đối với đau ngực hoặc có liên quan đến các biến chứng của AMI (xem Bảng 3)
-{% include img/full.html src="/img/post/thought/bang13.png" des="Bảng 3. Giá trị của những phát hiện thực thể để chẩn đoán AMI" %}
+{% include img/full-50.html src="/img/post/thought/bang13.png" des="Bảng 3. Giá trị của những phát hiện thực thể để chẩn đoán AMI" %}
 
 ## Chẩn đoán phân biệt
 -   Một trong những mục đích chính của việc đánh giá sớm và nhanh chóng bệnh nhân bị đau ngực là xác định các tình trạng đe dọa tính mạng và đặc biệt là *chẩn đoán hoặc loại trừ hội chứng vành cấp (ACS).*
 -   Mô tả kỹ lưỡng về cơn đau là bước đầu tiên trong quá trình chẩn đoán và sẽ giúp tạo ra sự khác biệt ban đầu giữa *đau ngực do tim và không do tim* và *đau do thiếu máu cục bộ và không do thiếu máu cục bộ* (Xem Bảng 4 và Hình 3). Đánh giá triệu chứng sẽ bao gồm mô tả đặc điểm của cơn đau, vị trí, mức độ nghiêm trọng và bức xạ của cơn đau, khởi phát và thời gian của cơn đau, làm giảm và làm nặng thêm các triệu chứng và các triệu chứng liên quan. Các tính năng quan trọng khác của bệnh sử sẽ bao gồm xác định yếu tố nguy cơ, các đợt đau ngực trước đây và tiền sử bệnh lý.
 
-{% include img/full.html src="/img/post/thought/bang14.png" des="Bảng 4. Mô tả đặc trưng của các triệu chứng liên quan đến các nguyên nhân chính gây đau ngực" %}
+{% include img/full-50.html src="/img/post/thought/bang14.png" des="Bảng 4. Mô tả đặc trưng của các triệu chứng liên quan đến các nguyên nhân chính gây đau ngực" %}
 {% include img/full.html src="/img/post/thought/hinh13.png" des="Hình 3. Đau ngực do tim và không do tim" %}
+## Chiến lược khảo sát
+### ECG
+-   ECG sẽ quyết định trực tiếp đến các bước tiếp theo:
+	- Chiến lược tái tưới máu cơ hoặc ngay lập tức (tức là ST chênh lên). 
+	- Chiến lược chống huyết khối và chống tiểu cầu (tức là ST chênh xuống hoặc sóng T đảo). 
+	- Chiến lược loại trừ (ECG bình thường).
+-   Những thay đổi ECG sau đây là dấu hiệu của thiếu máu cơ tim có thể tiến triển thành AMI:
+	- ST chênh lên ở ít nhất hai chuyển đạo liên tiếp nhau (lớn hơn 0,2mV ở các chuyển đạo V1, V2 hoặc V3 và lớn hơn 0,1mV ở các chuyển đạo khác).
+	- ST chênh xuống.
+	- Chỉ có bất thường sóng T.
+{% include img/full-50.html src="/img/post/thought/bang15.png" des="Bảng 5. Giá trị của những thay đổi trên ECG để chẩn đoán AMI" %}
+#### ST chênh lên (xem hình 4 và hình 5)
+-   Sự hiện diện của ST chênh lên, sự hình thành sóng Q hoặc khiếm khuyết dẫn truyền mới xuất hiện (ví dụ: block nhánh nhánh trái) trong bối cảnh đau ngực do thiếu máu cục bộ cấp tính có khả năng cao là AMI.
+-   Tuy nhiên ECG tự nó không thể xác định AMI, phải chứng minh bằng men tim.
+-   Có những tình huống mà ST chênh lên không nhất thiết chỉ ra rằng hoại tử cơ tim đã hoặc sẽ xảy ra:
+	- Đã bị nhồi máu cơ tim nhưng đã tái tưới máu sớm.
+	- Co thắt mạch vành tự giải quyết.
+{% include img/full.html src="/img/post/thought/hinh14.png" des="Hình 4. AMI thành dưới" %}
+
+
+
+  
+
+
+
 
