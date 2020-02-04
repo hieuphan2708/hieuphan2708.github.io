@@ -38,6 +38,14 @@ notnumbering: 1
 - Tuy nhiên, nếu gan không thể đáp ứng do dự trữ glycogen không đủ hoặc có bệnh gan, thì tác dụng của glucagon sẽ không hiệu quả và gluconeogenesis đóng vai trò lớn hơn.
 - Cortisol và hormone tăng trưởng có vai trò tương tự trong giai đoạn sau của hạ đường huyết.
 - Ở những người không mắc bệnh đái tháo đường, các hormone đối kháng được giải phóng ở mức đường huyết 3,8 mmol/L, các triệu chứng hạ đường huyết bắt đầu ở mức đường huyết khoảng 3,0mmol/L với rối loạn chức năng nhận thức ở mức dưới 2 mmol/L. Tuy nhiên, những tác dụng này xảy ra ở các mức độ khác nhau ở bệnh nhân đái tháo đường, một phần phụ thuộc vào kiểm soát đường huyết của họ trước đây.
+- Ở bệnh nhân đái tháo đường type 1, đáp ứng glucagon nội sinh đối với tình trạng hạ đường huyết giảm hoặc mất trong một vài năm chẩn đoán. Tuy nhiên, nếu bệnh nhân tiếp tục đáp ứng với glucagon ngoại sinh, do đó có vai trò của nó trong điều trị. Đáp ứng catecholamine cũng có thể bị suy giảm hoặc xảy ra ở mức glucose thấp hơn tạo ra ít dấu hiệu cảnh báo hơn và có ít thời gian hơn để có biện pháp khắc phục.
+- Ở bệnh nhân đái tháo đường type 2, tác dụng của các hormone đối kháng cũng như việc bài tiết insulin được bảo tồn trong những năm đầu. Khi thiếu insulin ngày càng nặng và bệnh nhân cần điều trị bằng insulin, các cơ chế đối kháng bị suy yếu. Hạ đường huyết thường được cho là thường gặp ở bệnh đái tháo đường type 1 hơn type 2, nhưng ở những bệnh nhân đái tháo đường type 2 được điều trị bằng insulin, tỷ lệ có thể tương tự.
+
+### Hiệu ứng Somogyi
+- Các hormone đối kháng gây ra tình trạng đề kháng insulin thoáng qua. Điều này dẫn đến chứng tăng đường huyết sau hạ đường huyết được gọi là hiệu ứng Somogyi. Thời gian tác dụng là khác nhau đối với từng loại hormone chính:
+	- Glucagon < 2h
+	- Epinephrine 4-6h
+	- Cortisol hormone tăng trưởng lên tới 12h
 
 
 
