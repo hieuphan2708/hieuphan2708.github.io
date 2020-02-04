@@ -222,7 +222,7 @@ notnumbering: 1
 	 - Nên dùng ở bệnh nhân NSTE-ASC (khi không có chống chỉ định). Dùng đường nào cũng được. Một số thuốc như atenolol, metoprolol, bisoprolol.
 -    Chẹn kênh canxi
 	 - Không có vai trò gì ngoại trừ thay thế chẹn beta khi có chống chỉ định.
-{% include img/full-50.html src="/img/post/thought/hinhthem4.png" des="Đánh giá nguy cơ ban đầu và quản lý ACS bằng thang điểm GRACE theo NICE" %}
+{% include img/full.html src="/img/post/thought/hinhthem4.png" des="Đánh giá nguy cơ ban đầu và quản lý ACS bằng thang điểm GRACE theo NICE" %}
 
 ### Điều trị biến chứng
 
