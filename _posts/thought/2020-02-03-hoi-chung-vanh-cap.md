@@ -174,10 +174,7 @@ notnumbering: 1
   Có nên điều trị TSH cho bệnh nhân dùng warfarin?
 </div>
 <div class="alert alert-success" role="alert">
-  Câu trả lời luôn là cân nhắc giữa lợi ích và nguy cơ. Tuy nhiên có thể sử dụng INR khẩn (20 phút có kết quả) để cân nhắc quyết định.
--    Nếu INR < 2.0, lợi ích điều trị cao hơn → nên dùng TSH
--    Nếu INR > 3.0, nguy cơ xuất huyết cao hơn → không nên dùng TSH
--    Nếu 2.0 < INR < 3.0, cân nhắc.
+  Câu trả lời luôn là cân nhắc giữa lợi ích và nguy cơ. Tuy nhiên có thể sử dụng INR khẩn (20 phút có kết quả) để cân nhắc quyết định. Nếu INR < 2.0, lợi ích điều trị cao hơn → nên dùng TSH. Nếu INR > 3.0, nguy cơ xuất huyết cao hơn → không nên dùng TSH. Nếu 2.0 < INR < 3.0, cân nhắc.
 </div>
 
 #### Các biện pháp chống huyết khối phụ trợ
