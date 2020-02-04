@@ -168,7 +168,7 @@ notnumbering: 1
 -    Nguy cơ chính là xuất huyết, đặc biệt là xuất huyết não, nguy cơ tối đa là 24h sau khi dùng tiêu sợi huyết. Các yếu tố nguy cơ của TSH là nữ, lớn tuổi, nhẹ cân và huyết áp cao lúc nhập viện.
 -    Chống chỉ định tiêu sợi huyết như sau:
 	| Tuyệt đối | Tương đối |
-	|-----------|-----------:|
+	|:-----------:|:-----------:|
 	| a         |    b      |
 	| 1         |    2      |
 	| foo       |   bar     |
