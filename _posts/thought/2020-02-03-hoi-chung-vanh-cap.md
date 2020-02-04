@@ -154,16 +154,23 @@ notnumbering: 1
 ### Điều trị cụ thể STEMI
 
 -    Ưu tiên của điều trị sớm là thiết lập tái tưới máu cơ tim bị ảnh hưởng. Các lựa chọn thay thế hiện nay để đạt được mục tiêu này là cơ học (can thiệp mạch vành qua da (PCI) hoặc dược lý (tiêu sợi huyết)).
-
-#### Can thiệp mạch vành qua da nguyên phát (PPCI)
--    Tức là nong mạch vành hoặc đặt stent mà không dùng tiêu sợi huyết trước đó hoặc dùng đồng thời. Vừa đạt được mục đích tái tưới máu vừa không làm tăng nguy cơ xuất huyết.
--    Lợi ích của PPCI so với tiêu sợi huyết rõ ràng ở thời điểm trên 3h kể từ lúc đau ngực, còn trước 3h thì không rõ ràng.
 -    Theo guideline của AHA/ACC và ESC:
 	- PPCI thường được ưu tiên nếu
 		- Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) < 120 phút hoặc thời gian đau ngực < 90 phút.
  		- Bệnh nhân sốc tim và bệnh nhân có chống chỉ định với tiêu sợi huyết bất kể thời gian đau ngực.
  	- Tiêu sợi huyết thường được ưu tiên nếu:
 		- Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) > 120 phút.
+#### Can thiệp mạch vành qua da nguyên phát (PPCI)
+-    Tức là nong mạch vành hoặc đặt stent mà không dùng tiêu sợi huyết trước đó hoặc dùng đồng thời. Vừa đạt được mục đích tái tưới máu vừa không làm tăng nguy cơ xuất huyết.
+-    Lợi ích của PPCI so với tiêu sợi huyết rõ ràng ở thời điểm trên 3h kể từ lúc đau ngực, còn trước 3h thì không rõ ràng.
 
+#### Tiêu sợi huyết (TSH)
+-    Nguy cơ chính là xuất huyết, đặc biệt là xuất huyết não, nguy cơ tối đa là 24h sau khi dùng tiêu sợi huyết. Các yếu tố nguy cơ của TSH là nữ, lớn tuổi, nhẹ cân và huyết áp cao lúc nhập viện.
+-    Chống chỉ định tiêu sợi huyết như sau:
+	| Tuyệt đối | Tương đối |
+	|-----------|-----------|
+	| a         |    b      |
+	| 1         |    2      |
+	| foo       |   bar     |
 
 
