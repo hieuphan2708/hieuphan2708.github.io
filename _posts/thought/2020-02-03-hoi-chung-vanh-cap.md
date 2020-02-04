@@ -184,6 +184,9 @@ notnumbering: 1
 -    Prasugrel
 	 - Cơ chế tương tự Clopidogrel. 
 	 - NICE ưu tiên dùng thay Clopidogrel ở BN PPCI.
--    
+-    Ticagrelor
+	 - Ức chế thụ thể P2Y12.
+	 - NICE ưu tiên dùng thay Clopidogrel ở BN PPCI và ở BN chống chỉ định với Prasugrel.
+
 
 	
