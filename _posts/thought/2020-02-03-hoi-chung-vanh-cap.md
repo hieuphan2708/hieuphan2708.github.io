@@ -131,4 +131,11 @@ notnumbering: 1
 
 {% include img/full.html src="/img/post/thought/hinhthem.png" des="Hình. Các nguyên nhân tăng troponin" %}
 
+### Phân tầng nguy cơ
 
+-     Trái ngược với bệnh nhân STEMI, phân tầng nguy cơ ở bệnh nhân NSTE-ACS không chỉ xác định tiên lượng mà còn ảnh hưởng trực tiếp đến các lựa chọn điều trị.
+-     Tuy nhiên, bệnh nhân NSTE-ACS là một quần thể không đồng nhất với các mức độ khác nhau của bệnh xơ vữa động mạch và nguy cơ huyết khối. Để lựa chọn phương pháp điều trị phù hợp nhất, phân tầng rủi ro *sớm* và *lặp đi lặp lại* nên được thực hiện vì lợi ích từ các chiến lược điều trị tích cực nhất định có liên quan đến nguy cơ càng cao thì lợi ích càng lớn.
+-     Hai thang điểm phân tầng nguy cơ thường dùng nhất là TIMI và GRACE.
+
+{% include img/full-50.html src="/img/post/thought/hinhthem2.jpg" des="Thang điểm TIMI. Điểm càng cao nguy cơ càng cao" %}
+{% include img/full-50.html src="/img/post/thought/hinhthem3.jpg" des="Thang điểm GRACE. Phân tầng rủi ro: <1.5%: rất thấp, 1.5-3%: thấp, 3-6%: trung bình, 6-9%: cao, >9%: rất cao" %}
