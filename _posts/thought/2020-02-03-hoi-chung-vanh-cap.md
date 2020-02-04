@@ -30,3 +30,4 @@ notnumbering: 1
 -   Huyết khối trong bối cảnh NSTE-ACS rất giàu tiểu cầu; Huyết khối tự ly giải và phân mảnh thành các hạt nhỏ hơn, có thể gây ra nhồi máu xa ở các khu vực nhỏ (nhồi máu vi mô) mà không tắc hoàn toàn động mạch vành. Đây là quá trình được cho là xảy ra trong nhồi máu cơ tim không ST chênh lên (NSTEMI).
 
 -   Phản ứng huyết khối đối với sự phá vỡ mảng xơ là **một quá trình động của tạo huyết khối và tan huyết khối**, các chất trung gian gây co mạch, và mức độ khác nhau của sự kết tập và kết dính tiểu cầu (xem Hình 2). Quá trình cụ thể nào chiếm ưu thế sẽ xác định hội chứng lâm sàng đó (nghĩa là STEMI, NSTEMI hoặc UA).
+{% include img/full-50.html src="/img/post/thought/hinh12.gif" des="Hình 2. Quá trình động trong sinh lý bệnh của hội chứng vành cấp" %}
