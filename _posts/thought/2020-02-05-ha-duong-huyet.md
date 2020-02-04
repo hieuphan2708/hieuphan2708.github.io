@@ -37,7 +37,7 @@ notnumbering: 1
 - Trong giai đoạn cấp, giải phóng hormone đối kháng là glucagon từ tuyến tụy và catecholamine từ tuyến thượng thận kích thích glycogenolysis và gluconeogenesis.
 - Tuy nhiên, nếu gan không thể đáp ứng do dự trữ glycogen không đủ hoặc có bệnh gan, thì tác dụng của glucagon sẽ không hiệu quả và gluconeogenesis đóng vai trò lớn hơn.
 - Cortisol và hormone tăng trưởng có vai trò tương tự trong giai đoạn sau của hạ đường huyết.
-
+- Ở những người không mắc bệnh đái tháo đường, các hormone đối kháng được giải phóng ở mức đường huyết 3,8 mmol/L, các triệu chứng hạ đường huyết bắt đầu ở mức đường huyết khoảng 3,0mmol/L với rối loạn chức năng nhận thức ở mức dưới 2 mmol/L. Tuy nhiên, những tác dụng này xảy ra ở các mức độ khác nhau ở bệnh nhân đái tháo đường, một phần phụ thuộc vào kiểm soát đường huyết của họ trước đây.
 
 
 
