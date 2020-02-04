@@ -55,3 +55,21 @@ notnumbering: 1
 	- Đặt sonde tiểu và đo lượng nước tiểu.
 	- Mời chuyên khoa tiêu hóa và ICU nếu cần.
 
+## Phân tầng nguy cơ
+
+### Xuất huyết do vỡ giãn tĩnh mạch thực quản
+- Tỉ lệ tử vong cao.
+- Gợi ý bằng dấu hiệu bệnh gan mất bù: vàng da, báng bụng, não gan.
+- Tiên lượng chủ yếu dựa trên bệnh gan nền, không phải mức độ xuất huyết.
+
+### Thang điểm Glasgow-Blatchford
+- Được tính toán bằng 4 thành phần bệnh sử (bệnh gan, suy tim), triệu chứng (tiêu phân đen, ngất), dấu hiệu (nhịp tim nhanh, huyết áp) và xét nghiệm máu (hemoglobin, ure). Điểm tối đa là 29.
+{% include img/full-50.html src="/img/post/thought/Glasgow-Blatchford-Score.png" des="Thang điểm Glasgow-Blatchford" %}
+
+### Thang điểm Rockall
+- Đánh giá tỉ lệ tử vong.
+- Điểm số bao gồm ba thông số lâm sàng (tuổi, sự hiện diện của sốc và bệnh đồng mắc) và hai thông số dựa trên kết quả nội soi (máu và chẩn đoán). Điểm Rockall trước khi nội soi tối đa là 7 và sau khi nội soi là 11. Điểm Rockall là 3 trước khi nội soi tỷ lệ tử vong ~ 10% và điểm 6 tỷ lệ tử vong ~ 50%.
+- Nhược điểm chính của thang điểm Rockall là nó đòi hỏi nội soi để tính toán tất cả các thành phần của thang điểm. Tuy nhiên, thang điểm trước khi nội soi có thể được sử dụng để giúp xác định những người có tỷ lệ tử vong cao có thể được hưởng lợi từ việc nhập đơn vị chăm sóc tích cực.
+
+
+
