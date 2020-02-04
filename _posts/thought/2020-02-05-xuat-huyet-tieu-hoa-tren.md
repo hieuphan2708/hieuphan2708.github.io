@@ -19,12 +19,29 @@ notnumbering: 1
 - Xuất huyết tiêu hóa trên được định nghĩa là xuất huyết bất cứ đâu từ thực quản đến góc Treitz.
 - Nguyên nhân thường gặp nhất là loét dạ dày
 
-### Sinh lý bệnh
+## Sinh lý bệnh
 
-- Trong loét dạ dày, xuất huyết xảy ra do *xói mòn mạch máu* trên nền loét.
+- Trong loét dạ dày, xuất huyết xảy ra do xói mòn mạch máu trên nền loét.
 - Ở những bệnh nhân mắc bệnh gan, tăng áp tĩnh mạch cửa dẫn đến lưu lượng máu lớn thông qua các mạch máu bàng hệ "collateral vessel" (đặc biệt là ở thực quản đoạn xa). Những mạch máu này có thể trở nên giãn và ngoằn ngoèo, khiến chúng dễ bị chảy máu.
 
- 
+## Đánh giá lâm sàng
 
+- Có một số dấu hiệu xác định đúng là bệnh nhân bị xuất huyết tiêu hóa  
+	- Dễ xác định: ho ra máu (biểu hiện ở 50% bệnh nhân), tiêu phân đen (biểu hiện ở 70% bệnh nhân).
+	- Khó xác định: ngất, chóng mặt, tiêu phân máu, tụt huyết áp, nhịp tim nhanh.
+- Những điều cần tìm trong bệnh sử
+	- Bệnh gan đã biết hoặc nghi ngờ.
+	- Nôn nhiều mới đây (gợi ý Mallory-Weiss).
+	- Tiền căn loét dạ dày, viêm dạ dày.
+	- Tiền căn hoặc đang nhiễm *Helicobacter pylori*.
+	- Nghiện rượu.
+	- Dùng thuốc, đặc biệt là NSAIDs làm tăng nguy cơ xuất huyết gấp 4 lần.
+<div class="alert alert-danger" role="alert">
+  Thăm trực tràng có thể xác nhận tiêu phân máu
+</div>
+
+## Truyền máu
+- Giảm tỉ lệ tử vong ở nhóm bệnh nhân Hb < 7 g/dL (< 9 g/dL ở bệnh nhân bệnh mạch vành không ổn định).
+- Chỉ nên truyền tiểu cầu ở bệnh nhân xuất huyết đang diễn tiến có tiểu cầu < 50k/<sup>mm3</sup>
 
 
