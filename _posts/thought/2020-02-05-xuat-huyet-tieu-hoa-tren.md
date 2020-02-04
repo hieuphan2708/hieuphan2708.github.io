@@ -89,6 +89,7 @@ notnumbering: 1
 	- Đông máu toàn bộ (rối loạn đông máu trong các bệnh về gan)
 	- Chức năn gan
 	- Xquang ngực, ECG
+
 ## Điều trị bằng thuốc
 
 ### Xuất huyết không phải vỡ giãn tĩnh mạch thực quản 
