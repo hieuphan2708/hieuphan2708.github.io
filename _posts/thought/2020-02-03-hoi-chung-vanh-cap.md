@@ -43,8 +43,8 @@ notnumbering: 1
 
 ### Bệnh sử
 -   Triệu chứng kinh điển của ACS là đau ngực, được mô tả là có tính chất đặc trưng: 
-	o Ngực nặng, đau hoặc căng 
-	o Đau ngực trung tâm hay ở bên trái 
-	o Không liên quan đến hô hấp hoặc cử động 
-	o Có thể lan ra một hoặc cả hai cánh tay, cổ hoặc hàm
+	- Ngực nặng, đau hoặc căng 
+	- Đau ngực trung tâm hay ở bên trái 
+	- Không liên quan đến hô hấp hoặc cử động 
+	- Có thể lan ra một hoặc cả hai cánh tay, cổ hoặc hàm
 -   Tỷ lệ khả năng đã được tính toán trong các nghiên cứu khác nhau liên kết các đặc điểm của bệnh sử với nhồi máu cơ tim cấp tính (AMI) (xem Bảng 1). Nó chỉ ra xác suất bệnh nhân bị AMI dựa trên mô tả của họ về cơn đau. Thông thường, tỷ lệ khả năng lớn hơn 10 cung cấp bằng chứng rất mạnh để “rule in” trong chẩn đoán, trong khi tỷ lệ nhỏ hơn 0,1 cung cấp bằng chứng rất mạnh để loại trừ “rule out”; tỷ lệ lớn hơn 5 và nhỏ hơn 0,2 cung cấp bằng chứng tốt và tỷ lệ lớn hơn 2 và dưới 0,5 cung cấp bằng chứng vừa phải để loại bỏ chẩn đoán tương ứng.
