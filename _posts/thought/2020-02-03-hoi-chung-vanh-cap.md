@@ -140,6 +140,7 @@ notnumbering: 1
 {% include img/full-50.html src="/img/post/thought/hinhthem2.jpg" des="Thang điểm TIMI. Điểm càng cao nguy cơ càng cao" %}
 {% include img/full-50.html src="/img/post/thought/hinhthem3.jpg" des="Thang điểm GRACE. Phân tầng rủi ro: <1.5%: rất thấp, 1.5-3%: thấp, 3-6%: trung bình, 6-9%: cao, >9%: rất cao" %}
 
+## Điều trị
 
 
 
