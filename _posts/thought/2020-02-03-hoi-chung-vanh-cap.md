@@ -21,7 +21,7 @@ notnumbering: 1
 
 -   Trong bối cảnh tăng men tim, thay đổi đoạn ST trên ECG sẽ xác định STEMI hoặc NSTEMI (xem Hình 1). Tuy nhiên tại thời điểm nhập viện chưa có men tim và việc phân loại bệnh nhân bị đau ngực do thiếu máu cục bộ chủ yếu dựa vào ECG. Hầu hết bệnh nhân có ST chênh lên có tắc động mạch vành hoàn toàn và tiến triển thành STEMI. Tuy nhiên, nhiều bệnh nhân không có ST chênh lên có thể không tăng men tim sau đó và được gọi chung là hội chứng vành cấp không ST chênh lên (NSTE-ACS) cho đến khi men tim xác định là Non-STEMI (tăng men tim) hay UA (không tăng men tim).
 
-{% include img/full.html src="/img/post/thought/hinh11.jpg" des="Hình 1" %}
+{% include img/full-50.html src="/img/post/thought/hinh11.jpg" des="Hình 1" %}
 
 ### Sinh lý bệnh
 
