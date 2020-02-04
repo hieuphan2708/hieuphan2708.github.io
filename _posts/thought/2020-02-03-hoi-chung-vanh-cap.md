@@ -160,7 +160,7 @@ notnumbering: 1
  		- Bệnh nhân sốc tim và bệnh nhân có chống chỉ định với tiêu sợi huyết bất kể thời gian đau ngực.
 
  	 - Tiêu sợi huyết thường được ưu tiên nếu
-		- Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) > 120 phút.
+	        - Thời gian cửa - bóng (từ lúc bước chân vào cửa phòng cấp cứu cho đến lúc bung bóng) > 120 phút.
 
 #### Can thiệp mạch vành qua da nguyên phát (PPCI)
 -    Tức là nong mạch vành hoặc đặt stent mà không dùng tiêu sợi huyết trước đó hoặc dùng đồng thời. Vừa đạt được mục đích tái tưới máu vừa không làm tăng nguy cơ xuất huyết.
