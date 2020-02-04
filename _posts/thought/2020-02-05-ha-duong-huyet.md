@@ -3,7 +3,7 @@ layout: post
 title: "Hạ đường huyết"
 tags: [chuyển hóa]
 categories: thought
-img: Hypoglycaemia.jpg.jpg
+img: Hypoglycaemia.jpg
 notnumbering: 1
 ---
 
@@ -14,4 +14,5 @@ notnumbering: 1
 ## Sinh lý bệnh
 
 ### Chuyển hóa glucose ở bệnh nhân bình thường
+- Ở người không bị đái tháo đường, nồng độ glucose được duy trì trong một phạm vi nhỏ. Glucose đi vào máu từ carbohydrate chế độ ăn uống, và do kết quả của việc tiết insulin đưa glucose đưa vào các tế bào, đặc biệt là các tế bào cơ và tế bào mỡ. Sau đó, nó có thể được sử dụng trực tiếp bởi các tế bào để lấy năng lượng thông qua quá trình glycolysis và cuối cùng là chu trình Krebs. Khi có quá nhiều glucose, insulin sẽ kích hoạt sự chuyển đổi glucose dư thừa ban đầu thành glycogen để dự trữ ở gan và nếu còn dư glucose thì sẽ chuyển thành axit béo trong gan, cuối cùng được chuyển thành triglyceride trong tế bào mỡ.
 - 
