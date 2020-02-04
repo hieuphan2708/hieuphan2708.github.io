@@ -111,7 +111,8 @@ notnumbering: 1
 	- ST chênh lên > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là dương (tức là V5, V6).
 	- ST chênh xuống > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là âm (tức là V1, V2, V3).
 	- ST chênh lên > 5mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là âm (tức là V1, V2, V3).
-
+{% include img/full.html src="/img/post/thought/hinh19.png" des="Hình 9. LBBB điển hình" %}
+{% include img/full.html src="/img/post/thought/hinh110.png" des="Hình 10. ST chênh lên > 1mm ở các chuyển đạo trong đó phức bộ QRS chủ yếu là dương (tức là V5, V6)." %}
 
 
 
