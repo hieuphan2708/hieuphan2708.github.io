@@ -181,4 +181,9 @@ notnumbering: 1
 </div>
 
 #### Các biện pháp chống huyết khối phụ trợ
--    
+-    Aspirin
+	- Ức chế không hồi phục acetylates platelet cyclooxygenase → ức chế kết tập tiểu cầu.
+	- Nên được dùng sớm (nếu không có chống chỉ định: dị ứng, đang xuất huyết) ở tất cả các bệnh nhân đau ngực do thiếu máu cục bộ.
+	- Dùng liều tải 150-325 mg, tiếp tục đến hết đời liều 75-100mg.
+-    Clopidogrel
+	- 
