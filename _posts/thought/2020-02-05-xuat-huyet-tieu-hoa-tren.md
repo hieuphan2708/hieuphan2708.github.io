@@ -70,6 +70,64 @@ notnumbering: 1
 - Đánh giá tỉ lệ tử vong.
 - Điểm số bao gồm ba thông số lâm sàng (tuổi, sự hiện diện của sốc và bệnh đồng mắc) và hai thông số dựa trên kết quả nội soi (máu và chẩn đoán). Điểm Rockall trước khi nội soi tối đa là 7 và sau khi nội soi là 11. Điểm Rockall là 3 trước khi nội soi tỷ lệ tử vong ~ 10% và điểm 6 tỷ lệ tử vong ~ 50%.
 - Nhược điểm chính của thang điểm Rockall là nó đòi hỏi nội soi để tính toán tất cả các thành phần của thang điểm. Tuy nhiên, thang điểm trước khi nội soi có thể được sử dụng để giúp xác định những người có tỷ lệ tử vong cao có thể được hưởng lợi từ việc nhập đơn vị chăm sóc tích cực.
+{% include img/full-50.html src="/img/post/thought/Rockall.png" des="Thang điểm Rockall" %}
+<div class="alert alert-danger" role="alert">
+  Cả hai thang điểm Glasgow-Blatchford và Rockall đều là những công cụ hữu ích để hỗ trợ bác sĩ lâm sàng trong việc xác định nguy cơ xuất huyết tiêu hóa trên. Thang điểm Blatchford có thể được sử dụng cùng với đánh giá lâm sàng để xác định bệnh nhân có nguy cơ thấp có thể phù hợp để xuất viện.
+</div>
+
+### Tóm tắt đánh giá nguy cơ
+- Nguy cơ thấp: Blatchford 0 điểm xem xét xuất viện sau khi nội soi ngoài phòng khám.
+- Nguy cơ trung bình: nhập viện để nội soi khẩn.
+- Nguy cơ cao: Rockall lâm sàng 3đ, huyết động không ổn định, nhập viện nội soi cấp cứu.
+
+## Khảo sát
+
+- Một số cận lâm sàng hữu ích:
+	- Khí máu tĩnh mạch để tính Hb để hướng dẫn truyền máu
+	- Ure và điện giải đồ
+	- Công thức máu
+	- Đông máu toàn bộ (rối loạn đông máu trong các bệnh về gan)
+	- Chức năn gan
+	- Xquang ngực, ECG
+## Điều trị bằng thuốc
+
+### Xuất huyết không phải vỡ giãn tĩnh mạch thực quản 
+- PPI
+	- Giảm chảy máu bằng cách tăng độ pH dạ dày, làm ổn định cục máu đông.
+- Somatostatin
+	- Octreotide không được khuyến cáo sử dụng thường quy ở bệnh nhân xuất huyết không do vỡ giãn tĩnh mạch thực quản, nhưng có thể được sử dụng như một liệu pháp bổ trợ trong điều trị khi có sự chậm trễ trong nội soi.
+
+### Xuất huyết do vỡ giãn tĩnh mạch thực quản 
+- Somatostatin and vasopressin
+	- Hai nhóm thuốc được sử dụng rộng rãi trong điều trị xuất huyết do vỡ giãn tĩnh mạch thực quản. Chúng bao gồm somatostatins (Octreotide) và vasopressin (Terlipressin).
+	- Somatostatins gây giãn cơ trơn mạch máu và giảm áp lực tĩnh mạch cửa. Vasopressin gây co động mạch, giảm áp lực tĩnh mạch cửa nhưng có nguy cơ thiếu máu cục bộ cơ quan đích. Một đánh giá có hệ thống đã cho thấy không có giảm số ca tử vong với somatulerin. Tuy nhiên, Terlipressin được ghi nhận là an toàn và hiệu quả. Terlipressin đã được chứng minh là làm giảm mất máu do vỡ giãn tĩnh mạch thực quản đang diễn tiến và giảm 34% nguy tử vong tương đối . Terlipressin cũng thuận tiện hơn vì nó có thể được dùng dưới dạng bolus.
+<div class="alert alert-danger" role="alert">
+  Terlipressin nên được dùng tại khoa cấp cứu cho bất kỳ bệnh nhân nào nghi ngờ xuất huyết do vỡ giãn tĩnh mạch thực quản.
+</div>
+- Vitamin K
+	- Một tổng quan của Cochrane kết luận rằng không có bằng chứng về hiệu quả của việc sử dụng Vitamin K.
+- Kháng sinh
+	- Tất cả các bệnh nhân bị xuất huyết tiêu hóa trên cấp tính nghi ngờ hoặc xác nhận do vỡ giãn tĩnh mạch thực quản nên được điều trị dự phòng bằng kháng sinh như ciprofloxacin hoặc ceftriaxone.
+<div class="alert alert-danger" role="alert">
+  Kháng sinh phổ rộng nên được dùng sớm cho bất kỳ bệnh nhân nào nghi ngờ xuất huyết do vỡ giãn tĩnh mạch thực quản.
+</div>
+
+## Điều trị không dùng thuốc
+
+### Nội soi
+- Nội soi là tiêu chuẩn vàng để chẩn đoán và điều trị xuất huyết tiêu hóa trên. Thời điểm nội soi rất quan trọng và chỉ nên diễn ra sau khi bệnh nhân được hồi sức đầy đủ.
+- Bệnh nhân nên được đánh giá lâm sàng và phân tầng nguy cơ bằng cách sử dụng các thang điểm để xác định mức độ gấp rút nội soi và nơi cần được nhập.
+<div class="alert alert-danger" role="alert">
+  Nguy cơ xuất huyết cao cần nội soi khẩn cấp, cả chẩn đoán và điều trị.
+</div>
+
+### Chèn bóng
+- Bóng Blakemore hay Minnesotanên được thực hiện ở bệnh nhân bị xuất huyết do vỡ giãn tĩnh mạch thực quản đang diễn tiến khi nội soi không có sẵn ngay lập tức.
+- Các lựa chọn điều trị tiếp theo nếu nội soi thất bại bao gồm phẫu thuật, chụp động mạch và tắc mạch, hoặc TIPSS - một can thiệp trong đó một thông nối được tạo ra giữa hệ thống tĩnh mạch cửa và chủ để giảm áp lực tĩnh mạch cửa.
+
+## Cạm bẫy
+- Điều quan trọng nhất trong số này là không nhận ra những bệnh nhân cần hồi sức kịp thời, nội soi khẩn cấp và nhập viện chăm sóc tích cực (bất thường về huyết động hoặc điểm Rockall từ ba điểm trở lên).
+- Ở một bệnh nhân bị sốc không có nguyên nhân rõ ràng, phải thực hiện khám trực tràng sớm để tránh bỏ sót tiêu phân đen. Cần nhận ra bệnh nhân bị hạ huyết áp tư thế không rõ nguyên nhân hoặc ngất.
 
 
 
