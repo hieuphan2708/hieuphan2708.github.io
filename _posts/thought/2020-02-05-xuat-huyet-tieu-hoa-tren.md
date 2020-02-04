@@ -43,5 +43,15 @@ notnumbering: 1
 ## Truyền máu
 - Giảm tỉ lệ tử vong ở nhóm bệnh nhân Hb < 7 g/dL (< 9 g/dL ở bệnh nhân bệnh mạch vành không ổn định).
 - Chỉ nên truyền tiểu cầu ở bệnh nhân xuất huyết đang diễn tiến có tiểu cầu < 50k/<sup>mm3</sup>
+- Huyết tương tươi đông lạnh (FFP) nên truyền cho những bệnh nhân đang xuất huyết có PT, INR hoặc aPTT gấp 1.5 lần giá trị bình thường. Cryoprecipitate có thể được sử dụng ở những bệnh nhân có fibrinogen vẫn còn dưới 1,5g / L mặc dù sử dụng FFP.
+- Đối với những bệnh nhân dùng warfarin đang xuất huyết, truyền phức hợp prothrombin cô đặc (PCC).
 
+## Huyết động không ổn định
+- Nếu có bất kì bằng chứng nào của mất ổn định huyết động, mời bác sĩ lớn và thực hiện các bước hồi sức sau đây:
+	- Oxy liều cao với mask không thở lại có túi dự trữ.
+	- Lập hai đường truyền tĩnh mạch bằng kim lớn.
+	- Dự trù máu và truyền máu
+	- Hồi sức dịch tinh thể trong khi chờ máu.
+	- Đặt sonde tiểu và đo lượng nước tiểu.
+	- Mời chuyên khoa tiêu hóa và ICU nếu cần.
 
