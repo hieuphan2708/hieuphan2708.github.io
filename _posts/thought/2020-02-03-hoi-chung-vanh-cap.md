@@ -87,7 +87,7 @@ notnumbering: 1
 	- Đã bị nhồi máu cơ tim nhưng đã tái tưới máu sớm.
 	- Co thắt mạch vành tự giải quyết.
 
-{% include img/full.html src="/img/post/thought/hinh14.png" des="Hình 4. AMI thành dưới" %}
+{% include img/full.html src="/img/post/thought/hinh14.png" des="Hình 4. AMI thành dưới. ST chênh lên ở chuyển đạo II, III, aVF và ST chênh xuống ở những chuyển đạo soi gương V1, V2, V3 có thể là AMI thành sau" %}
 
 
 
