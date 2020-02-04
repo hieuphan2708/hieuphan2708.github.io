@@ -19,3 +19,4 @@ notnumbering: 1
 - Tuyến tụy tiết ra insulin ở mức glucose nền và cũng tăng vọt để đáp ứng với sự gia tăng glucose trong hệ thống cửa.
 - Insulin có tác dụng ức chế sản xuất glucose từ gan và ở nồng độ cao hơn sẽ kích thích sự hấp thu glucose bằng cách hoạt hóa vận chuyển glucose vào các tế bào sau đó được chuyển đổi để được lưu trữ trong gan dưới dạng glycogen hoặc chất béo.
 - Insulin tác động lên tế bào đích của nó là tế bào gan, tế bào cơ xương và tế bào mỡ.
+- Các tế bào não, võng mạc và tế bào B tuyến tụy có sự vận chuyển glucose hoạt động không phụ thuộc insulin.
