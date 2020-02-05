@@ -144,6 +144,18 @@ notnumbering: 1
 	- Là tình trạng thiếu các dấu hiệu cảnh báo (autonomic) trước khi có dấu hiệu neuroglycopenia. 
 	- Nhận biết cũng có thể bị suy giảm bởi các thuốc chẹn beta và rượu.
  
+## Cạm bẫy
+- Cạm bẫy chính trong hạ đường huyết là quên mất nó có thể là một chẩn đoán. Hãy nhớ nó đặc biệt trong:
+	- Bệnh nhân bất tỉnh hoặc lơ mơ
+	- Những người có hành vi bất thường
+	- Không hợp tác hoặc gây hấn
+	- Bệnh nhân đã uống rượu
+	- Suy dinh dưỡng
+	- Bệnh nhân lớn tuổi có thể có các dấu hiệu và triệu chứng không đặc hiệu hoặc neurological
+- Nếu nghi ngờ kết quả đường huyết, hãy lặp lại xét nghiệm 
+- Như đã đề cập ở trên, ở những bệnh nhân vẫn sản xuất được insulin, điều trị có thể gây hạ đường huyết trở lại.
+- Hạ đường huyết do thuốc hạ đường huyết đường uống có thể tái phát trừ khi được theo dõi chặt chẽ, đặc biệt là sulphonylureas.
+- Bệnh nhân đái tháo đường thường sẽ tự điều trị hạ đường huyết, vì vậy hãy luôn tìm hiểu những gì khác biệt trong lần này để đưa họ đến bệnh viện.
 
 
 
