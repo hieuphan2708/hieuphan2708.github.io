@@ -110,74 +110,34 @@
       {% assign idx-abt = site.data.lang['index'].about.vn %}
       {% assign idx-cv = site.data.lang['mycv'].vn %}
     {% endif %}
-    <header class="bg-black py-4 pb-5 pb-md-4 header-intro">
-<div class="container">
-<div class="row align-items-center justify-content-center">
-<div class="col-12 col-md-7 intro">
-<div class="img-avatar">
-Math<i class="icon-math2it"></i>IT
-<h1>Math2IT</h1>
-</div>
-<h2 data-toc-skip="" class="subtitle">Toán học - Giáo dục - Công nghệ</h2>
-<p class="description">
-Chúng tôi ghét phải thấy Toán học bị xem nhẹ và gán mác xa rời thực tiễn. Chúng tôi ghét thái độ chê bai và dè bỉu nền giáo dục nước nhà. Chúng tôi ghét sự hời hợt trong vẻ bề ngoài của các phuơng pháp dạy và học. Chúng tôi yêu mến tính hiệu quả và trực quan. Chúng tôi đam mê cuồng dại tinh thần tự học và sáng tạo. Chúng tôi là Math2IT. </p>
-<div class="idx-social">
-<a class="mr-s" href="https://math2it.com/gioi-thieu"><i class="icon-heart"></i><span class="hide-on-xs"> Giới thiệu</span></a>
-<a class="mr-s" target="_blank" href="https://www.facebook.com/groups/math2it/"><i class="icon-group"></i><span class="hide-on-xs"> Nhóm Math2IT</span></a>
-<a class="mr-s" target="_blank" href="https://facebook.com/math2it"><i class="icon-facebook-squared"></i><span class="hide-on-xs"> FB Math2IT</span></a>
-</div>
-</div>
-<div class="col-12 col-md-5 newest-list ">
-<div class="latest-top sec-title px-4 px-sm-0">
-<h2 data-toc-skip="" class="new-title">Mới nhất</h2>
-<a href="https://math2it.com/all" class="view-all">xem thêm</a>
-</div>
-<a href="https://math2it.com/tuyen-tap-cac-trang-web-cong-nghe-hay/">
-<div class="new-item">
-<div class="cat-icon"><i class="icon-magic"></i></div>
-<div class="new-post">
-<div class="post-date">
-31-08-19 </div>
-<h4 class="post-title">
-Tuyển tập các trang web công nghệ hay </h4>
-</div>
-</div>
-</a>
-<a href="https://math2it.com/cac-trang-web-hay-danh-cho-viec-hieu-y/">
-<div class="new-item">
-<div class="cat-icon"><i class="icon-pi-outline"></i></div>
-<div class="new-post">
-<div class="post-date">
-26-08-19 </div>
-<h4 class="post-title">
-Các website hay dành cho việc hiểu ý nghĩa thực tiễn của toán học </h4>
-</div>
-</div>
-</a>
-<a href="https://math2it.com/matlab-tips-viet-functions-chuyen-nghiep-hon-voi-inputparser/">
-<div class="new-item">
-<div class="cat-icon"><i class="icon-cog-alt"></i></div>
-<div class="new-post">
-<div class="post-date">
-25-08-19 </div>
-<h4 class="post-title">
-Matlab tips: viết functions chuyên nghiệp hơn với inputParser </h4>
-</div>
-</div>
-</a>
-<a href="https://math2it.com/the-odin-project-tu-hoc-tro-thanh-lap-trinh-vien-web-chuyen-nghiep/">
-<div class="new-item">
-<div class="cat-icon"><i class="icon-magic"></i></div>
-<div class="new-post">
-<div class="post-date">
-23-08-19 </div>
-<h4 class="post-title">
-The Odin Project : Tự học trở thành lập trình viên web chuyên nghiệp </h4>
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</header>
+    <header id="idx-header">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-4 offset-md-1">
+            <div class="img-avatar">
+              <img alt="Thi's avatar" src="{{site.baseurl}}{{site.data.setting.author.avatar}}">
+            </div>
+          </div>
+          <div class="col-md-6 text-center idx-abt">
+            <h1>{{ site.author.name }}</h1>
+            <p>{{ idx-intro }}</p>
+            <p class="idx-social">
+              <a class="mr-s" href="{{site.baseurl}}/about"><i class="fa fa-heart"></i> {{ idx-abt }}</a>
+              <a class="mr-s" target="_blank" href="{{site.baseurl}}{{site.data.setting.author.cv}}"><i class="fa fa-user" aria-hidden="true"></i> {{ idx-cv }}</a>
+              {% if site.data.setting.lang.current == 'en' %}
+                <a href="{{ site.data.setting.lang.other_url }}">
+                  <i class="fa fa-globe"></i>
+                  Tiếng Việt
+                </a>
+              {% else %}
+                <a href="{{ site.data.setting.lang.other_url }}">
+                  <i class="fa fa-globe"></i>
+                  English
+                </a>
+              {% endif %}
+            </p>
+          </div>
+        </div>
+      </div>
+    </header>
 {% endcase %}
