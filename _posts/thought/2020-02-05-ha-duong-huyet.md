@@ -97,10 +97,14 @@ notnumbering: 1
 </div>
 - Rượu
 	- Rượu làm mình nghĩ một số dấu hiệu ví dụ: run rẩy, lo lắng là do thiếu rượu hơn là dấu hiệu cảnh báo của hạ đường huyết, và có thể bị nhầm lẫn là triệu chứng neuroglycopenic. Nó cũng ức chế gluconeogenesis.
-- Tập thể dục và nhiệt
-	- Tập thể dục và nhiệt có thể làm tăng hấp thu insulin từ các vị trí tiêm.
-- Hạ đường huyết về đêm (Nocturnal hypoglycaemia) và ngưỡng đường huyết
-	-  
+- Tập thể dục và trời nóng 
+	- Tập thể dục và trời nóng có thể làm tăng hấp thu insulin từ các vị trí tiêm.
+- Hạ đường huyết về đêm (Nocturnal hypoglycaemia) và ngưỡng đường huyết (glycaemic threshold)
+	- Thường xảy ra vào 2 giờ sáng (2AM)
+	- Có thể do: bữa ăn, rượu, thời gian tiêm và loại insulin không thích hợp
+	- Hạ đường huyết về đêm được cho là một phần của không nhận thức được tình trạng hạ đường huyết do những thay đổi trong ngưỡng đường huyết.
+	- Ngưỡng đường huyết là mức glucose huyết tương mà tại đó các hormone đối kháng, như glucagon được hoạt hóa và ngưỡng này có thể cao hơn hoặc thấp hơn tùy thuộc vào sự kiểm soát đường huyết thông thường của từng người.
+
 
 
 
