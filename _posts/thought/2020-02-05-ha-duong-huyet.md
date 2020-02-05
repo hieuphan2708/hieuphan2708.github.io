@@ -128,10 +128,22 @@ notnumbering: 1
 <div class="alert alert-danger" role="alert">
   Ở những bệnh nhân vẫn mất ý thức do nguyên nhân khác hoặc không thể ăn uống, cần theo dõi nồng độ glucose thường xuyên và có thể cần truyền dextrose.
 </div>
+- Tránh điều trị quá mức vì có thể gây tăng đường huyết sau đó, Trong hầu hết các trường hợp, đường huyết mao mạch trong khoảng 5-10 mmol/L là thích hợp sau khi điều trị hạ đường huyết.
+	- Dextrose truyền tĩnh mạch cũng kích thích giải phóng insulin, sau đó có thể gây hạ đường huyết trở lại, điều này đặc biệt quan trọng trong hạ đường huyết liên quan đến sulphonylureas (vì cơ chế của S.U là kích thích tăng tiết insulin).
+- Glucagon có xu hướng tạo ra sự gia tăng ổn định đường huyết từ mức thấp đến mức bình thường, trong khi dextrose IV tạo ra mức cao trong 5 phút, ổn định ở mức bình thường trong 30 phút.
+<div class="alert alert-danger" role="alert">
+  Trong hạ đường huyết nặng hoặc kéo dài có thể gây phù não. Dexamethasone, mannitol hoặc thở máy có thể được chỉ định sau khi CT-scan.
+</div>
+- Flow Chart điều trị
+{% include img/full.html src="/img/post/thought/treatment.png" des="Hướng dẫn điều trị hạ đường huyết" %}
 
-
-
-
+### Nâng cao nhận thức về hạ đường huyết
+- Giáo dục bệnh nhân
+	- Làm thế nào nhận biết và phải làm gì. Kiểm tra kiến thức này của bệnh nhân trước khi xuất viện.
+- Hạ đường huyết không nhận thức được (Hypoglycaemic unawareness)
+	- Là tình trạng thiếu các dấu hiệu cảnh báo (autonomic) trước khi có dấu hiệu neuroglycopenia. 
+	- Nhận biết cũng có thể bị suy giảm bởi các thuốc chẹn beta và rượu.
+ 
 
 
 
