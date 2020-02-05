@@ -47,5 +47,27 @@ notnumbering: 1
 	- Epinephrine 4-6h
 	- Cortisol hormone tăng trưởng lên tới 12h
 
+## Đánh giá lâm sàng
 
+### Biểu hiện chung
+- Mặc dù bản thân người bệnh có thể nhận biết tình trạng hạ đường huyết từ nhiều đợt bệnh của chính họ, tuy nhiên các triệu chứng liên quan đến hạ đường huyết là rất khác nhau ở mỗi người.
+- Các triệu chứng được chia thành ba nhóm:
+	- Nhóm adrenergic hoặc autonomic
+	- Nhóm neuroglycopenic (biểu hiện thần kinh)
+	- Nhóm triệu chứng không đặc hiệu
+- Trong đái tháo đường type 1, triệu chứng nhóm adrenergic và nhóm không đặc hiệu biểu hiện ở mức đường huyết ~ 3.8 mmol/L. Chúng thường được xem là những triệu chứng cảnh báo và cho thời gian xử trí trước khi biểu hiện triệu chứng neuroglycopenic.
+- Các bệnh lý không rõ là nguyên nhân hay hậu quả của hạ đường huyết có thể xuất hiện trong bệnh cảnh hạ đường huyết nặng (ví dụ AMI, đột quỵ, cơn thiếu máu não thoáng qua,...).
+{% include img/full.html src="/img/post/thought/hdh.png" des="Triệu chứng liên quan đến hạ đường huyết" %}
+
+### Nguyên nhân
+- Phần lớn các đợt hạ đường huyết sẽ được xử trí tại nhà bởi chính bệnh nhân. Khi bệnh nhân đến cấp cứu do hạ đường huyết, điều quan trọng là tìm hiểu xem các trường hợp và lý do nhập viện. Trong nhiều trường hợp, một nguyên nhân rõ ràng không được tìm thấy. Nguyên nhân có thể bao gồm:
+	- Sử dụng insulin và thuốc hạ đường huyết uống
+	- Tập thể dục
+	- Dùng các thuốc khác
+	- Nhận thức về các dấu hiệu cảnh báo
+	- Các bệnh khác
+	- Kiểm soát đường huyết nói chung
+	- Rượu
+	- Nguyên nhân tâm lý và tâm thần
+- 
 
