@@ -7,7 +7,7 @@ categories: thought
 notnumbering: 1
 ---
 
-{% include toc.html %}
+{% include toc.html h_max=1 %}
 
 ## Giới thiệu:
 

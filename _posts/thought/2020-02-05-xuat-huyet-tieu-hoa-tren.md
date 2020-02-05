@@ -7,7 +7,7 @@ img: Upper-Gastrointestinal-Haemorrhage.jpg
 notnumbering: 1
 ---
 
-{% include toc.html %}
+{% include toc.html h_max=1 %}
  
 ## Bối cảnh và định nghĩa
 
