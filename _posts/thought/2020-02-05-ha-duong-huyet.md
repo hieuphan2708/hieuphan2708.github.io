@@ -14,8 +14,8 @@ notnumbering: 1
 ## Sinh lý bệnh
 
 ### Chuyển hóa glucose ở bệnh nhân bình thường
-- Ở người không bị đái tháo đường, nồng độ glucose được duy trì trong một phạm vi nhỏ. Glucose đi vào máu từ carbohydrate chế độ ăn uống, và do kết quả của việc tiết insulin đưa glucose đưa vào các tế bào, đặc biệt là các tế bào cơ và tế bào mỡ. Sau đó, nó có thể được sử dụng trực tiếp bởi các tế bào để lấy năng lượng thông qua quá trình glycolysis và cuối cùng là chu trình Krebs. Khi có quá nhiều glucose, insulin sẽ kích hoạt sự chuyển đổi glucose dư thừa ban đầu thành glycogen để dự trữ ở gan và nếu còn dư glucose thì sẽ chuyển thành axit béo trong gan, cuối cùng được chuyển thành triglyceride trong tế bào mỡ.
-- Khi nồng độ glucose máu bắt đầu giảm, nồng độ insulin cũng giảm và quá trình này bị đảo ngược. Điều này ban đầu xảy ra thông qua sự ly giải glycogen (glycogenolysis) để giải phóng glucose từ gan, và một khi tất cả glycogen được sử dụng, quá trình tân tạo đường (glycogenolysis) xảy ra, trong đó các tế bào gan sản xuất glucose từ các chất không phải carbohydrate như protein và chất béo. Do đó, trong lúc đói hoặc tập thể dục kéo dài, quá trình gluconeogenesis giúp duy trì nồng độ glucose huyết tương.
+- Ở người không bị đái tháo đường, nồng độ glucose được duy trì trong một phạm vi nhỏ. Glucose đi vào máu từ carbohydrate chế độ ăn uống, và do kết quả của việc tiết insulin đưa glucose đưa vào các tế bào, đặc biệt là các tế bào cơ và tế bào mỡ. Sau đó, nó có thể được sử dụng trực tiếp bởi các tế bào để lấy năng lượng thông qua quá trình đường phân và cuối cùng là chu trình Krebs. Khi có quá nhiều glucose, insulin sẽ kích hoạt sự chuyển đổi glucose dư thừa ban đầu thành glycogen để dự trữ ở gan và nếu còn dư glucose thì sẽ chuyển thành axit béo trong gan, cuối cùng được chuyển thành triglyceride trong tế bào mỡ.
+- Khi nồng độ glucose máu bắt đầu giảm, nồng độ insulin cũng giảm và quá trình này bị đảo ngược. Điều này ban đầu xảy ra thông qua sự ly giải glycogen (glycogenolysis) để giải phóng glucose từ gan, và một khi tất cả glycogen được sử dụng, quá trình tân tạo đường (gluconeogenesis) xảy ra, trong đó các tế bào gan sản xuất glucose từ các chất không phải carbohydrate như protein và chất béo. Do đó, trong lúc đói hoặc tập thể dục kéo dài, quá trình gluconeogenesis giúp duy trì nồng độ glucose huyết tương.
 - Tuyến tụy tiết ra insulin ở mức glucose nền và cũng tăng vọt để đáp ứng với sự gia tăng glucose trong hệ thống cửa.
 - Insulin có tác dụng ức chế sản xuất glucose từ gan và ở nồng độ cao hơn sẽ kích thích sự hấp thu glucose bằng cách hoạt hóa vận chuyển glucose vào các tế bào sau đó được chuyển đổi để được lưu trữ trong gan dưới dạng glycogen hoặc chất béo.
 - Insulin tác động lên tế bào đích của nó là tế bào gan, tế bào cơ xương và tế bào mỡ.
@@ -38,7 +38,7 @@ notnumbering: 1
 - Tuy nhiên, nếu gan không thể đáp ứng do dự trữ glycogen không đủ hoặc có bệnh gan, thì tác dụng của glucagon sẽ không hiệu quả và gluconeogenesis đóng vai trò lớn hơn.
 - Cortisol và hormone tăng trưởng có vai trò tương tự trong giai đoạn sau của hạ đường huyết.
 - Ở những người không mắc bệnh đái tháo đường, các hormone đối kháng được giải phóng ở mức đường huyết 3,8 mmol/L, các triệu chứng hạ đường huyết bắt đầu ở mức đường huyết khoảng 3,0mmol/L với rối loạn chức năng nhận thức ở mức dưới 2 mmol/L. Tuy nhiên, những tác dụng này xảy ra ở các mức độ khác nhau ở bệnh nhân đái tháo đường, một phần phụ thuộc vào kiểm soát đường huyết của họ trước đây.
-- Ở bệnh nhân đái tháo đường type 1, đáp ứng glucagon nội sinh đối với tình trạng hạ đường huyết giảm hoặc mất trong một vài năm chẩn đoán. Tuy nhiên, nếu bệnh nhân tiếp tục đáp ứng với glucagon ngoại sinh, do đó có vai trò của nó trong điều trị. Đáp ứng catecholamine cũng có thể bị suy giảm hoặc xảy ra ở mức glucose thấp hơn tạo ra ít dấu hiệu cảnh báo hơn và có ít thời gian hơn để có biện pháp khắc phục.
+- Ở bệnh nhân đái tháo đường type 1, đáp ứng glucagon nội sinh đối với tình trạng hạ đường huyết giảm hoặc mất trong một vài năm chẩn đoán (vì thiếu hụt hoàn toàn insulin mà 2 chất này cùng được tiết ra để ổn định đường huyết). Tuy nhiên, nếu bệnh nhân tiếp tục đáp ứng với glucagon ngoại sinh, thì vẫn có vai trò trong điều trị. Đáp ứng catecholamine cũng có thể bị suy giảm hoặc xảy ra ở mức glucose thấp hơn tạo ra ít dấu hiệu cảnh báo hơn và có ít thời gian hơn để có biện pháp khắc phục.
 - Ở bệnh nhân đái tháo đường type 2, tác dụng của các hormone đối kháng cũng như việc bài tiết insulin được bảo tồn trong những năm đầu. Khi thiếu insulin ngày càng nặng và bệnh nhân cần điều trị bằng insulin, các cơ chế đối kháng bị suy yếu. Hạ đường huyết thường được cho là thường gặp ở bệnh đái tháo đường type 1 hơn type 2, nhưng ở những bệnh nhân đái tháo đường type 2 được điều trị bằng insulin, tỷ lệ có thể tương tự.
 
 ### Hiệu ứng Somogyi
@@ -92,9 +92,15 @@ notnumbering: 1
 		- quinine, quinolones, pentamidine,...
 		- chẹn beta: che dấu triệu chứng cảnh báo hạ đường huyết (các triệu chứng hạ đường huyết là triệu chứng cường giao cảm, chẹn beta là ức chế giao cảm sẽ không làm xuất hiện các triệu chứng này khi hạ đường huyết) và chẹn beta không chọn lọc (beta-1 và beta-2) làm chặn hoạt động của glucagon trong gan (vì kích thích beta-adrenergic sẽ tăng tiết insulin và glucagon).
 	- Thuốc hạ đường huyết tác dụng dài có thể gây ảnh hưởng ở bệnh nhân lớn tuổi sử dụng nhiều loại thuốc.
-
-
-
+<div class="alert alert-danger" role="alert">
+  Các yếu tố nguy cơ gây hạ đường huyết do thuốc bao gồm: hạn chế lượng carbohydrate nhập, người già và trẻ em, suy gan hoặc suy thận
+</div>
+- Rượu
+	- Rượu làm mình nghĩ một số dấu hiệu ví dụ: run rẩy, lo lắng là do thiếu rượu hơn là dấu hiệu cảnh báo của hạ đường huyết, và có thể bị nhầm lẫn là triệu chứng neuroglycopenic. Nó cũng ức chế gluconeogenesis.
+- Tập thể dục và nhiệt
+	- Tập thể dục và nhiệt có thể làm tăng hấp thu insulin từ các vị trí tiêm.
+- Hạ đường huyết về đêm (Nocturnal hypoglycaemia) và ngưỡng đường huyết
+	-  
 
 
 
