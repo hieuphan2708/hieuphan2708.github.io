@@ -7,6 +7,8 @@ categories: thought
 notnumbering: 1
 ---
 
+{% include toc.html %}
+
 ## Giới thiệu:
 
 ### Bối cảnh và định nghĩa:

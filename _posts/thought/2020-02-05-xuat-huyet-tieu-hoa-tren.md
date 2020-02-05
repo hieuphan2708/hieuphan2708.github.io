@@ -6,6 +6,8 @@ categories: thought
 img: Upper-Gastrointestinal-Haemorrhage.jpg
 notnumbering: 1
 ---
+
+{% include toc.html %}
  
 ## Bối cảnh và định nghĩa
 
