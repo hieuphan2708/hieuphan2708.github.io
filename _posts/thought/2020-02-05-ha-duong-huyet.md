@@ -69,5 +69,6 @@ notnumbering: 1
 	- Kiểm soát đường huyết nói chung
 	- Rượu
 	- Nguyên nhân tâm lý và tâm thần
-- 
+- Hai thử nghiệm mang tính bước ngoặt, Thử nghiệm kiểm soát và biến chứng đái tháo đường (DCCT) và Nghiên cứu đái tháo đường ở Anh, báo cáo tỷ lệ hạ đường huyết tăng khi điều trị tích cực. Nồng độ HbA1c trong phạm vi bình thường có liên quan đến tăng nguy cơ hạ đường huyết.
+
 
