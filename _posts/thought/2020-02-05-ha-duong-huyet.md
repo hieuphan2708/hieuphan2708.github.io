@@ -116,6 +116,16 @@ notnumbering: 1
   Ở những bệnh nhân không mắc bệnh đái tháo đường, hạ đường huyết chỉ nên được chẩn đoán dựa trên các triệu chứng lâm sàng và glucose huyết thanh hoặc huyết tương đo trong phòng thí nghiệm (chứ không phải đo tại giường).
 </div>
 
+## Điều trị
+
+### Điều trị cấp cứu
+- Hiện nay chưa thấy guideline, các lựa chọn có thể là:
+	- **Carbohydrate uống**: Thích hợp cho bệnh nhân tỉnh táo hợp tác.
+	- **Buccal glucose gel**
+	- **Dextrose truyền tĩnh mạch**: đáp ứng nhanh. Các dung dịch ưu trương đặc biệt là dextrose 50% , có thể gây viêm, vì vậy nên truyền nhanh 100ml Dextrose 10%.
+	- **Glucagon**: tiêm dưới da, tiêm bắp, tiêm tĩnh mạch. Thường tiêm bắp.
+- Khi dextrose hoặc glucagon phục hồi nhanh chóng thì hạ đường huyết có thể tái phát nếu carbohydrate không được cung cấp để tiếp tục cung cấp glucose. Điều này đặc biệt quan trọng vì đã hết lượng dự trữ glycogen ở gan.
+
 
 
 
