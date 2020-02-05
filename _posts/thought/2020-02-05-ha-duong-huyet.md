@@ -70,5 +70,35 @@ notnumbering: 1
 	- Rượu
 	- Nguyên nhân tâm lý và tâm thần
 - Hai thử nghiệm mang tính bước ngoặt, Thử nghiệm kiểm soát và biến chứng đái tháo đường (DCCT) và Nghiên cứu đái tháo đường ở Anh, báo cáo tỷ lệ hạ đường huyết tăng khi điều trị tích cực. Nồng độ HbA1c trong phạm vi bình thường có liên quan đến tăng nguy cơ hạ đường huyết.
+- ĐTĐ type 1, những nguyên nhân thường gặp là dùng insulin sai cách, bỏ bữa ăn và tập thể dục quá mức.
+- ĐTĐ type 2, những nguyên nhân thường gặp là lớn tuổi và nạp thiếu năng lượng là những yếu tố nguy cơ chính đối với những bệnh nhân sử dụng sulphonylureas.
+- Ở người lớn tuổi, yếu tố nguy cơ chính là:
+	- Nhập viện gần đây/bệnh xen kẽ
+	- Dùng nhiều thuốc
+- Điều trị đái tháo đường
+	- Nhiều loại insulin và cách dùng khác nhau dẫn đến những kiểu hạ đường huyết khác nhau.
+	- Các phương pháp điều trị khác như metformin và glitazone, hiếm khi tự gây hạ đường huyết nhưng chúng sẽ làm trầm trọng thêm tình trạng hạ đường huyết khi được sử dụng kết hợp với insulin hoặc sulphonylureas.
+<div class="alert alert-danger" role="alert">
+  Insulin và sulfonylureas đều có thể là nguyên nhân gây hạ đường huyết
+</div>
+
+### Các yếu tố khác
+- Bệnh thận mạn
+	- Độ thanh thải insulin giảm và bài tiết một số thuốc chậm hơn.
+- Thiếu hormone
+	- Thiếu hormone trong bệnh Addisons (suy thượng thận nguyên phát) và suy tuyến yên làm trầm trọng thêm chứng hạ đường huyết, vì cortisol và hormone tăng trưởng (GH) đều là những hormone đối kháng liên quan đến việc phục hồi tình trạng hạ đường huyết giai đoạn sau.
+- Thuốc
+	- Một số loại thuốc tăng tác dụng của insulin ở cả bệnh nhân đái tháo đường và cả người không mắc bệnh đái tháo đường
+		- quinine, quinolones, pentamidine,...
+		- chẹn beta: che dấu triệu chứng cảnh báo hạ đường huyết (các triệu chứng hạ đường huyết là triệu chứng cường giao cảm, chẹn beta là ức chế giao cảm sẽ không làm xuất hiện các triệu chứng này khi hạ đường huyết) và chẹn beta không chọn lọc (beta-1 và beta-2) làm chặn hoạt động của glucagon trong gan (vì kích thích beta-adrenergic sẽ tăng tiết insulin và glucagon).
+	- Thuốc hạ đường huyết tác dụng dài có thể gây ảnh hưởng ở bệnh nhân lớn tuổi sử dụng nhiều loại thuốc.
+
+
+
+
+
+
+
+
 
 
