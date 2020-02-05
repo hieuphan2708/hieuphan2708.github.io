@@ -125,7 +125,9 @@ notnumbering: 1
 	- **Dextrose truyền tĩnh mạch**: đáp ứng nhanh. Các dung dịch ưu trương đặc biệt là dextrose 50% , có thể gây viêm, vì vậy nên truyền nhanh 100ml Dextrose 10%.
 	- **Glucagon**: tiêm dưới da, tiêm bắp, tiêm tĩnh mạch. Thường tiêm bắp.
 - Khi dextrose hoặc glucagon phục hồi nhanh chóng thì hạ đường huyết có thể tái phát nếu carbohydrate không được cung cấp để tiếp tục cung cấp glucose. Điều này đặc biệt quan trọng vì đã hết lượng dự trữ glycogen ở gan.
-
+<div class="alert alert-danger" role="alert">
+  Ở những bệnh nhân vẫn mất ý thức do nguyên nhân khác hoặc không thể ăn uống, cần theo dõi nồng độ glucose thường xuyên và có thể cần truyền dextrose.
+</div>
 
 
 
