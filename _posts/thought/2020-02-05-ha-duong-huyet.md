@@ -104,6 +104,17 @@ notnumbering: 1
 	- Có thể do: bữa ăn, rượu, thời gian tiêm và loại insulin không thích hợp
 	- Hạ đường huyết về đêm được cho là một phần của không nhận thức được tình trạng hạ đường huyết do những thay đổi trong ngưỡng đường huyết.
 	- Ngưỡng đường huyết là mức glucose huyết tương mà tại đó các hormone đối kháng, như glucagon được hoạt hóa và ngưỡng này có thể cao hơn hoặc thấp hơn tùy thuộc vào sự kiểm soát đường huyết thông thường của từng người.
+<div class="alert alert-danger" role="alert">
+  Nếu lượng đường trong máu luôn cao, bệnh nhân có thể cảm thấy hạ đường huyết (hạ) ngay cả khi mức glucose huyết tương ở mức bình thường
+</div>
+
+## Chiến lược khảo sát
+- Có sự khác biệt nhỏ về nồng độ glucose trong máu động mạch, tĩnh mạch và mao mạch nhưng không gây ra những khó khăn trong điều trị thực tế.
+- *Các mẫu máu mao mạch không đáng tin cậy khi tưới máu đến khu vực bị giảm (ví dụ: sốc, suy tim mất bù, tắc động mạch ngoại biên), và khi hematocrit thấp. Vì mô phải tăng trích xuất glucose do lưu lượng máu tới mô giảm và thời gian vận chuyển (transit time) glucose dài. Trong những trường hợp này mẫu máu tĩnh mạch hoặc động mạch được ưa thích hơn.*
+- Ở bệnh nhân tuần hoàn bình thường, glucose máu mao mạch đáng tin cậy. Trong bối cảnh đái tháo đường, mức đường huyết < 4 mmol/L chỉ ra tình trạng hạ đường huyết và cần điều trị.
+<div class="alert alert-danger" role="alert">
+  Ở những bệnh nhân không mắc bệnh đái tháo đường, hạ đường huyết chỉ nên được chẩn đoán dựa trên các triệu chứng lâm sàng và glucose huyết thanh hoặc huyết tương đo trong phòng thí nghiệm (chứ không phải đo tại giường).
+</div>
 
 
 
