@@ -20,7 +20,7 @@ kramdown:
 highlighter: rouge
 permalink: /:categories/:title
 # paginate: 24
-# paginate_path: "/thought/page-:num"
+# paginate_path: "/chuyende/page-:num"
 
 # Facebook App ID
 # fb_app_id: ""
