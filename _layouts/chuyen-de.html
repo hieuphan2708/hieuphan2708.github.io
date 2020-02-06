@@ -6,7 +6,7 @@ more-css:
 ---
 
 {% assign cpage = page.current_page %}
-{% for post in site.categories.thought %}
+{% for post in site.categories.chuyende %}
   {% assign nbposts = forloop.length %}
   {% break %}
 {% endfor %}
@@ -38,8 +38,8 @@ more-css:
       </div>
     {% endif %}
     <div class="row justify-content-center">
-      {% assign element-source = site.categories.thought %}
-      {% include post-layout.html type="thought2" source=element-source offset=off_set limit=16 img-src="/img/chuyen-de"%}
+      {% assign element-source = site.categories.chuyende %}
+      {% include post-layout.html type="chuyende2" source=element-source offset=off_set limit=16 img-src="/img/chuyen-de"%}
     </div>
     {% if total_page > 1 %}
       <div class="my-2">

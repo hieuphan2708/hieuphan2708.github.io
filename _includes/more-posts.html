@@ -18,12 +18,12 @@
     {% assign limit = 4 %}
     {% assign img-src = '/img/bookimg' | prepend: site.baseurl %}
     {% include sec-title.html title=more_title href="/reading" more=more_reading %}
-  {% when "thought" %}
+  {% when "chuyende" %}
     {% assign class-col = 'col-6 col-sm-4 col-md-3 text-center mb-3' %}
-    {% assign class-main = 'thought2-main text-center' %}
-    {% assign img-src = '/img/thought' | prepend: site.baseurl %}
+    {% assign class-main = 'chuyende2-main text-center' %}
+    {% assign img-src = '/img/chuyende' | prepend: site.baseurl %}
     {% assign limit = 4 %}
-    {% include sec-title.html title=more_title href="/thought" more=more_thought %}
+    {% include sec-title.html title=more_title href="/chuyende" more=more_chuyende %}
   {% when "tutorial" %}
     {% assign class-main = 'tutorial-main' %}
     {% assign class-col = 'col-6 col-md-4 col-lg-2 p-2' %}
