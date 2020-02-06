@@ -1,7 +1,7 @@
 ---
 layout: page
 more-css:
-  - "/css/thought.css"
+  - "/css/chuyen-de.css"
   - "/css/tag-page.css"
 ---
 
@@ -24,7 +24,7 @@ more-css:
           Bài viết theo chủ đề
         </h4>
         <hr class="mt-1">
-        {% include tag-list.html src="/tags/thought" %}
+        {% include tag-list.html src="/tags/chuyen-de" %}
       </div>
     </div>
   </div>
@@ -34,16 +34,16 @@ more-css:
   <div class="container">
     {% if total_page > 1 %}
       <div class="mb-2">
-        {% include pagination.html type="thought" %}
+        {% include pagination.html type="chuyen-de" %}
       </div>
     {% endif %}
     <div class="row justify-content-center">
       {% assign element-source = site.categories.thought %}
-      {% include post-layout.html type="thought2" source=element-source offset=off_set limit=16 img-src="/img/thought"%}
+      {% include post-layout.html type="thought2" source=element-source offset=off_set limit=16 img-src="/img/chuyen-de"%}
     </div>
     {% if total_page > 1 %}
       <div class="my-2">
-        {% include pagination.html type="thought" %}
+        {% include pagination.html type="chuyen-de" %}
       </div>
     {% endif %}
   </div>
