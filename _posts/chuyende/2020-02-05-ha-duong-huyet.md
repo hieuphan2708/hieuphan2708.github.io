@@ -2,7 +2,7 @@
 layout: post
 title: "Hạ đường huyết"
 tags: [chuyển hóa]
-categories: thought
+categories: chuyende
 img: Hypoglycaemia.jpg
 notnumbering: 1
 ---
@@ -30,7 +30,7 @@ notnumbering: 1
 
 ### Tác động của thuốc hạ đường huyết
  
-{% include img/full.html src="/img/post/thought/hypg.png" des="Tác động của thuốc hạ đường huyết" %}
+{% include img/full.html src="/img/post/chuyende/hypg.png" des="Tác động của thuốc hạ đường huyết" %}
 
 ### Tác động của các hormone khác
 - Khi bị hạ đường huyết, cơ thể sẽ tự bảo vệ mình bằng cách:
@@ -59,7 +59,7 @@ notnumbering: 1
 	- Nhóm triệu chứng không đặc hiệu
 - Trong đái tháo đường type 1, triệu chứng nhóm adrenergic và nhóm không đặc hiệu biểu hiện ở mức đường huyết ~ 3.8 mmol/L. Chúng thường được xem là những triệu chứng cảnh báo và cho thời gian xử trí trước khi biểu hiện triệu chứng neuroglycopenic.
 - Các bệnh lý không rõ là nguyên nhân hay hậu quả của hạ đường huyết có thể xuất hiện trong bệnh cảnh hạ đường huyết nặng (ví dụ AMI, đột quỵ, cơn thiếu máu não thoáng qua,...).
-{% include img/full.html src="/img/post/thought/hdh.png" des="Triệu chứng liên quan đến hạ đường huyết" %}
+{% include img/full.html src="/img/post/chuyende/hdh.png" des="Triệu chứng liên quan đến hạ đường huyết" %}
 
 ### Nguyên nhân
 - Phần lớn các đợt hạ đường huyết sẽ được xử trí tại nhà bởi chính bệnh nhân. Khi bệnh nhân đến cấp cứu do hạ đường huyết, điều quan trọng là tìm hiểu xem các trường hợp và lý do nhập viện. Trong nhiều trường hợp, một nguyên nhân rõ ràng không được tìm thấy. Nguyên nhân có thể bao gồm:
@@ -137,7 +137,7 @@ notnumbering: 1
   Trong hạ đường huyết nặng hoặc kéo dài có thể gây phù não. Dexamethasone, mannitol hoặc thở máy có thể được chỉ định sau khi CT-scan.
 </div>
 - Flow Chart điều trị
-{% include img/full.html src="/img/post/thought/treatment.png" des="Hướng dẫn điều trị hạ đường huyết" %}
+{% include img/full.html src="/img/post/chuyende/treatment.png" des="Hướng dẫn điều trị hạ đường huyết" %}
 
 ### Nâng cao nhận thức về hạ đường huyết
 - Giáo dục bệnh nhân

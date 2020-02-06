@@ -24,8 +24,8 @@
   icon: fa-edit
   name: sketch
   color: fdb54b
-- title: Chuyên đề
-  url: /chuyen-de
+- title: "Chuyên đề"
+  url: /chuyende
   icon: fa-magic
-  name: chuyen-de
+  name: chuyende
   color: bd96f6

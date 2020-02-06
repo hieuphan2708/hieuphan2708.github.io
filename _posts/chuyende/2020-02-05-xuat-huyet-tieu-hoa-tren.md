@@ -2,7 +2,7 @@
 layout: post
 title: "Xuất huyết tiêu hóa trên"
 tags: [tiêu hóa]
-categories: thought
+categories: chuyende
 img: Upper-Gastrointestinal-Haemorrhage.jpg
 notnumbering: 1
 ---
@@ -16,7 +16,7 @@ notnumbering: 1
 
 ### Định nghĩa
 
-{% include img/full-50.html src="/img/post/thought/hinh21.png" des="Các nguyên nhân gây xuất huyết tiêu hóa trên" %}
+{% include img/full-50.html src="/img/post/chuyende/hinh21.png" des="Các nguyên nhân gây xuất huyết tiêu hóa trên" %}
 
 - Xuất huyết tiêu hóa trên được định nghĩa là xuất huyết bất cứ đâu từ thực quản đến góc Treitz.
 - Nguyên nhân thường gặp nhất là loét dạ dày
@@ -66,13 +66,13 @@ notnumbering: 1
 
 ### Thang điểm Glasgow-Blatchford
 - Được tính toán bằng 4 thành phần bệnh sử (bệnh gan, suy tim), triệu chứng (tiêu phân đen, ngất), dấu hiệu (nhịp tim nhanh, huyết áp) và xét nghiệm máu (hemoglobin, ure). Điểm tối đa là 29.
-{% include img/full-50.html src="/img/post/thought/Glasgow-Blatchford-Score.png" des="Thang điểm Glasgow-Blatchford" %}
+{% include img/full-50.html src="/img/post/chuyende/Glasgow-Blatchford-Score.png" des="Thang điểm Glasgow-Blatchford" %}
 
 ### Thang điểm Rockall
 - Đánh giá tỉ lệ tử vong.
 - Điểm số bao gồm ba thông số lâm sàng (tuổi, sự hiện diện của sốc và bệnh đồng mắc) và hai thông số dựa trên kết quả nội soi (máu và chẩn đoán). Điểm Rockall trước khi nội soi tối đa là 7 và sau khi nội soi là 11. Điểm Rockall là 3 trước khi nội soi tỷ lệ tử vong ~ 10% và điểm 6 tỷ lệ tử vong ~ 50%.
 - Nhược điểm chính của thang điểm Rockall là nó đòi hỏi nội soi để tính toán tất cả các thành phần của thang điểm. Tuy nhiên, thang điểm trước khi nội soi có thể được sử dụng để giúp xác định những người có tỷ lệ tử vong cao có thể được hưởng lợi từ việc nhập đơn vị chăm sóc tích cực.
-{% include img/full.html src="/img/post/thought/Rockall.png" des="Thang điểm Rockall" %}
+{% include img/full.html src="/img/post/chuyende/Rockall.png" des="Thang điểm Rockall" %}
 <div class="alert alert-danger" role="alert">
   Cả hai thang điểm Glasgow-Blatchford và Rockall đều là những công cụ hữu ích để hỗ trợ bác sĩ lâm sàng trong việc xác định nguy cơ xuất huyết tiêu hóa trên. Thang điểm Blatchford có thể được sử dụng cùng với đánh giá lâm sàng để xác định bệnh nhân có nguy cơ thấp có thể phù hợp để xuất viện.
 </div>
