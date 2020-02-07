@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hội chứng vành cấp"
-tags: [tim mạch]
+tags: cardiology
 img: acute-coronary-syndromes_image.jpg
 categories: chuyende
 notnumbering: 1
