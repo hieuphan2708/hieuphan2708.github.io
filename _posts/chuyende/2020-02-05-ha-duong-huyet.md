@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hạ đường huyết"
-tags: metabolism
+tags: chuyển-hóa
 categories: chuyende
 img: Hypoglycaemia.jpg
 notnumbering: 1

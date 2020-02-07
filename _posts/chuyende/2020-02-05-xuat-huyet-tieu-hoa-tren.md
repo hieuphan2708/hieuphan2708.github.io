@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Xuất huyết tiêu hóa trên"
-tags: gastroenterology
+tags: tiêu-hóa
 categories: chuyende
 img: Upper-Gastrointestinal-Haemorrhage.jpg
 notnumbering: 1
