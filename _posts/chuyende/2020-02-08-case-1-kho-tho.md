@@ -117,11 +117,25 @@ Tràn khí màng phổi bên phải
 click để xem đáp án
 </div>
 <div id="ndTomTat7" markdown="1" class="collapse multi-collapse ndTomTat7">
-{% include img/full-normal.html src="/img/post/chuyende/Screenshot_6.png" %}
-Chẩn đoán phân biệt sẽ bao gồm các tình trạng như thuyên tắc phổi, tràn khí màng phổi, đau cơ xương khớp, viêm màng phổi do virus, v.v. và CLS ban đầu nên nhằm mục đích khảo sát điều này. Một ECG không được chỉ định với thông tin được cung cấp cho đến nay - anh ta còn trẻ không có yếu tố nguy cơ mắc bệnh tim và cơn đau của anh ta không phải là thiếu máu cục bộ; bệnh cảnh hầu như không phải là do nguyên nhân tim mạch. D-dimer không được chỉ định: nếu cần theo đuổi chẩn đoán PE, nên chụp CTPA khi BN có nguy cơ cao. Tuy nhiên, CTPA không nên được thực hiện cho đến khi CXR đơn giản hơn loại trừ các chẩn đoán khác (ví dụ như tràn khí màng phổi). Phân tích ABG có thể chứng minh d(A-a) tăng (mặc dù oxy hóa máu rõ ràng bình thường) làm tăng khả năng PE và sẽ phù hợp để thực hiện nếu CXR không chẩn đoán ra.
+{% include img/full-normal.html src="/img/post/chuyende/Screenshot_10.png" %}
 </div>
 </div>
 
+### Câu 2
+<div class="alert alert-warning" role="alert">
+  Khi được hỏi thêm, BN ho nhiều, khạc đàm xanh và sốt không liên tục trong 2-3 ngày qua. BN không đau ngực. BN khó thở tương tự nhiều lần trước đây và hút thuốc 30 gói năm. 1 dấu hiệu thực thể nào sau đây sẽ ít gặp nhất trên những bệnh nhân này?
+  {% include img/full-normal.html src="/img/post/chuyende/Screenshot_9.png" %}
+</div>
+
+<div class="tomTat">
+<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat8">
+click để xem đáp án
+</div>
+<div id="ndTomTat8" markdown="1" class="collapse multi-collapse ndTomTat8">
+{% include img/full-normal.html src="/img/post/chuyende/Screenshot_6.png" %}
+Đáp án: tiếng cọ màng phổi. Tiếng cọ màng phổi là do phản ứng viêm màng phổi khu trú và thường liên quan đến đau ngực kiểu màng phổi; nó thường xảy ra ở thuyên tắc phổi ngoại biên và viêm phổi cấp tính
+</div>
+</div>
 
 
 
