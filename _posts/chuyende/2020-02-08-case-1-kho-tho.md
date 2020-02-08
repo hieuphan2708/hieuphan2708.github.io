@@ -137,6 +137,20 @@ click để xem đáp án
 </div>
 </div>
 
+### Câu 3
+<div class="alert alert-warning" role="alert">
+  Sinh hiệu M 110 HA 160/95 NT 26 T 38.5 độ C. Tím ngoại biên, không âm thổi, ran ngáy hai bên. SpO<sub>2</sub> 90%. Cho thở oxy FiO2 40%, SpO<sub>2</sub> tăng lên 95%.
+  {% include img/full-50.html src="/img/post/chuyende/Screenshot_11.png" %}
+  Kết quả khí máu này phù hợp bệnh cảnh bệnh nhân không?
+</div>
 
+<div class="tomTat">
+<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat9">
+click để xem đáp án
+</div>
+<div id="ndTomTat9" markdown="1" class="collapse multi-collapse ndTomTat9">
+  Phù hợp. ABG có tình trạng ứ CO<sub>2</sub>, toan hô hấp bù trừ toan chuyển hóa
+</div>
+</div>
 
 
