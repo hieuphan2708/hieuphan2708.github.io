@@ -30,7 +30,7 @@ Những đặc điểm phù hợp: khó thở khi nằm, những lần khó th�
 
 <div class="tomTat">
 <div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat">
-ni dyig
+  click để xem đáp án
 </div>
 <div id="ndTomTat" markdown="1" class="collapse multi-collapse ndTomTat">
 Những đặc điểm phù hợp: tím, da nổi bông, tiếng gallop, thở nhanh
