@@ -18,7 +18,7 @@ notnumbering: 1
   click để xem đáp án
 </div>
 <div id="ndTomTat" markdown="1" class="collapse multi-collapse ndTomTat">
-Những đặc điểm phù hợp: khó thở khi nằm, những lần khó thở tương tự trước đây, tiền căn bệnh tim thiếu máu cục bộ.
+Những đặc điểm phù hợp: **khó thở khi nằm, những lần khó thở tương tự trước đây, tiền căn bệnh tim thiếu máu cục bộ.**
 </div>
 </div>
 
@@ -33,7 +33,7 @@ Những đặc điểm phù hợp: khó thở khi nằm, những lần khó th�
   click để xem đáp án
 </div>
 <div id="ndTomTat" markdown="1" class="collapse multi-collapse ndTomTat">
-Những đặc điểm phù hợp: tím, da nổi bông, tiếng gallop, thở nhanh
+Những đặc điểm phù hợp: **tím, da nổi bông, tiếng gallop, thở nhanh**
 </div>
 </div>
 
