@@ -30,8 +30,8 @@ Những đặc điểm phù hợp: **khó thở khi nằm, những lần khó th
   {% include img/full-normal.html src="/img/post/chuyende/Screenshot_2.png" %}
 </div>
 
-<div class="tomTat2">
-<div id="btTomTat2" class="collapsed" data-toggle="collapse" href="#ndTomTat2">
+<div class="tomTat">
+<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat2">
 click để xem đáp án
 </div>
 <div id="ndTomTat2" markdown="1" class="collapse multi-collapse ndTomTat2">
