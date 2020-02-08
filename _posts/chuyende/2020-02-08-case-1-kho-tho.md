@@ -47,10 +47,10 @@ Những đặc điểm phù hợp: **tím, da nổi bông, tiếng gallop, thở
 </div>
 
 <div class="tomTat">
-<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat">
+<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat3">
 click để xem đáp án
 </div>
-<div id="ndTomTat" markdown="1" class="collapse multi-collapse ndTomTat">
+<div id="ndTomTat3" markdown="1" class="collapse multi-collapse ndTomTat3">
   Phù hợp
 </div>
 </div>
@@ -62,10 +62,10 @@ click để xem đáp án
 </div>
 
 <div class="tomTat">
-<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat">
+<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat4">
 click để xem đáp án
 </div>
-<div id="ndTomTat" markdown="1" class="collapse multi-collapse ndTomTat">
+<div id="ndTomTat4" markdown="1" class="collapse multi-collapse ndTomTat4">
   Tim to, tăng tuần hoàn phổi, tăng mạch máu mô kẽ, tràn dịch màng phổi hai bên
 </div>
 </div>
@@ -79,11 +79,11 @@ click để xem đáp án
 </div>
 
 <div class="tomTat">
-<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat">
+<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat5">
 click để xem đáp án
 </div>
-<div id="ndTomTat" markdown="1" class="collapse multi-collapse ndTomTat">
-Những đặc điểm phù hợp: **khó thở khi nằm, những lần khó thở tương tự trước đây, tiền căn bệnh tim thiếu máu cục bộ.**
+<div id="ndTomTat5" markdown="1" class="collapse multi-collapse ndTomTat5">
+{% include img/full-normal.html src="/img/post/chuyende/Screenshot_6.png" %}
 </div>
 </div>
 
