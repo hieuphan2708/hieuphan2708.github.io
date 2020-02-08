@@ -74,6 +74,23 @@ click để xem đáp án
 
 ### Câu 1
 <div class="alert alert-warning" role="alert">
+  Sinh hiệu: M 90, HA 120/80, NT 28, T 36.8 độ C, SpO<sub>2</sub> 96 khí trời. Tim đều, không âm thổi. Phổi trong. CLS đầu tiên cần thực hiện là gì?
+  {% include img/full-normal.html src="/img/post/chuyende/Screenshot_5.png" %}
+</div>
+
+<div class="tomTat">
+<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat5">
+click để xem đáp án
+</div>
+<div id="ndTomTat5" markdown="1" class="collapse multi-collapse ndTomTat5">
+{% include img/full-normal.html src="/img/post/chuyende/Screenshot_6.png" %}
+Chẩn đoán phân biệt sẽ bao gồm các tình trạng như thuyên tắc phổi, tràn khí màng phổi, đau cơ xương khớp, viêm màng phổi do virus, v.v. và CLS ban đầu nên nhằm mục đích khảo sát điều này. Một ECG không được chỉ định với thông tin được cung cấp cho đến nay - anh ta còn trẻ không có yếu tố nguy cơ mắc bệnh tim và cơn đau của anh ta không phải là thiếu máu cục bộ; bệnh cảnh hầu như không phải là do nguyên nhân tim mạch. D-dimer không được chỉ định: nếu cần theo đuổi chẩn đoán PE, nên chụp CTPA khi BN có nguy cơ cao. Tuy nhiên, CTPA không nên được thực hiện cho đến khi CXR đơn giản hơn loại trừ các chẩn đoán khác (ví dụ như tràn khí màng phổi). Phân tích ABG có thể chứng minh d(A-a) tăng (mặc dù oxy hóa máu rõ ràng bình thường) làm tăng khả năng PE và sẽ phù hợp để thực hiện nếu CXR không chẩn đoán ra.
+</div>
+</div>
+
+### Câu 2
+
+<div class="alert alert-warning" role="alert">
   Sinh hiệu: M 90, HA 120/80, NT 28, T 36.8 độ C, SpO<sub>2</sub> 96 khí trời. Tim đều, không âm thổi. Phổi trong
   {% include img/full-normal.html src="/img/post/chuyende/Screenshot_5.png" %}
 </div>
@@ -86,8 +103,6 @@ click để xem đáp án
 {% include img/full-normal.html src="/img/post/chuyende/Screenshot_6.png" %}
 </div>
 </div>
-
-
 
 
 
