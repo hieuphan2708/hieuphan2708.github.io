@@ -149,7 +149,7 @@ click để xem đáp án
 click để xem đáp án
 </div>
 <div id="ndTomTat9" markdown="1" class="collapse multi-collapse ndTomTat9">
-  Phù hợp. ABG có tình trạng ứ CO<sub>2</sub>, toan hô hấp bù trừ toan chuyển hóa
+  Phù hợp. ABG có tình trạng ứ CO<sub>2</sub>, toan hô hấp bù trừ bằng kiềm chuyển hóa
 </div>
 </div>
 
