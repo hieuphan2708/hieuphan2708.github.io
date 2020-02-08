@@ -92,7 +92,7 @@ Chẩn đoán phân biệt sẽ bao gồm các tình trạng như thuyên tắc 
 
 <div class="alert alert-warning" role="alert">
   Chẩn đoán là gì?
-  {% include img/full-normal.html src="/img/post/chuyende/Screenshot_7.png" %}
+  {% include img/full-50.html src="/img/post/chuyende/Screenshot_7.png" %}
 </div>
 
 <div class="tomTat">
