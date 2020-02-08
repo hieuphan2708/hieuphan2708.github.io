@@ -31,10 +31,10 @@ Những đặc điểm phù hợp: **khó thở khi nằm, những lần khó th
 </div>
 
 <div class="tomTat">
-<div id="btTomTat" class="collapsed" data-toggle="collapse" href="#ndTomTat">
+<div id="btTomTat2" class="collapsed" data-toggle="collapse" href="#ndTomTat2">
 click để xem đáp án
 </div>
-<div id="ndTomTat" markdown="1" class="collapse multi-collapse ndTomTat">
+<div id="ndTomTat2" markdown="1" class="collapse multi-collapse ndTomTat2">
 Những đặc điểm phù hợp: **tím, da nổi bông, tiếng gallop, thở nhanh**
 </div>
 </div>
