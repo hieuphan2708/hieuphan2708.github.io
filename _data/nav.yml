@@ -14,11 +14,6 @@
   icon: fa-cubes
   name: reading
   color: 5eeda3
-- title: Me
-  url: /about
-  icon: fa-heart-o
-  name: about
-  color: 3292f6
 - title: Sketch
   url: /sketch
   icon: fa-edit
@@ -29,6 +24,8 @@
   icon: fa-magic
   name: chuyende
   color: bd96f6
-  sublinks:
-	- title: E-Learning
-	- url: /
+- title: Me
+  url: /about
+  icon: fa-heart-o
+  name: about
+  color: 3292f6
