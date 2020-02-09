@@ -52,14 +52,7 @@
             {% endif %}
             <h1>{{ page.title }}</h1>
             <h3>{{ page.subtitle }}</h3>
-            {% if page.nav == 'about' %}
-              {% if site.data.setting.lang.current == "en" %}
-                {% assign abt-cv = site.data.lang['mycv'].en %}
-                {% assign abt-note = site.data.lang['mynote'].en %}
-              {% else %}
-                {% assign abt-cv = site.data.lang['mycv'].vn %}
-                {% assign abt-note = site.data.lang['mynote'].vn %}
-              {% endif %}      
+            {% if page.nav == 'about' %}     
               <a target="_blank" href="{{site.data.setting.author.cv}}" class="btn btn-primary btn-warning mt-3 font-weight-bold" role="button" style="color: #80357c;">{{abt-cv}}</a>
               <a target="_blank" href="{{site.data.setting.author.mynote.url}}" class="btn btn-primary btn-success mt-3 font-weight-bold" role="button">{{ abt-note }}</a>
             {% endif %}
