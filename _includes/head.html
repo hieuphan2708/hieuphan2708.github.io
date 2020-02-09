@@ -125,6 +125,12 @@
   <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}" />
   {% endif %}
 
+  {% if page.share-img %}
+  <meta property="og:image" content="{{ page.share-img }}" />
+  {% elsif site.avatar %}
+  <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
+  {% endif %}
+
   <!-- page's cover -->
   {% if page.bigimg %}
     <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{ page.bigimg }}" />
