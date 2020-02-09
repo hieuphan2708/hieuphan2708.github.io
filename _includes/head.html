@@ -121,8 +121,8 @@
   <meta property="og:url" content="{{ site.url }}{{site.baseurl}}{{ page.url }}" />
   <link rel="canonical" href="{{ site.url }}{{site.baseurl}}{{ page.url }}" />
   {% else %}
-  <meta property="og:url" content="{{ site.url | page.url | strip_index }}" />
-  <link rel="canonical" href="{{ site.url | page.url | strip_index }}" />
+  <meta property="og:url" content="{{ site.url | site.baseurl | page.url | strip_index }}" />
+  <link rel="canonical" href="{{ site.url | site.baseurl | page.url | strip_index }}" />
   {% endif %}
 
   <!-- page's cover -->
