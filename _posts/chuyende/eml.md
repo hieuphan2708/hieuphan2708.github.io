@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EM-Learning
-permalink: /eml
+permalink: /chuyende/eml
 ---
 
 ## About
