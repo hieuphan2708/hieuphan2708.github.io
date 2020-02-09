@@ -118,17 +118,11 @@
   <meta property="og:type" content="website" />
 
   {% if page.id %}
-  <meta property="og:url" content="{{ page.url | absolute_url }}" />
-  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta property="og:url" content="{{ site.url | page.url }}" />
+  <link rel="canonical" href="{{ site.url | page.url }}" />
   {% else %}
-  <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}" />
-  <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}" />
-  {% endif %}
-
-  {% if page.share-img %}
-  <meta property="og:image" content="{{ page.share-img }}" />
-  {% elsif site.avatar %}
-  <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
+  <meta property="og:url" content="{{ site.url | page.url | strip_index }}" />
+  <link rel="canonical" href="{{ site.url | page.url | strip_index }}" />
   {% endif %}
 
   <!-- page's cover -->
