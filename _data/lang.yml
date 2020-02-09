@@ -1,5 +1,5 @@
 update:
-  en: "updated"
+  en: "cập nhật"
   vn: "cập nhật"
 mycv:
   en: "My CV"
@@ -9,8 +9,8 @@ mynote:
   vn: "Ghi chú của Thi"
 nav:
   home:
-    en: "Home"
-    vn: "Home"
+    en: "Trang chủ"
+    vn: "Trang chủ"
   tutorial:
     en: "Tutorials"
     vn: "Toán Tin"
@@ -28,7 +28,7 @@ index:
     en: "Xin cảm ơn mọi người đã ghé thăm blog này. Đây là blog để mình lưu lại những thứ “may mắn” được đọc trong quãng đời sinh viên y khoa"
     vn: "Xin cảm ơn mọi người đã ghé thăm blog này. Đây là blog để mình lưu lại những thứ “may mắn” được đọc trong quãng đời sinh viên y khoa"
   about:
-    en: "About"
+    en: "Giới thiệu"
     vn: "Về tôi"
 section:
   project:
@@ -63,7 +63,7 @@ section:
       vn: "xem những hình khác"
   chuyende:
     more:
-      en: "see others"
+      en: "xem thêm nhiều hơn"
       vn: "xem thêm nhiều hơn"
 footer:
   support_text:
