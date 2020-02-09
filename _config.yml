@@ -1,12 +1,12 @@
 title: Hiếu nè
 description: Welcome
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "hieuphan2708.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 title-separator: "-"
 
 author:
-  name: Nguyên Hiếu
+  name: Blog của Hiếu
   github: hieuphan2708
   facebook: hieu.baby
   email: pnhieu.stu14@medvnu.edu.vn
