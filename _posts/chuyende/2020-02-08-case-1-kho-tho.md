@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Case lâm sàng khó thở"
-tags: [hô-hấp, case]
+tags: [hô-hấp, case, eml]
 categories: chuyende
 img: shutterstock520640059.jpg
 notnumbering: 1

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Xuất huyết tiêu hóa trên"
-tags: tiêu-hóa
+tags: [tiêu-hóa, eml]
 categories: chuyende
 img: Upper-Gastrointestinal-Haemorrhage.jpg
 notnumbering: 1
