@@ -4,12 +4,6 @@ favicon: /img/favicon.ico
 # Author's information
 author:
   avatar: /img/avatar.png
-  cv: /files/mycv.pdf
-  mynote:
-    url: https://note.dinhanhthi.com
-    text: <span>note</span>.dinhanhthi.com
-    description: I write this NoteTheme theme for noting all of what I have studied.
-    img: /img/mynote.png
 
 # number of challenge books
 ncb: 10
