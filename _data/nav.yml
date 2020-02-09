@@ -29,3 +29,6 @@
   icon: fa-magic
   name: chuyende
   color: bd96f6
+  sublinks:
+	- title: E-Learning
+	- url: /
