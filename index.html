@@ -109,24 +109,13 @@ js:
   </div>
 </section>
 
-<!-- tutorials -->
-<section class="alt-color section">
-  <div class="container mb-5">
-    {% include sec-title.html title="Tutorials" href="/tutorial" more="see full list" %}
-    <div class="row row-eq-height justify-content-center">
-      {% assign element-source = site.categories.tutorial %}
-      {% include post-layout.html type="tutorial" source=element-source offset=0 img-src="/img/tutorial" limit=6 %}
-    </div>
-  </div>
-</section>
-
 <!-- chuyende2 -->
 <section class="alt-color section">
   <div class="container mb-5">
-    {% include sec-title.html title="My chuyende 2" href="/chuyende" more="see full list" %}
+    {% include sec-title.html title="Bài viết y khoa tham khảo" href="/chuyende" more="xem thêm tại đây" %}
     <div class="row row-eq-height justify-content-center">
       {% assign element-source = site.categories.chuyende %}
-      {% include post-layout.html type="chuyende2" source=element-source offset=0 img-src="/img/chuyende" limit=4 %}
+      {% include post-layout.html type="chuyende2" source=element-source offset=0 img-src="/img/chuyende" limit=5 %}
     </div>
   </div>
 </section>
