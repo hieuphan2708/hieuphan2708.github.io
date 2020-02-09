@@ -11,7 +11,7 @@
   color: fc5d76
 - title: "Công cụ"
   url: /congcu
-  icon: icon-cogs
+  icon: fa-cogs
   name: reading
   color: 5eeda3
 - title: Sketch
