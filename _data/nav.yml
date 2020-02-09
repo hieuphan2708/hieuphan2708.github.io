@@ -9,9 +9,9 @@
   icon: fa-language
   name: tutorial
   color: fc5d76
-- title: "FOAMed"
-  url: /reading
-  icon: fa-cubes
+- title: "Công cụ"
+  url: /congcu
+  icon: icon-cog-alt
   name: reading
   color: 5eeda3
 - title: Sketch
