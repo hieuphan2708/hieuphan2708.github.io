@@ -1,41 +1,50 @@
 ---
-layout: base
+layout: page
 more-css:
+  - "/css/chuyende.css"
   - "/css/tag-page.css"
 ---
 
-{% include header.html type="page" %}
+{% assign cpage = page.current_page %}
+{% for post in site.categories.chuyende %}
+  {% assign nbposts = forloop.length %}
+  {% break %}
+{% endfor %}
+{% assign off_set = cpage | minus: 1 %}
+{% assign off_set = off_set | times: 16 %}
+{% assign nbposts = nbposts | times: 1.0 %}
+{% assign total_page = nbposts | divided_by: 16 %}
+{% assign total_page =  total_page | ceil %}
 
-
-<section class="section">
+<section class="section mb-0">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-12 col-sm-8 tag-nav">
-        <div class="text">
-          Chọn chủ đề bạn muốn xem bài viết
-        </div>
-        {% assign tag_src = '/tags/' | append: page.nav %}
-        {% include tag-list.html src=tag_src %}
+      <div class="sec-more-title text-center mt-4 mx-auto col-12">
+        <h4>
+          Bài viết theo chủ đề
+        </h4>
+        <hr class="mt-1">
+        {% include tag-list.html src="/tags/chuyende" %}
       </div>
-      {% for tag in site.tags %}
-        {% for tagData in site.data.tag[page.nav] %}
-          {% if tag[0] == tagData %}
-            <div id="{{tag[0] | slugify}}" class="col-12 col-md-8 tag-sec">
-              <h3><i class="fa fa-tag"></i> {{ tag[0] }}</h3>
-              <ul class="post-list">
-                {% for post in tag[1] %}
-                  <li>
-                    <a href="{{site.baseurl}}{{post.url}}">
-                      {{post.title}}
-                      <small>{{post.date | date_to_string}}</small>
-                    </a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
-          {% endif %}
-        {% endfor %}
-	    {% endfor %}
     </div>
+  </div>
+</section>
+
+<section class="section pt-0">
+  <div class="container">
+    {% if total_page > 1 %}
+      <div class="mb-2">
+        {% include pagination.html type="chuyende" %}
+      </div>
+    {% endif %}
+    <div class="row justify-content-center">
+      {% assign element-source = site.categories.chuyende %}
+      {% include post-layout.html type="chuyende2" source=element-source offset=off_set limit=16 img-src="/img/chuyende"%}
+    </div>
+    {% if total_page > 1 %}
+      <div class="my-2">
+        {% include pagination.html type="chuyende" %}
+      </div>
+    {% endif %}
   </div>
 </section>
