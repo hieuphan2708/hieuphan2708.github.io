@@ -4,9 +4,14 @@
   icon: fa-home
   name: home
   color: ffeead
-- title: "Bài dịch"
-  url: /tutorial
+- title: "Chuyên đề"
+  url: /chuyende
   icon: fa-language
+  name: chuyende
+  color: bd96f6
+- title: "Khám phá"
+  url: /
+  icon: fa-magic
   name: tutorial
   color: fc5d76
 - title: "Công cụ"
@@ -14,17 +19,12 @@
   icon: fa-cogs
   name: reading
   color: 5eeda3
-- title: Sketch
-  url: /sketch
+- title: "Ghi chú"
+  url: /
   icon: fa-edit
   name: sketch
   color: fdb54b
-- title: "Chuyên đề"
-  url: /chuyende
-  icon: fa-magic
-  name: chuyende
-  color: bd96f6
-- title: Me
+- title: "Giới thiệu"
   url: /about
   icon: fa-heart-o
   name: about
