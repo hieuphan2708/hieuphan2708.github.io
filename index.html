@@ -121,17 +121,6 @@ js:
   </div>
 </section>
 
-<!-- chuyende -->
-<section class="alt-color section">
-  <div class="container mb-5">
-    {% include sec-title.html title="My chuyende 1" href="/chuyende" more="see full list" %}
-    <div class="row row-eq-height justify-content-center">
-      {% assign element-source = site.categories.chuyende %}
-      {% include post-layout.html type="chuyende" source=element-source offset=0 limit=6 %}
-    </div>
-  </div>
-</section>
-
 <!-- chuyende2 -->
 <section class="alt-color section">
   <div class="container mb-5">
@@ -141,24 +130,4 @@ js:
       {% include post-layout.html type="chuyende2" source=element-source offset=0 img-src="/img/chuyende" limit=4 %}
     </div>
   </div>
-</section>
-
-<!-- my notes -->
-{% include mynote.html %}
-
-<!-- sketch -->
-<section id="idx-sketch" class="alt-color section">
-  <div class="container mb-5">
-    {% include sec-title.html title="Latest sketches" href="/sketch" more="see other ones" %}
-    <div class="row justify-content-center">
-      {% assign nb_photos = site.data.setting.nsketch %}
-      {% assign nb_photos = nb_photos | plus: 0 %}
-      {% include sketch.html offset=0 limit=8 nbphotos = nb_photos %}
-    </div>
-  </div>
-</section>
-
-<!-- contact -->
-<section class="alt-color section">
-  {% include sec-form-contact.html %}
 </section>
