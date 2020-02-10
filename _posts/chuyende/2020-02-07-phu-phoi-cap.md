@@ -2,7 +2,7 @@
 layout: post
 title: "Phù phổi cấp"
 tags: [tim-mạch, eml]
-categories: chuyende
+categories: eml
 img: ppc.jpg
 notnumbering: 1
 ---

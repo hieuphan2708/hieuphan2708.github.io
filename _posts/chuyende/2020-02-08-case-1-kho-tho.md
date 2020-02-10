@@ -2,7 +2,7 @@
 layout: post
 title: "Case lâm sàng khó thở"
 tags: [hô-hấp, case, eml]
-categories: chuyende
+categories: eml
 img: shutterstock520640059.jpg
 notnumbering: 1
 ---

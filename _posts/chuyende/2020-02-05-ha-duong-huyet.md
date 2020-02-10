@@ -2,7 +2,7 @@
 layout: post
 title: "Hạ đường huyết"
 tags: [chuyển-hóa, eml]
-categories: chuyende
+categories: eml
 img: Hypoglycaemia.jpg
 notnumbering: 1
 ---

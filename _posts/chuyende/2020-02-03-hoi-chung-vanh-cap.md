@@ -3,7 +3,7 @@ layout: post
 title: "Hội chứng vành cấp"
 tags: [tim-mạch, eml]
 img: acute-coronary-syndromes_image.jpg
-categories: chuyende
+categories: eml
 notnumbering: 1
 ---
 
