@@ -141,6 +141,10 @@ notnumbering: 1
 -    Tuy nhiên, bệnh nhân NSTE-ACS là một quần thể không đồng nhất với các mức độ khác nhau của bệnh xơ vữa động mạch và nguy cơ huyết khối. Để lựa chọn phương pháp điều trị phù hợp nhất, phân tầng rủi ro *sớm* và *lặp đi lặp lại* nên được thực hiện vì lợi ích từ các chiến lược điều trị tích cực nhất định có liên quan đến nguy cơ càng cao thì lợi ích càng lớn.
 -    Hai thang điểm phân tầng nguy cơ thường dùng nhất là TIMI và GRACE.
 
+<div class="alert alert-warning" role="alert">
+  TIMI mnemonic: "AMERICA" - Age, Marker, ECG, Risk factor, Ischemia, Coronary stenosis, Aspirin
+</div>
+
 {% include img/full-50.html src="/img/post/chuyende/hinhthem2.jpg" des="Thang điểm TIMI. Điểm càng cao nguy cơ càng cao" %}
 {% include img/full-50.html src="/img/post/chuyende/hinhthem3.jpg" des="Thang điểm GRACE. Phân tầng rủi ro: <1.5%: rất thấp, 1.5-3%: thấp, 3-6%: trung bình, 6-9%: cao, >9%: rất cao" %}
 
