@@ -3,11 +3,13 @@
   {% assign more_reading = site.data.lang['section'].reading.more.en %}
   {% assign more_chuyende = site.data.lang['section'].chuyende.more.en %}
   {% assign more_tutorial = site.data.lang['section'].tutorial.more.en %}
+  {% assign more_eml = site.data.lang['section'].eml.more.en %}
 {% else %}
   {% assign more_title = site.data.lang['more_post'].title.vn %}
   {% assign more_reading = site.data.lang['section'].reading.more.vn %}
   {% assign more_chuyende = site.data.lang['section'].chuyende.more.vn %}
   {% assign more_tutorial = site.data.lang['section'].tutorial.more.vn %}
+  {% assign more_eml = site.data.lang['section'].eml.more.en %}
 {% endif %}
 
 {% case page.categories[0] %}
@@ -32,6 +34,12 @@
     {% assign limit = 6 %}
     {% assign img-src = '/img/tutorial' | prepend: site.baseurl %}
     {% include sec-title.html title=more_title href="/tutorial" more=more_tutorial %}
+  {% when "eml" %}
+    {% assign class-col = 'col-6 col-sm-4 col-md-3 text-center mb-3' %}
+    {% assign class-main = 'chuyende2-main text-center' %}
+    {% assign img-src = '/img/chuyende' | prepend: site.baseurl %}
+    {% assign limit = 4 %}
+    {% include sec-title.html title=more_title href="/chuyende" more=more_chuyende %}
 {% endcase %}
 
 <div class="row row-eq-height justify-content-center">
