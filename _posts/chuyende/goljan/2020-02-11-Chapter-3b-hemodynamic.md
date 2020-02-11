@@ -33,7 +33,7 @@ notnumbering: 1
 	- Sốc giảm thể tích: mất máu, tiêu chảy, cơ bản khi nào mất muối thì có thể dẫn tới sốc giảm thể tích
 	- Sốc tim: chủ yếu do MI
 	- Sốc thần kinh (sốc phân bố): thường liên quan tới tổn thương tủy  
- 	- Sốc nhiễm trùng: chủ yếu do con E.coli; Sốc nhiễm trùng bệnh viện và thường do đặt thông tiểu. Tụ cầu vàng không phải là nguyên nhân phổ biến gây sốc nhiễm trùng liên quan đến đường truyền tĩnh mạch trong bệnh viện. Nội độc tố ở vách tế bào là lipopolysacharide, thấy ở vi khuẩn gram âm. Lipid là nội độc tố. Do đó, vi khuẩn gram âm có lipid ở vách tế bào, tức là nội độc tố, còn gram âm thì không có.
+	- Sốc nhiễm trùng: chủ yếu do con E.coli; Sốc nhiễm trùng bệnh viện và thường do đặt thông tiểu. Tụ cầu vàng không phải là nguyên nhân phổ biến gây sốc nhiễm trùng liên quan đến đường truyền tĩnh mạch trong bệnh viện. Nội độc tố ở vách tế bào là lipopolysacharide, thấy ở vi khuẩn gram âm. Lipid là nội độc tố. Do đó, vi khuẩn gram âm có lipid ở vách tế bào, tức là nội độc tố, còn gram âm thì không có.
 - Biểu hiện lâm sàng:
 	- sốc giảm thể tích và sốc tim: da lạnh ẩm vì co mạch ngoại biên do catecholamines và AG II vì giảm CO. Co mạch và tái phân bố máu về các cơ quan quan trọng như não, thận, dẫn tới da lạnh ẩm. HA giảm, mạch tăng.
  	- *Định luật Pouseau:* Nói về sức cản ngoại biên (chủ yếu là tiểu động mạch) lên việc kiểm soát HA tâm trương. **TPR = V/r<sup>4</sup>**. Yếu tố kiểm soát TPR chủ yếu là bán kính lòng mạch. Cái gì điều khiển độ nhớt của máu? Là Hb. Trong thiếu máu, Hb giảm, độ nhớt của máu giảm. Trong đa hồng cầu, độ nhớt tăng.
