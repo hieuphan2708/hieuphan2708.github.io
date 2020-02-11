@@ -52,14 +52,14 @@ notnumbering: 1
 - Mất dịch đẳng trương. TH này mất Na, nước như nhau. Dịch mất chủ yếu ở ngoại bào. Na máu bình thường. ECF co lại. Lâm sàng: xuất huyết, tiêu chảy. Nếu nhận thêm dịch đẳng trương. Na máu vẫn bt.
 - Dịch nhược trương – là giảm Na máu. Hạ đường huyết không gây nhược trương. Mất muối nhiều hơn nước, Na máu giảm. Thận đóng vai trò chủ yếu trong quá trình này, nhất là khi có lợi tiểu. Dịch trong nước tiểu là dịch ưu trương (Na thải qua thận làm dư Na trong nước tiểu). Hạ Na máu với dịch nhược trương. ECF là nhược trương, nước đi vào ICF.
 	- Ví dụ: Nếu uống nhiều nước tinh khiết, không có muối, sẽ làm giảm Na máu. Merkel cell carcinoma (MCC) – là ung thư tế bào nhỏ ở phổi. Bạn nhận nước tinh khiết vì ADH làm ống lượn xa và ống góp thấm với nước tinh khiết. Với sự hiện diện của ADH, sẽ tái hấp thu nước ngược trở lại vào ECF, hòa loãng Na máu. ECF và ICF đều tăng thể tích. ECF tăng do tái hấp thu nước. ICF tăng do nước đi từ ECF vào (do nồng độ Na bên trong ICF cao hơn bên ngoài, bên ngoài ko bị giảm Na máu mà là do hòa loãng). Có thể dẫn tới tâm thần bất thường. Do đó uống càng nhiều nước thì nồng độ Na máu càng giảm. Điều trị bằng cách giới hạn lượng nước nhập. Không giới hạn nhập Na vì nồng độ Na bình thường. Khi có mặt ADH, nước tiểu sẽ bị cô đặc do lấy nước khỏi nước tiểu. không có ADH thì sẽ mất nước và nước tiểu bị hòa loãng. Do đó trong SIADH, nước ở lại trong cơ thể, đi vào ECF, đi vào ICF qua cơ chế thẩm thấu. Nồng độ Na máu sẽ thấp nhất trong SIADH.
-<div class="alert alert-warning" role="alert">
-  Trong kỳ thi, khi Na máu < 120 meq/L, đáp án đúng luôn là SIADH. 
-</div>
 	- Ví dụ: BN với SIADH, không hút thuốc (vì thế không phải là K phổi tế bào nhỏ), thử nhìn vào thuốc đang dùng, BN đang dùng chlorpropramide, là 1 SU đường uống (thuốc hạ đường huyết) gây SIADH.
 	- Ví dụ: Nhận vô cả muối và nước, nhưng nước nhiều hơn muối -> hạ Na máu – có tình trạng phù ấn lõm như suy tim phải, xơ gan. Khi Na cơ thể tăng, luôn gây phù ấn lõm. Vậy Na cơ thể nằm ở cái khoang nào? Là ECF (Na ở ECF cao nên nước đi từ ICF ra ECF). Khoang ECF lớn hơn là khoang nào? Khoảng kẽ. Do đó, tăng Na cơ thể sẽ làm nước đi vào khoảng kẽ, gây phù dịch thấm, thấy trong suy tim phải và xơ gan.
 	- Ví dụ: Ưu trương mất muối (do lợi tiểu) làm hạ Na máu.
 	- Ví dụ: SIADH (lấy nhiều nước) làm hạ Na máu.
 	- Ví dụ: Lấy nhiều nước hơn muối -> hạ Na máu: phù ấn lõm.
+<div class="alert alert-warning" role="alert">
+  Trong kỳ thi, khi Na máu < 120 meq/L, đáp án đúng luôn là SIADH. 
+</div>
 
 - Ưu trương – theo định nghĩa: Quá nhiều Na (tăng Na máu) hoặc tăng đường huyết (vd DKA có tình trạng ưu trương, phổ biến hơn tăng Na máu). Với tăng Na máu, ICF co lại.	
 	- Cường aldosterone nguyên phát – lấy nhiều muối hơn nước.
