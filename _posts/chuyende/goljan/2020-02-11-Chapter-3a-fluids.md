@@ -55,7 +55,6 @@ notnumbering: 1
 <div class="alert alert-warning" role="alert">
   Trong kỳ thi, khi Na máu < 120 meq/L, đáp án đúng luôn là SIADH. 
 </div>
-
 	- Ví dụ: BN với SIADH, không hút thuốc (vì thế không phải là K phổi tế bào nhỏ), thử nhìn vào thuốc đang dùng, BN đang dùng chlorpropramide, là 1 SU đường uống (thuốc hạ đường huyết) gây SIADH.
 	- Ví dụ: Nhận vô cả muối và nước, nhưng nước nhiều hơn muối -> hạ Na máu – có tình trạng phù ấn lõm như suy tim phải, xơ gan. Khi Na cơ thể tăng, luôn gây phù ấn lõm. Vậy Na cơ thể nằm ở cái khoang nào? Là ECF (Na ở ECF cao nên nước đi từ ICF ra ECF). Khoang ECF lớn hơn là khoang nào? Khoảng kẽ. Do đó, tăng Na cơ thể sẽ làm nước đi vào khoảng kẽ, gây phù dịch thấm, thấy trong suy tim phải và xơ gan.
 	- Ví dụ: Ưu trương mất muối (do lợi tiểu) làm hạ Na máu.
