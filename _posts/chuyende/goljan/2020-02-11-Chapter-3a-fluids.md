@@ -65,7 +65,7 @@ notnumbering: 1
 	- Cường aldosterone nguyên phát – lấy nhiều muối hơn nước.
 	- Đái tháo nhạt – mất nước tinh khiết (ngược lại SIADH nhận nước tinh khiết). Nếu mất nước nhiều hơn mất muối trong nước tiểu sẽ gây lợi niệu thẩm thấu – hỗn hợp. Khi glucose và mannitol trong nước tiểu, bạn mất dung dịch nhược trương trong nước tiểu.
 	- Ví dụ: Tiêu chảy ở trẻ em: dung dịch nhược trương (ng lớn tiêu chảy là đẳng trương). Do đó, nếu trẻ không uống nước và đang nhiễm rotavirus, Na máu sẽ cao vì mất nước nhiều hơn mất muối, dẫn tới tăng Na máu. Tuy nhiên, hầu hết những ng mẹ đều cho trẻ uống nước khi trẻ tiêu chảy nên đứa trẻ sẽ có Na máu bình thường hoặc thậm chí là giảm Na máu nhẹ do được uống nhiều nước. Điều trị bằng Pedialyte hoặc Gatorade – là những dung dịch nhược trương (mất gì bù đó – mất dịch nhược trương bù nhược trương). Vậy trong đó có gì vậy, có gì để tái hấp thu Na vào lòng ruột? Đó là glucose, 1 chất đồng vận với Na. Na sẽ được tái hấp thu cùng glucose hoặc galactose.
- 	- Ví dụ: Tả, dịch bù cần glucose để tái hấp thu Na vì cái bơm đồng vận đó nằm ở ruột non. Gatorade có cả glucose và sucrose (chuyển hóa thành glucose + fructose).
+	- Ví dụ: Tả, dịch bù cần glucose để tái hấp thu Na vì cái bơm đồng vận đó nằm ở ruột non. Gatorade có cả glucose và sucrose (chuyển hóa thành glucose + fructose).
 	- Mồ hôi: dịch nhược trương; nếu đổ mồ hôi nhiều như chạy việt dã, sẽ tăng Na máu.  
 
 
