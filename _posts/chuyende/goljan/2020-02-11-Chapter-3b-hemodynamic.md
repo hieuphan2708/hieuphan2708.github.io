@@ -45,7 +45,7 @@ notnumbering: 1
 - Đặt catheter động mạch phổi: (Swan ganz catheter): đặt vào tim phải và đo tất cả các chỉ số được dạy trong sinh lý học.
 	- CO
 	- Kháng lực mạch hệ thống: chủ yếu TPR.
-	- Thành phần O2 trong máu tĩnh mạch trộn (SvO2): **O<sub>2</sub> content = 1.34*Hb *O<sub>2</sub> sat’n + pO<sub>2</sub>**. Là test tốt nhất để đánh giá tình trạng giảm O<sub>2</sub> mô. CO trong sốc giảm thể tích và sốc tim thấp, do đó máu không bơm thẳng với một lực tốt. Vì thế, mô có thời gian để lấy O<sub>2</sub> từ lượng máu đã giảm tới được mô. Kết quả, SvO<sub>2</sub> sẽ giảm thấp vì máu đi qua mô rất chậm. Do đó, mô lấy O<sub>2</sub> nhiều hơn bình thường. SvO<sub>2</sub> trong sốc nhiễm trùng thì cao do mô không lấy được O<sub>2</sub>.
+	- Thành phần O2 trong máu tĩnh mạch trộn (SvO<sub>2</sub>): **O<sub>2</sub> content = 1.34*Hb *O<sub>2</sub> sat’n + pO<sub>2</sub>**. Là test tốt nhất để đánh giá tình trạng giảm O<sub>2</sub> mô. CO trong sốc giảm thể tích và sốc tim thấp, do đó máu không bơm thẳng với một lực tốt. Vì thế, mô có thời gian để lấy O<sub>2</sub> từ lượng máu đã giảm tới được mô. Kết quả, SvO<sub>2</sub> sẽ giảm thấp vì máu đi qua mô rất chậm. Do đó, mô lấy O<sub>2</sub> nhiều hơn bình thường. SvO<sub>2</sub> trong sốc nhiễm trùng thì cao do mô không lấy được O<sub>2</sub>.
 	- Áp lực mao mạch phổi bít (PCWP) – đo thể tích và áp lực tim trái và HA tâm trương. Catheter ở tim phải sẽ cho biết ở tim trái thế nào.
 {% include img/full-normal.html src="/img/post/chuyende/Screenshot_12.png" des="Điểm khác biệt giữa sốc giảm thể tích, sốc tim và sốc nhiễm trùng trong Swan ganz" %}
 
