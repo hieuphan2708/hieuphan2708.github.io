@@ -170,7 +170,10 @@ notnumbering: 1
 - Bệnh nhân có thể cần một lượng lớn opiate thường xuyên và cả việc sử dụng insulin.
 - Phẫu thuật cắt bỏ một phần hoặc toàn bộ tuyến tụy và/hoặc dẫn lưu cũng có thể được thực hiện trong một số trường hợp nhất định.
 
-
+### Cạm bẫy
+- Nồng độ men tụy đạt đỉnh sớm và giảm sau 3-4 ngày, và vì vậy một amylase bình thường không thể loại trừ viêm tụy.
+- Bất kỳ bệnh nhân nào bị viêm tụy và mất ổn định huyết động hoặc dấu hiệu nặng nên được cấp cứu thích hợp và chuyển đến CCU.
+- **Bệnh nhân bị đau nhiều hơn kết quả khám thực thể giúp gợi ý viêm tụy**
 
 
 
