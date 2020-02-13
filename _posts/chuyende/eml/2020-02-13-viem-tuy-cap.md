@@ -61,7 +61,24 @@ notnumbering: 1
   Viêm tụy có thể gây ra ảnh hưởng toàn thân rõ rệt hơn bất kỳ nguyên nhân nào khác gây đau bụng.
 </div>
 
-
+### Cận lâm sàng
+- CLS để chẩn đoán và dự đoán mức độ nặng. Vì vậy, đánh giá ngay lập tức nhằm mục đích chẩn đoán viêm tụy và phát hiện bất kỳ tổn thương tim mạch, hô hấp hoặc thận. Bao gồm:
+	- Xét nghiệm nước tiểu và thử thai ở bất kỳ phụ nữ nào trong độ tuổi sinh sản
+	- CTM, Ure & Ion đồ, chức năng gan, glucose, CRP
+		- Suy tụy có thể dẫn đến thiếu insulin và tăng glucose máu và ALP, đặc biệt, có thể tăng cao nếu tắc nghẽn sỏi mật là nguyên nhân.
+	
+	- Canxi huyết thanh. Sự "sequestration" canxi trong chất béo có thể dẫn đến hạ canxi máu.
+	- Men tụy
+		- Amylase máu là chỉ điểm viêm tụy được sử dụng rộng rãi nhất, nhưng nó có thể tăng trong các nguyên nhân khác của đau bụng cấp. Một amylase bình thường không loại trừ viêm tụy vì nó có thể mất 24-48 giờ để đạt đến đỉnh điểm và mức độ tăng của amylase không tương đương với mức độ nghiêm trọng của bệnh. Độ nhạy là khoảng 80-90% mặc dù độ đặc hiệu thấp tới 40%.
+		- Mặc dù không có sẵn ở tất cả các bệnh viện, đo lipase máu cho thấy độ nhạy (90%) và độ đặc hiệu (90%) và độ đặc hiệu cao hơn amylase vì nó chỉ được sản xuất bởi tuyến tụy và có thời gian bán hủy dài hơn.
+	
+	- Khí máu động mạch. Thiếu oxy hoặc nhiễm toan có thể gợi ý các ảnh hưởng toàn thân.
+	- Điện tâm đồ
+	- X-quang ngực
+- Các xét nghiệm bổ sung để xác định nguyên nhân của viêm tụy có thể được thực hiện sau đó, ví dụ như bilan lipid, kháng thể tự miễn và hiệu giá virus.
+<div class="alert alert-danger" role="alert">
+  Lipase máu nhạy và đặc hiệu hơn amylase máu trong chẩn đoán viêm tụy, mặc dù không thể loại trừ.
+</div>
 
 
 
