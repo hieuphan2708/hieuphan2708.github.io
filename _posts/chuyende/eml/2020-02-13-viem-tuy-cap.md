@@ -31,10 +31,10 @@ notnumbering: 1
 
 ## Nguyên nhân
 <div class="alert alert-warning" role="alert">
-  "I GET SMASHED": I = Idiopathic, G = Gall stones, E = Ethanol, T = Trauma, S = Steroids, M = Mumps, A = Autoimmune, S = Scorpion poison, H = Hypercalcemia, Hypertriglyceridemia, E = ERCP, D = Drugs
+  **I GET SMASHED** I = Idiopathic, G = Gall stones, E = Ethanol, T = Trauma, S = Steroids, M = Mumps, A = Autoimmune, S = Scorpion poison, H = Hypercalcemia, Hypertriglyceridemia, E = ERCP, D = Drugs
 </div>
 
-- Trong thực tế và hầu hết các nghiên cứu, sỏi mật và rượu chiếm 75-80% trong tất cả các trường hợp viêm tụy cấp. Chỉ một số rất nhỏ được gây ra bởi một trong những nguyên nhân khác được liệt kê với số còn lại được gắn nhãn 'vô căn'.
+- Trong thực tế và hầu hết các nghiên cứu, sỏi mật và rượu chiếm 75-80% trong tất cả các trường hợp viêm tụy cấp. Chỉ một số rất nhỏ được gây ra bởi một trong những nguyên nhân khác được liệt kê, với số còn lại được cho là 'vô căn'.
 <div class="alert alert-danger" role="alert">
   Phần lớn các trường hợp viêm tụy cấp là do sỏi mật và rượu
 </div>
@@ -61,7 +61,7 @@ notnumbering: 1
   Viêm tụy có thể gây ra ảnh hưởng toàn thân rõ rệt hơn bất kỳ nguyên nhân nào khác gây đau bụng.
 </div>
 
-### Cận lâm sàng
+## Cận lâm sàng
 - CLS để chẩn đoán và dự đoán mức độ nặng. Vì vậy, đánh giá ngay lập tức nhằm mục đích chẩn đoán viêm tụy và phát hiện bất kỳ tổn thương tim mạch, hô hấp hoặc thận. Bao gồm:
 	- Xét nghiệm nước tiểu và thử thai ở bất kỳ phụ nữ nào trong độ tuổi sinh sản
 	- CTM, Ure & Ion đồ, chức năng gan, glucose, CRP
