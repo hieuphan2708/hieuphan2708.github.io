@@ -80,6 +80,20 @@ notnumbering: 1
   Lipase máu nhạy và đặc hiệu hơn amylase máu trong chẩn đoán viêm tụy, mặc dù không thể loại trừ.
 </div>
 
+## Đánh giá lâm sàng và phân tầng rủi ro
+
+### Bệnh sử
+- Hầu hết bệnh nhân bị đau bụng, điển hình là vùng thượng vị lan ra sau lưng, kết hợp với buồn nôn kéo dài và nôn. Khởi phát cơn đau thường đột ngột, nghiêm trọng và nhanh chóng đạt đến mức tối đa. Đau tăng khi cử động. 50%  bệnh nhân sẽ có những cơn đau tương tự trong quá khứ.
+- Hỏi về các yếu tố nguy cơ, chẳng hạn như bệnh sỏi mật đã biết, và cả những bệnh đi kèm vì những điều này có thể làm xấu đi tiên lượng. Thuốc và độc chất có thể gây viêm tụy. Luôn luôn hỏi về rượu.
+
+### Khám thực thể
+- Thường bụng mềm có thể có đề kháng; thông thường, đề kháng không tương xứng với mô tả đau. Điều này là do tuyến tụy nằm sau phúc mạc có thể làm cho các dấu hiệu bụng mơ hồ.
+- Có thể có vàng da nếu có sự tắc nghẽn của ống mật chung và ống tụy.
+- Liệt hồi tràng có thể phát triển sau 12-24 giờ đầu tiên gây ra chướng bụng nhẹ và mất nhu động ruột.
+
+Các dấu hiệu hiếm gặp và muộn của sự phá hủy tuyến tụy trên diện rộng là vết bầm tím quanh rốn (dấu hiệu của Cullen) hoặc sườn bên trái (dấu hiệu Grey Turner) do xuất huyết từ tuyến tụy dẫn đến máu trong khoang bụng.
+
+Các dấu hiệu của tetany, chẳng hạn như mê hoặc, co giật và xét nghiệm dương tính của Trousseau hoặc Chvostek, cũng cần được tìm kiếm vì hạ canxi máu có thể phát triển thứ phát sau hoại tử mỡ trong ổ bụng.
 
 
 
