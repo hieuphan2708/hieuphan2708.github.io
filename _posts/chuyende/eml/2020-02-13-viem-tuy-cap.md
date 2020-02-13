@@ -78,7 +78,7 @@ notnumbering: 1
 	- X-quang ngực
 - Các xét nghiệm bổ sung để xác định nguyên nhân của viêm tụy có thể được thực hiện sau đó, ví dụ như bilan lipid, kháng thể tự miễn và hiệu giá virus.
 <div class="alert alert-danger" role="alert">
-  Lipase máu nhạy và đặc hiệu hơn amylase máu trong chẩn đoán viêm tụy, mặc dù không thể loại trừ. Hãy nhớ rằng mặc dù kết quả amylase hoặc lipase dương tính sẽ xác nhận chẩn đoán của bạn, kết quả âm tính không loại trừ tình trạng này.
+  Lipase máu nhạy và đặc hiệu hơn amylase máu trong chẩn đoán viêm tụy, mặc dù không thể loại trừ. Hãy nhớ rằng mặc dù amylase hoặc lipase máu tăng sẽ xác nhận chẩn đoán, nhưng không tăng cũng không loại trừ tình trạng này.
 </div>
 
 ### Hình ảnh học
