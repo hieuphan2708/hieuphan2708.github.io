@@ -43,4 +43,35 @@ notnumbering: 1
 
 ### Các giai đoạn bệnh
 - Giai đoạn 1
-	- Tắc nghẽn ống mật hoặc tuyến tụy, hoặc độc tính trực tiếp, dẫn đến việc kích hoạt sớm trypsin trong các tế bào acin tụy kích hoạt nhiều loại enzyme tiêu hóa gây tổn thương. 
+	- Tắc nghẽn ống mật hoặc tuyến tụy, hoặc độc tính trực tiếp, dẫn đến việc kích hoạt sớm trypsin trong các tế bào acin tụy kích hoạt nhiều loại enzyme tiêu hóa gây tổn thương.
+- Giai đoạn 2
+	- Viêm bên trong tụy có thể dẫn đến hoại tử, xuất huyết, nhiễm trùng hoặc tích tụ dịch và hình thành nang giả tụy.
+- Giai đoạn 3
+	- Viêm ngoài tụy 
+- Giai đoạn 2 và 3 có thể dẫn đến sốc và SIRS trong khoảng 10-20% trường hợp.
+
+### SIRS
+- Hội chứng đáp ứng viêm toàn thân (SIRS) dẫn đến rối loạn chức năng đa cơ quan và/hoặc hoại tử tụy.
+- Điều này thường biểu hiện như:
+	- Phổi - thiếu oxy, ARDS hoặc tràn dịch màng phổi (thường bên trái)
+	- Thận - suy thận cấp (ARF) và hoại tử ống cấp (ATN)
+	- Máu - rối loạn đông máu, DIC, hạ canxi máu, tăng đường huyết
+	- Chung - giảm thể tích tuần hoàn và sốc
+<div class="alert alert-danger" role="alert">
+  Viêm tụy có thể gây ra ảnh hưởng toàn thân rõ rệt hơn bất kỳ nguyên nhân nào khác gây đau bụng.
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
