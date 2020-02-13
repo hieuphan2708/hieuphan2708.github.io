@@ -132,7 +132,7 @@ notnumbering: 1
 
 ## Kế hoạch điều trị
 - Như chúng ta đã thảo luận, ban đầu rất khó để biết bệnh nhân nào sẽ tiếp tục phát triển các biến chứng của viêm tụy và do đó, sẽ là khôn ngoan khi điều trị tích cực cho tất cả bệnh nhân cho đến khi mức độ nghiêm trọng được thiết lập vì các biện pháp đơn giản có thể liên quan đến việc giải quyết suy tạng. Đặt mục tiêu cho SaO<sub>2</sub>> 95% và lượng nước tiểu> 0,5 ml/kg.
-{% include img/full-normal.html src="/img/post/chuyende/emd_17_013_015_01_33.gif" %} 
+{% include img/full-50.html src="/img/post/chuyende/emd_17_013_015_01_33.gif" %} 
 
 - Kế hoạch điều trị bao gồm:
 	- Hồi sức - nếu mất nước hoặc có dấu hiệu sepsis
