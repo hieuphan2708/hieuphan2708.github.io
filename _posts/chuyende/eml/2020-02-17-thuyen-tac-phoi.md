@@ -110,8 +110,11 @@ notnumbering: 1
 
 ### Tiêu chí loại trừ thuyên tắc phổi (PERC)
 - PERC được đánh giá bởi bác sĩ cấp cứu "được chứng nhận" giúp tái phân tầng nhóm nguy cơ thấp để loại trừ PE (thậm chí không cần làm thêm D-dimer)
-- PE có thể bị loại trừ nếu tất cả 8 tiêu chuẩn sau đây đều xuất hiện : dưới 50 tuổi, tần số tim < 100 lần/phút, SpO<sub>2</sub> > 95%, không ho ra máu, không dùng estrogen, không phẫu thuật hoặc không bị chấn thương phải nhập viên trong vòng 4 tuần trước đó, không tiền sử VTE, không phù một bên chân.
-
+- PE có thể bị loại trừ nếu tất cả 8 tiêu chuẩn sau đây đều xuất hiện: dưới 50 tuổi, tần số tim < 100 lần/phút, SpO<sub>2</sub> > 95%, không ho ra máu, không dùng estrogen, không phẫu thuật hoặc không bị chấn thương phải nhập viên trong vòng 4 tuần trước đó, không tiền sử VTE, không phù một bên chân.
+- **Mỹ** nói: Ở những bệnh nhân có xác suất tiền xét nghiệm (PTP) đối với nghi ngờ PE thấp, hãy cân nhắc sử dụng PERC để loại trừ chẩn đoán chỉ dựa trên bệnh sử và khám thực thể. Tuy nhiên **châu Âu** không xác nhận việc sử dụng quy tắc PERC đơn độc để loại trừ PE một cách hiệu quả.
+<div class="alert alert-danger" role="alert">
+  Công cụ PERC cho thấy nhiều hứa hẹn nhưng cần có các nghiên cứu xác nhận thêm trước khi có thể thay thế D-Dimer ở những bệnh nhân có nguy cơ PE thấp
+</div>
 
 
 
