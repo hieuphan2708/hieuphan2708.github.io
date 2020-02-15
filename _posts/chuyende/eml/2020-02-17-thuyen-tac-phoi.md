@@ -49,7 +49,10 @@ notnumbering: 1
 {% include img/full-normal.html src="/img/post/chuyende/Screenshot_17.png" %}
 - Ít hơn 10% BN PE không có triệu chứng nào thuộc một trong ba triệu chứng thường gặp hàng đầu là khó thở, thở nhanh và đau ngực kiểu màng phổi. Tuy nhiên không có bệnh cảnh nào là điển hình của PE.
 - Với PE bán cấp, chẩn đoán đặc biệt khó vì bệnh nhân có thể than phiền về việc tăng dần mức độ các triệu chứng, thay vì cấp tính đột ngột như khó thở tăng dần hoặc dung nạp gắng sức tệ đi.
- 
+
+### Yếu tố nguy cơ
+- Hiệp hội lồng ngực Anh năm 2003 chia những yếu tố này thành các yếu tố rủi ro chính và phụ, còn NICE 2015 bao gồm tiền căn DVT trước đó, tuổi trên 60, phẫu thuật, béo phì, chuyến đi dài, bệnh nội khoa cấp tính, ung thư, bất động, thrombophilia và thai kỳ.
+
 
 
 
