@@ -70,6 +70,17 @@ notnumbering: 1
 	- Bệnh nhân xét nghiệm dương tính với kháng nguyên *Legionella* trong nước tiểu.
 - Vì mục đích dùng kháng sinh trong vòng 4 giờ sau khi nhập viện, nên các mẫu đàm có mủ của bệnh nhân nhập cấp cứu nói chung nên được gửi để nuôi cấy vì các mẫu thu được sau này trên khoa sẽ có khả năng mọc thấp hơn do đã sử dụng kháng sinh trước đó ở cấp cứu.
 
+#### ECG
+- Viêm phổi không liên quan đến thay đổi điện tâm đồ đặc hiệu mặc dù nhịp nhanh xoang là phổ biến. Ở người lớn tuổi, không có gì lạ khi viêm phổi gây ra rung nhĩ hoặc liên quan thiếu máu cục bộ.
+
+### Phân tầng nguy cơ
+- Thang điểm CURB-65
+{% include img/full-50.html src="/img/post/chuyende/thoraxjnl.jpg" %}
+- Thang điểm AMT
+{% include img/full-50.html src="/img/post/chuyende/unnamed.jpg" %}
+- Phần lớn bệnh nhân có điểm số CURB-65 là 0 hoặc 1 có thể được xuất viện. Tuy nhiên, BTS coi các yếu tố bổ sung có liên quan bất lợi đến tiên lượng là rất quan trọng trong việc quyết định liệu bệnh nhân có cần điều trị nội trú hay không, bất kể điểm số CURB-65 của họ là bao nhiêu. Bao gồm:
+	- 
+
 
 
 
