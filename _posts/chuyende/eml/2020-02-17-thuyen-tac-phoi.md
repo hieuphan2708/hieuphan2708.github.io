@@ -16,4 +16,36 @@ notnumbering: 1
 
 ## Sinh lý bệnh
 - PE được coi là một biến chứng của huyết khối tĩnh mạch. Bình thường, các vi huyết khối liên tục được hình thành và ly giải với số lượng bằng nhau trong hệ thống tuần hoàn tĩnh mạch, tức là có sự cân bằng giữa hệ thống tạo huyết khối và tan huyết khối. Trong bệnh lý, vi huyết khối thoát khỏi (escape) sự ly giải và tạo thành các cục huyết khối lớn hơn.
-- Các yếu ảnh hưởng nằm bên dưới sự thay đổi này có thể xem là tam chứng Virchow
+- Các yếu ảnh hưởng nằm bên dưới sự thay đổi này có thể xem là tam chứng Virchow. Tất cả các yếu tố nguy cơ của thuyên tắc tĩnh mạch cơ bản đều thuộc về 1 trong 3 yếu tố này
+	- Ứ máu tĩnh mạch
+	- Tăng đông
+	- Viêm mạch máu.
+{% include img/full-normal.html src="/img/post/chuyende/Screenshot_16.png" %}
+
+- Hầu hết các thuyên tắc phổi xảy ra khi các mảnh của huyết khối thoát ra khỏi hệ thống tĩnh mạch sâu, điển hình là ở khung chậu và chi dưới, đi lên tĩnh mạch chủ, qua tâm nhĩ phải và vào mạch máu phổi. Có tới 80% bệnh nhân bị thuyên tắc phổi đã được chứng minh cũng có thể phát hiện huyết khối ở chân hoặc đùi, chi trên thì ít khi gây thuyên tắc phổi.
+- Phổi hoạt động như một bộ lọc cho tất cả máu trở về tim, vì vậy tất cả các cục máu đông nhỏ nhất sẽ bị mắc kẹt ở đây thay vì di chuyển đến tuần hoàn động mạch. Phổi có nguồn cung cấp máu kép từ cả động mạch phổi và động mạch phế quản giúp chúng phục hồi chức năng sau khi thuyên tắc phổi nhỏ.
+- Thuyên tắc phổi được chứng minh **(Provoked pulmonary embolism)** là thuyên tắc phổi liên quan đến yếu tố nguy cơ thoáng qua như bất động, phẫu thuật, chấn thương và mang thai.
+- Thuyên tắc phổi không được chứng minh **(Unprovoked pulmonary embolism)** là thuyên tắc phổi xảy ra trong trường hợp không có yếu tố nguy cơ thoáng qua. Hoặc là không xác định được hoặc yếu tố đó là mạn tính, không dễ điều chỉnh.
+- Thuyên tắc phổi rất lớn **(massive PE)** nghĩa là tắc nghẽn hơn 50% mạch máu phổi, vấn đề tức thời nhất thường là trụy tuần hoàn do giảm cung lượng tim do tim phải không thể bơm đủ thể tích máu qua mạch máu phổi bị ảnh hưởng sang tim trái.
+- Ở những bệnh nhân trẻ tuổi có chức năng tim phổi bình thường, oxy hóa máu có thể được điều chỉnh bằng oxy lưu lượng cao vì tất cả máu đến tim trái vẫn đi qua mô phổi chất lượng tốt cho máu giàu oxy. Tuy nhiên, ở những bệnh nhân có bệnh phổi nền như COPD, PE không lớn (non-massive PE) có thể gây ra vấn đề lớn với việc duy trì oxy hóa máu mặc dù không có trụy huyết động, vì chức năng của phổi mặc dù không bị ảnh hưởng bởi PE nhưng đã bị suy yếu.
+
+## Đánh giá lâm sàng
+
+## Giới thiệu
+- Chìa khóa để chẩn đoán thành công PE là luôn xem nó là 1 chẩn đoán có thể vì sự quen thuộc với các triệu chứng mỗi khi nghĩ đến để loại trừ hoặc chẩn đoán sẽ giúp tăng tốc độ chẩn đoán.
+- **Massive PE**
+	- Không thường gặp, bệnh nhân bị sốc và thiếu oxy.
+	- Chẩn đoán lâm sàng cần loại trừ nhồi máu thất phải, sepsis và xuất huyết tiêu hóa trên có thể biểu hiện tương tự.
+	- Nguy cơ tử vong trong vòng 90 ngày là khoảng 50%.
+- **Sub-massive PE**
+	- Tắc nghẽn < 50% giường mạch máu phổi, bệnh nhân bị khó thở cấp tính và thường xuyên bị tức ngực/đau ngực.
+	- Chẩn đoán phân biệt ở những bệnh nhân này bao gồm hội chứng vành cấp, viêm phổi và suy tim.
+- **Nhồi máu phổi**
+	- Bệnh nhân thường bị đau ngực kiểu màng phổi, có thể liên quan đến ho ra máu (không thường gặp) và/hoặc khó thở.
+	- Vì ở nhóm bệnh nhân khó thở, khả năng nghĩ tới nhồi máu phổi ngay khi bệnh nhân bị khó thở rất thấp nên chẩn đoán rất khó.
+	- Chẩn đoán phân biệt trên nhóm bệnh nhân này bao gồm đau cơ xương khớp, viêm màng phổi, nhiễm virus và vi khuẩn, viêm màng ngoài tim và tràn khí màng phổi.
+
+
+
+
+ 
