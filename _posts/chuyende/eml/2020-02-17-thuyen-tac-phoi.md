@@ -69,6 +69,7 @@ notnumbering: 1
 ### ECG
 - Nên làm ECG để tìm các dấu hiệu hỗ trợ cho căng tim phải như trục lệch phải và loại trừ hội chứng vành cấp. Phát hiện ECG phổ biến nhất là nhịp nhanh xoang. Rung nhĩ có trong khoảng 20% trường hợp.
 {% include img/full-50.html src="/img/post/chuyende/12L_ECG.gif" %}
+
 <div class="alert alert-danger" role="alert">
   Dạng kinh điển S1 Q3 T3 (S ở cđ I, Q ở cđ III, T đảo ở cđ III) ở chỉ có ở ~ 10% bệnh nhân mắc PE
 </div>
