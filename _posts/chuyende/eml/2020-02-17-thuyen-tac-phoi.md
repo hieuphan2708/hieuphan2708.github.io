@@ -46,7 +46,7 @@ notnumbering: 1
 	- Chẩn đoán phân biệt trên nhóm bệnh nhân này bao gồm đau cơ xương khớp, viêm màng phổi, nhiễm virus và vi khuẩn, viêm màng ngoài tim và tràn khí màng phổi.
 
 ### Đặc điểm lâm sàng
-{% include img/full-normal.html src="/img/post/chuyende/Screenshot_17.png" %}
+{% include img/full-50.html src="/img/post/chuyende/Screenshot_17.png" %}
 - Ít hơn 10% BN PE không có triệu chứng nào thuộc một trong ba triệu chứng thường gặp hàng đầu là khó thở, thở nhanh và đau ngực kiểu màng phổi. Tuy nhiên không có bệnh cảnh nào là điển hình của PE.
 - Với PE bán cấp, chẩn đoán đặc biệt khó vì bệnh nhân có thể than phiền về việc tăng dần mức độ các triệu chứng, thay vì cấp tính đột ngột như khó thở tăng dần hoặc dung nạp gắng sức tệ đi.
 
@@ -60,7 +60,7 @@ notnumbering: 1
 ## Khảo sát
 ### Xquang ngực
 - Nên chụp X quang lồng ngực cho tất cả bệnh nhân nghi ngờ có PE. Nó thường là bình thường hoặc có thể tiết lộ những thay đổi không đặc hiệu như tràn dịch màng phổi lượng ít. Hiếm khi, có thể nhìn thấy nhồi máu phổi hình nêm hoặc dấu Westermark (giảm mạch máu phổi khu trú).
-{% include img/full-normal.html src="/img/post/chuyende/Chest_CXR.gif" %}
+{% include img/full-50.html src="/img/post/chuyende/Chest_CXR.gif" %}
 
 <div class="alert alert-danger" role="alert">
   Mục đích chính của X quang phổi là để loại trừ/tìm kiếm chẩn đoán thay thế như tràn khí màng phổi hoặc nhiễm trùng phổi có biểu hiện tương tự
@@ -68,7 +68,7 @@ notnumbering: 1
 
 ### ECG
 - Nên làm ECG để tìm các dấu hiệu hỗ trợ cho căng tim phải như trục lệch phải và loại trừ hội chứng vành cấp. Phát hiện ECG phổ biến nhất là nhịp nhanh xoang. Rung nhĩ có trong khoảng 20% trường hợp.
-{% include img/full-normal.html src="/img/post/chuyende/12L_ECG.gif" %}
+{% include img/full-50.html src="/img/post/chuyende/12L_ECG.gif" %}
 <div class="alert alert-danger" role="alert">
   Dạng kinh điển S1 Q3 T3 (S ở cđ I, Q ở cđ III, T đảo ở cđ III) ở chỉ có ở ~ 10% bệnh nhân mắc PE
 </div>
@@ -84,7 +84,7 @@ notnumbering: 1
 
 ## Phân tầng rủi ro và khảo sát thêm
 ### Giới thiệu
-{% include img/full-left.html src="/img/post/chuyende/risk_stratification.jpg" %}
+{% include img/left.html src="/img/post/chuyende/risk_stratification.jpg" %}
 - Các công cụ phân tầng rủi ro được sử dụng rộng rãi nhất là:
 	- Wells criteria
 	- NICE 2012 (tiền thân là BTS 2003)
@@ -123,7 +123,7 @@ notnumbering: 1
 	- Là nhóm có khả năng là PE (PE likely) thì không dùng D-dimer mà nên dùng xét nghiệm hình ảnh.
 	- Là nhóm ít khả năng là PE (PE unlikely) thì dùng D-dimer để loại trừ PE một cách tự tin.
 - Có hai loại xét nghiệm D-dimer cơ bản: **định tính** tại giường (SimpliRED, Simplify D-dimer) và **định lượng** bằng ELISA hoặc Latex (Vidas hoặc MDA)
-{% include img/full-right.html src="/img/post/chuyende/unnamed1.png" %}
+{% include img/right.html src="/img/post/chuyende/unnamed1.png" %}
 
 
  
