@@ -109,7 +109,7 @@ notnumbering: 1
 - Trường hợp có bằng chứng cho thấy chọc dò màng phổi bị nhiễm trùng (dịch trong nhưng pH <7,2 hoặc dịch có lợn cợn/mủ) nên đặt ống dẫn lưu màng phổi.
 
 ## Theo dõi
-- Nên chụp X quang lồng ngực 6 tuần sau khi hoàn thành điều trị cho các nhóm bệnh nhân sau:
+- Nên chụp X quang ngực 6 tuần sau khi hoàn thành điều trị cho các nhóm bệnh nhân sau:
 	- Còn triệu chứng
 	- Bệnh nhân có nguy cơ ác tính cao (đặc biệt là những người hút thuốc và những người trên 50 tuổi)
 
