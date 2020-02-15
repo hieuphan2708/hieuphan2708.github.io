@@ -79,7 +79,14 @@ notnumbering: 1
 - Thang điểm AMT
 {% include img/full-50.html src="/img/post/chuyende/unnamed.jpg" %}
 - Phần lớn bệnh nhân có điểm số CURB-65 là 0 hoặc 1 có thể được xuất viện. Tuy nhiên, BTS coi các yếu tố bổ sung có liên quan bất lợi đến tiên lượng là rất quan trọng trong việc quyết định liệu bệnh nhân có cần điều trị nội trú hay không, bất kể điểm số CURB-65 của họ là bao nhiêu. Bao gồm:
-	- 
+	- Hạ oxy máu (SaO<sub>2</sub> <94%)
+	- Xquang tổn thương hai bên hoặc đa thùy
+	- Bệnh đồng mắc (suy tim, suy thận,..)
+	- Trên 50 tuổi
+- Một số bệnh nhân lớn tuổi không có yếu tố bất lợi (ngoài tuổi) sẽ yêu cầu nhập viện chỉ vì lý do xã hội.
+<div class="alert alert-danger" role="alert">
+  Thang CURB-65 không nên được sử dụng cứng nhắc để phân tầng nguy cơ cho bệnh nhân
+</div>
 
 
 
