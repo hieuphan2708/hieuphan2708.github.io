@@ -85,10 +85,40 @@ notnumbering: 1
 	- Trên 50 tuổi
 - Một số bệnh nhân lớn tuổi không có yếu tố bất lợi (ngoài tuổi) sẽ yêu cầu nhập viện chỉ vì lý do xã hội.
 <div class="alert alert-danger" role="alert">
-  Thang CURB-65 không nên được sử dụng cứng nhắc để phân tầng nguy cơ cho bệnh nhân
+  Thang điểm CURB-65 không nên được sử dụng cứng nhắc để phân tầng nguy cơ cho bệnh nhân
 </div>
 
+## Điều trị 
+### Điều trị chung
+- Khuyên BN nghỉ ngơi, uống nhiều nước
 
+### Điều trị cụ thể
+#### Kháng sinh
+- Ngoại trú
+	- Amoxicillin 500 mg uống x 3 lần/ngày x 7 ngày
+	- Clarithromycin 500 mg uống x 2 lần/ngày x 7 ngày
+	- Levofloxacin 500mg uống x 1 lần/ngày x 7 ngày
+- Bệnh nhân nhập viện bị viêm phổi nặng nên được tiêm kháng sinh tĩnh mạch càng sớm càng tốt sau khi chẩn đoán. Các hướng dẫn của BTS khuyến nghị Co-amoxiclav 1,2 g IV TDS cộng với Clarithromycin 500 mg IV hai lần/ngày trong 7-10 ngày như một phương pháp điều trị đầu tay thích hợp. Tuy nhiên phải dựa vào dịch tễ của địa phương.
+- Nếu dị ứng với penicillin, hãy xem xét Cefuroxime cộng với Clarithromycin. Nếu dị ứng với penicillin và clarithromycin, hãy xem xét Levofloxacin.
+
+#### Oxy
+- Nên cung cấp oxy nếu độ bão hòa oxy dưới 94%
+
+#### Tràn dịch cận viêm phổi
+- Tràn dịch cận viêm phổi được tìm thấy ở một nửa số bệnh nhân nhập viện với CAP. Chọc dò màng phổi được khuyến cáo trong mọi trường hợp (tràn mủ màng phổi).
+- Trường hợp có bằng chứng cho thấy chọc dò màng phổi bị nhiễm trùng (dịch trong nhưng pH <7,2 hoặc dịch có lợn cợn/mủ) nên đặt ống dẫn lưu màng phổi.
+
+## Theo dõi
+- Nên chụp X quang lồng ngực 6 tuần sau khi hoàn thành điều trị cho các nhóm bệnh nhân sau:
+	- Còn triệu chứng
+	- Bệnh nhân có nguy cơ ác tính cao (đặc biệt là những người hút thuốc và những người trên 50 tuổi)
+
+## Cạm bẫy
+- Áp dụng hướng dẫn của CAP cho trẻ em, bệnh nhân bị ức chế miễn dịch hoặc bệnh nhân mắc COPD
+- Ra quyết định chỉ dựa trên điểm số CURB-65
+- Chỉ định kháng sinh tĩnh mạch cho tất cả bệnh nhân
+- Không gửi mẫu đàm trước khi dùng kháng sinh
+- Không nhận biết bệnh nhân bị nhiễm trùng huyết
 
 
 
