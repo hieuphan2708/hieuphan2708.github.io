@@ -48,8 +48,22 @@ notnumbering: 1
 	- **Air Bronchogram:** (khí phế ảnh hay phế quản đồ) Khi phế quản phân nhánh đến điểm mà sụn thành phế quản quá mỏng để có thể nhìn thấy (trừ khi bị vôi hóa) và không thể phân biệt không khí trong phế quản với không khí trong phế nang xung quanh. Tuy nhiên, nếu các phế nang xung quanh chứa đầy dịch hoặc mủ thì có thể nhìn thấy không khí trong các phế quản phân nhánh.
 	- Viêm phổi thùy dưới bên trái có thể bị bỏ sót nếu khu vực phía sau bóng tim không được kiểm tra thường quy.
 	
-#### Xét nghiệm
-- 
+#### Xét nghiệm (theo guideline của BTS)
+- CTM: WBC > 15x10<sup>9</sup>/L là dấu hiệu của viêm phổi do vi khuẩn.
+- Ure, creatinine: Urê là một phần của thang điểm CURB-65. Thỉnh thoảng, bệnh nhân sẽ được xác định bị suy thận hoặc hạ natri máu không được chẩn đoán.
+- CRP: Mức CRP khi nhập viện chưa được chứng minh là hữu ích về lâm sàng về mặt chẩn đoán hoặc tiên lượng nhưng tạo thành đường cơ sở để so sánh sau này.
+- Xét nghiệm chức năng gan (LFT)
+
+#### Khí máu động mạch/Lactate
+- Các guideline của BTS khuyến cáo rằng ABG chỉ được thực hiện ở những bệnh nhân có độ bão hòa oxy dưới 94%
+- Tuy nhiên, việc đo nồng độ lactate (hiện được đo thường quy trên hầu hết các máy phân tích khí máu) là rất cần thiết để xác định tình trạng giảm tưới máu mô ở những bệnh nhân chưa bị hạ huyết áp nhưng có nguy cơ bị sốc nhiễm trùng.
+- Lactate tăng (đặc biệt là > 4 mmol/L) là một chỉ số tiên lượng kém độc lập với thang điểm CURB-65.
+
+#### Vi sinh/cấy máu
+- Cấy máu có độ nhạy thấp trong CAP (<10% trường hợp), đặc biệt thấp đối với những bệnh nhân mắc CAP nhẹ (CURB-65 ≤ 1)và không có mắc bệnh đồng mắc, và ở những người đã điều trị bằng kháng sinh trước khi nhập viện.
+- Các guideline của BTS khuyến cáo rằng cấy máu được lấy từ tất cả các bệnh nhân mắc CAP trung bình hoặc nặng (CURB-65 ≥ 2), tốt nhất là trước khi bắt đầu điều trị bằng kháng sinh. Tuy nhiên, cấy máu có thể được bỏ qua nếu đáp ứng các tiêu chí sau:
+	- Chẩn đoán xác nhận chắc chắn là viêm phổi cộng đồng **VÀ** viêm phổi nhẹ **VÀ** không có bệnh đồng mắc.
+
 
 
 
