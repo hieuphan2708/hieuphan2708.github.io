@@ -29,7 +29,7 @@ notnumbering: 1
 
 ### Bệnh cảnh theo tác nhân
 - Mặc dù BTS cho rằng có một số bệnh cảnh thường xảy ra hơn đối với những tác nhân cụ thể, tuy nhiên điều đó không đủ chắc chắn để thay đổi lựa chọn kháng sinh theo kinh nghiệm ban đầu.
-	- Phế cầu: Lớn tuổi, bệnhđồng mắc, khởi phát cấp tính, sốt cao và đau ngực kiểu màng phổi.
+	- Phế cầu: Lớn tuổi, bệnh đồng mắc, khởi phát cấp tính, sốt cao và đau ngực kiểu màng phổi.
 	- *Legionella pneumophila:* Bệnh nhân trẻ tuổi hơn, người hút thuốc, không có bệnh đồng mắc, tiêu chảy, triệu chứng thần kinh, nhiễm trùng nặng hơn, bằng chứng về sự tham gia của nhiều hệ thống (ví dụ xét nghiệm chức năng gan bất thường, tăng creatinine huyết thanh).
 	- *Mycoplasma pneumoniae:* Bệnh nhân trẻ hơn, ít sự tham gia đa cơ quan.
 	- *Staphylococcus aureus:* xảy ra phổ biến hơn ở những người dùng thuốc tiêm tĩnh mạch hoặc bệnh nhân suy nhược, đặc biệt là những người bị cúm.
@@ -41,10 +41,12 @@ notnumbering: 1
 - Những thay đổi phù hợp với viêm phổi
 - Viêm nhu mô phổi và phế nang chứa đầy dịch được xem là khu vực đông đặc trên X quang phổi. Các khu vực nhiễm trùng thường bị giới hạn vào 1 thùy bởi màng phổi, nhưng đôi khi cũng có thể nhiều hơn. Tràn dịch màng phổi lượng ít là phổ biến. Đôi khi, X quang phổi có thể bình thường trong giai đoạn đầu của viêm phổi.
 - Phim AP rất khó phân biệt viêm phổi với phù phổi. Các dấu hiệu sau đây có thể giúp xác nhận chẩn đoán viêm phổi:
-	- Silhouette sign: dấu hiệu này đề cập đến việc mất đường viền thông thường giữa các cấu trúc, ví dụ:
+	- **Silhouette sign:** dấu hiệu này đề cập đến việc mất đường viền thông thường giữa các cấu trúc, ví dụ:
 		- Viêm phổi thùy giữa bên phải, xóa bờ tim phải (kinh điển).
 		- Viêm phổi thùy dưới bên phải, bờ cơ hoành ở bên phải bị che khuất, trong khi bờ tim phải vẫn rõ ràng.
+	- **Air Bronchogram:** (khí phế ảnh hay phế quản đồ) Khi phế quản phân nhánh đến điểm mà sụn thành phế quản quá mỏng để có thể nhìn thấy (trừ khi bị vôi hóa) và không thể phân biệt không khí trong phế quản với không khí trong phế nang xung quanh. Tuy nhiên, nếu các phế nang xung quanh chứa đầy dịch hoặc mủ thì có thể nhìn thấy không khí trong các phế quản phân nhánh.
 
+	
 
 
 
