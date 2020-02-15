@@ -51,7 +51,7 @@ notnumbering: 1
 - Với PE bán cấp, chẩn đoán đặc biệt khó vì bệnh nhân có thể than phiền về việc tăng dần mức độ các triệu chứng, thay vì cấp tính đột ngột như khó thở tăng dần hoặc dung nạp gắng sức tệ đi.
 
 ### Yếu tố nguy cơ
-- Hiệp hội lồng ngực Anh năm 2003 chia những yếu tố này thành các yếu tố rủi ro chính và phụ, còn NICE 2015 bao gồm tiền căn DVT trước đó, tuổi trên 60, phẫu thuật, béo phì, chuyến đi dài, bệnh nội khoa cấp tính, ung thư, bất động, thrombophilia và thai kỳ.
+- Hiệp hội lồng ngực Anh năm 2003 chia những yếu tố này thành các [yếu tố rủi ro chính và phụ](, còn NICE 2015 bao gồm tiền căn DVT trước đó, tuổi trên 60, phẫu thuật, béo phì, chuyến đi dài, bệnh nội khoa cấp tính, ung thư, bất động, thrombophilia và thai kỳ.
 
 ### Khám thực thể
 - Việc khám thực thể nên đặc biệt tập trung vào việc tìm kiếm các dấu hiệu cho thấy huyết khối tĩnh mạch sâu và các tình trạng có thể giả dạng PE như viêm phổi (ví dụ như sốt, ran phổi). Theo kinh điển, khám ngực ở bệnh nhân PE bình thường.
@@ -73,17 +73,44 @@ notnumbering: 1
   Dạng kinh điển S1 Q3 T3 (S ở cđ I, Q ở cđ III, T đảo ở cđ III) ở chỉ có ở ~ 10% bệnh nhân mắc PE
 </div>
 
+### Xét nghiệm máu
+- Khí máu: xác nhận tình trạng thiếu oxy, bằng chứng về giảm thông khí và tăng d(A-a). Mặc dù hỗ trợ PE nhưng cũng có thể gặp trong các bệnh cảnh khác như viêm phổi.
+- CTM: Bạch cầu tăng gợi ý nhiễm trùng hơn là nhồi máu.
+- cTn (cardiac troponin): Nồng độ Troponin có thể tăng trong PE cấp tính, đặc biệt là massive PE. Mức Troponin cao gợi ý căng hoặc quá tải thất phải và có thể hữu ích trong tiên lượng và phân tầng nguy cơ (ví dụ giúp cho việc ra quyết định tiêu sợi huyết trong PE), nhưng không hữu ích trong chẩn đoán PE.
 
+<div class="alert alert-warning" role="alert">
+  Cả X quang phổi cũng như bất kỳ xét nghiệm nào được liệt kê ở trên đều không đủ nhạy hoặc đủ đặc hiệu để loại trừ hoặc chẩn đoán PE
+</div>
 
+## Phân tầng rủi ro và khảo sát thêm
+### Giới thiệu
+{% include img/full-left.html src="/img/post/chuyende/risk_stratification.jpg" %}
+- Các công cụ phân tầng rủi ro được sử dụng rộng rãi nhất là:
+	- Wells criteria
+	- NICE 2012 (tiền thân là BTS 2003)
+	- Revised Geneva Score10 hoặc Simplified Revised Geneva Score
+	- Pulmonary Embolus Rule-Out Criteria (PERC)
 
+### Tiêu chí Wells 
+{% include img/full-50.html src="/img/post/chuyende/unnamed.png" des="Tiêu chí Wells" nguồn *vnha.org.vn* %} 
 
+### NICE 2012
+- Hỏi 2 câu: có yếu tố nguy cơ chính nào không? Có khả năng là PE không?
+	- Nguy cơ cao: 2 câu đều có
+	- Nguy cơ trung bình: 1 câu có
+	- Nguy cơ thấp: 2 câu đều không
 
+<div class="alert alert-warning" role="alert">
+  Cả Wells và NICE đều có tiêu chí "ít khả năng bị bệnh lý khác". Tiêu chí này đòi hỏi kinh nghiệm của 1 bác sĩ ít nhất 5 năm mới có thể đánh giá khách quan
+</div>
 
+### Thang điểm Geneva sửa đổi
+- Ưu điểm là không tiêu chí nào phụ thuộc vào độ nhạy lâm sàng của bác sĩ. Khả năng phân tầng nguy cơ tương tự thang điểm Well
+{% include img/full-50.html src="/img/post/chuyende/unnamed1.png" des="Thang điểm Geneva" nguồn *vnha.org.vn* %}
 
-
-
-
-
+### Tiêu chí loại trừ thuyên tắc phổi (PERC)
+- PERC được đánh giá bởi bác sĩ cấp cứu "được chứng nhận" giúp tái phân tầng nhóm nguy cơ thấp để loại trừ PE (thậm chí không cần làm thêm D-dimer)
+- PE có thể bị loại trừ nếu tất cả 8 tiêu chuẩn sau đây đều xuất hiện : dưới 50 tuổi, tần số tim < 100 lần/phút, SpO<sub>2</sub> > 95%, không ho ra máu, không dùng estrogen, không phẫu thuật hoặc không bị chấn thương phải nhập viên trong vòng 4 tuần trước đó, không tiền sử VTE, không phù một bên chân.
 
 
 
