@@ -31,7 +31,7 @@ notnumbering: 1
 
 ## Đánh giá lâm sàng
 
-## Giới thiệu
+### Giới thiệu
 - Chìa khóa để chẩn đoán thành công PE là luôn xem nó là 1 chẩn đoán có thể vì sự quen thuộc với các triệu chứng mỗi khi nghĩ đến để loại trừ hoặc chẩn đoán sẽ giúp tăng tốc độ chẩn đoán.
 - **Massive PE**
 	- Không thường gặp, bệnh nhân bị sốc và thiếu oxy.
@@ -44,6 +44,12 @@ notnumbering: 1
 	- Bệnh nhân thường bị đau ngực kiểu màng phổi, có thể liên quan đến ho ra máu (không thường gặp) và/hoặc khó thở.
 	- Vì ở nhóm bệnh nhân khó thở, khả năng nghĩ tới nhồi máu phổi ngay khi bệnh nhân bị khó thở rất thấp nên chẩn đoán rất khó.
 	- Chẩn đoán phân biệt trên nhóm bệnh nhân này bao gồm đau cơ xương khớp, viêm màng phổi, nhiễm virus và vi khuẩn, viêm màng ngoài tim và tràn khí màng phổi.
+
+### Đặc điểm lâm sàng
+{% include img/full-normal.html src="/img/post/chuyende/Screenshot_17.png" %}
+- Ít hơn 10% BN PE không có triệu chứng nào thuộc một trong ba triệu chứng thường gặp hàng đầu là khó thở, thở nhanh và đau ngực kiểu màng phổi. Tuy nhiên không có bệnh cảnh nào là điển hình của PE.
+- Với PE bán cấp, chẩn đoán đặc biệt khó vì bệnh nhân có thể than phiền về việc tăng dần mức độ các triệu chứng, thay vì cấp tính đột ngột như khó thở tăng dần hoặc dung nạp gắng sức tệ đi.
+ 
 
 
 
