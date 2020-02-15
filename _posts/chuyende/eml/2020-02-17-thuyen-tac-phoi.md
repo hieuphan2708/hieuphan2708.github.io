@@ -53,6 +53,38 @@ notnumbering: 1
 ### Yếu tố nguy cơ
 - Hiệp hội lồng ngực Anh năm 2003 chia những yếu tố này thành các yếu tố rủi ro chính và phụ, còn NICE 2015 bao gồm tiền căn DVT trước đó, tuổi trên 60, phẫu thuật, béo phì, chuyến đi dài, bệnh nội khoa cấp tính, ung thư, bất động, thrombophilia và thai kỳ.
 
+### Khám thực thể
+- Việc khám thực thể nên đặc biệt tập trung vào việc tìm kiếm các dấu hiệu cho thấy huyết khối tĩnh mạch sâu và các tình trạng có thể giả dạng PE như viêm phổi (ví dụ như sốt, ran phổi). Theo kinh điển, khám ngực ở bệnh nhân PE bình thường.
+- Ngoài ra, bệnh nhân nên được kiểm tra các nguyên nhân tiềm ẩn có thể gây ra huyết khối tĩnh mạch như ung thư (ví dụ: organomegaly, bệnh hạch bạch huyết).
+
+## Khảo sát
+### Xquang ngực
+- Nên chụp X quang lồng ngực cho tất cả bệnh nhân nghi ngờ có PE. Nó thường là bình thường hoặc có thể tiết lộ những thay đổi không đặc hiệu như tràn dịch màng phổi lượng ít. Hiếm khi, có thể nhìn thấy nhồi máu phổi hình nêm hoặc dấu Westermark (giảm mạch máu phổi khu trú).
+{% include img/full-normal.html src="/img/post/chuyende/Chest_CXR.gif" %}
+
+<div class="alert alert-danger" role="alert">
+  Mục đích chính của X quang phổi là để loại trừ/tìm kiếm chẩn đoán thay thế như tràn khí màng phổi hoặc nhiễm trùng phổi có biểu hiện tương tự
+</div>
+
+### ECG
+- Nên làm ECG để tìm các dấu hiệu hỗ trợ cho căng tim phải như trục lệch phải và loại trừ hội chứng vành cấp. Phát hiện ECG phổ biến nhất là nhịp nhanh xoang. Rung nhĩ có trong khoảng 20% trường hợp.
+{% include img/full-normal.html src="/img/post/chuyende/12L_ECG.gif" %}
+<div class="alert alert-danger" role="alert">
+  Dạng kinh điển S1 Q3 T3 (S ở cđ I, Q ở cđ III, T đảo ở cđ III) ở chỉ có ở ~ 10% bệnh nhân mắc PE
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
