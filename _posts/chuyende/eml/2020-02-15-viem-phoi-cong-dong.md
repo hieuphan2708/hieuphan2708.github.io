@@ -63,6 +63,12 @@ notnumbering: 1
 - Cấy máu có độ nhạy thấp trong CAP (<10% trường hợp), đặc biệt thấp đối với những bệnh nhân mắc CAP nhẹ (CURB-65 ≤ 1)và không có mắc bệnh đồng mắc, và ở những người đã điều trị bằng kháng sinh trước khi nhập viện.
 - Các guideline của BTS khuyến cáo rằng cấy máu được lấy từ tất cả các bệnh nhân mắc CAP trung bình hoặc nặng (CURB-65 ≥ 2), tốt nhất là trước khi bắt đầu điều trị bằng kháng sinh. Tuy nhiên, cấy máu có thể được bỏ qua nếu đáp ứng các tiêu chí sau:
 	- Chẩn đoán xác nhận chắc chắn là viêm phổi cộng đồng **VÀ** viêm phổi nhẹ **VÀ** không có bệnh đồng mắc.
+- Các mẫu đàm có mủ phải được gửi để nuôi cấy ở bệnh nhân có các đặc điểm sau
+	- Viêm phổi nặng
+	- Viêm phổi trung bình không được dùng kháng sinh trước đó
+	- Thất bại trong việc điều trị
+	- Bệnh nhân xét nghiệm dương tính với kháng nguyên *Legionella* trong nước tiểu.
+- Vì mục đích dùng kháng sinh trong vòng 4 giờ sau khi nhập viện, nên các mẫu đàm có mủ của bệnh nhân nhập cấp cứu nói chung nên được gửi để nuôi cấy vì các mẫu thu được sau này trên khoa sẽ có khả năng mọc thấp hơn do đã sử dụng kháng sinh trước đó ở cấp cứu.
 
 
 
