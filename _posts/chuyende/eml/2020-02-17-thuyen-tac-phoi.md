@@ -116,7 +116,14 @@ notnumbering: 1
   Công cụ PERC cho thấy nhiều hứa hẹn nhưng cần có các nghiên cứu xác nhận thêm trước khi có thể thay thế D-Dimer ở những bệnh nhân có nguy cơ PE thấp
 </div>
 
-
+## Khảo sát thêm Simple_d-dimer.jpg
+### D-dimer
+- Chỉ để **loại trừ** PE. Ngoài VTE, nó cũng tăng trong bối cảnh nhiễm trùng, chấn thương, ung thư và các bệnh viêm.
+- Sau khi phân tầng nguy cơ, nếu
+	- Là nhóm có khả năng là PE (PE likely) thì không dùng D-dimer mà nên dùng xét nghiệm hình ảnh.
+	- Là nhóm ít khả năng là PE (PE unlikely) thì dùng D-dimer để loại trừ PE một cách tự tin.
+- Có hai loại xét nghiệm D-dimer cơ bản: **định tính** tại giường (SimpliRED, Simplify D-dimer) và **định lượng** bằng ELISA hoặc Latex (Vidas hoặc MDA)
+{% include img/full-right.html src="/img/post/chuyende/unnamed1.png" %}
 
 
  
