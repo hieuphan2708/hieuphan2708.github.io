@@ -127,5 +127,6 @@ notnumbering: 1
 - Hầu hết các xét nghiệm định tính chỉ có thể loại trừ đáng tin cậy thuyên tắc phổi ở bệnh nhân có xác suất lâm sàng thấp. Mặt khác, các xét nghiệm định lượng đã được chứng minh là rất nhạy trong việc loại trừ PE ở bệnh nhân ở xác suất lâm sàng thấp hoặc trung bình.
 - Tuy NICE đã đề xuất chỉ sử dụng D-Dimer cho những bệnh nhân được phân loại là PE không có khả năng, còn xác suất lâm sàng trung bình không xét tới. NICE cũng không khuyến cáo ưu tiên dùng định tính hay định lượng, nên điều này phụ thuộc vào tính sẵn có của bệnh viện và độ nhạy, độ đặc hiệu của từng dụng cụ cụ thể.
 - Nếu được thực hiện một cách chính xác, thuyên tắc phổi có thể được loại trừ một cách hiệu quả ở những bệnh nhân có D-Dimer âm tính và không cần thêm xét nghiệm hình ảnh. **Điều quan trọng là đảm bảo rằng một chẩn đoán khác giải thích được các triệu chứng của bệnh nhân.** 
+{% include img/right.html src="/img/post/chuyende/diagnosispe.png" %}
 
  
