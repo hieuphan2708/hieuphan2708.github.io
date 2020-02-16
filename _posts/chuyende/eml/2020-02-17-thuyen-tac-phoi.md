@@ -178,7 +178,12 @@ notnumbering: 1
 </div>
 
 ### BN xác nhận/nghi ngờ mất ổn định huyết động
-
+- Tiêu sợi huyết được chỉ định cho những bệnh nhân bị trụy tuần hoàn hoặc hình ảnh của massive.
+- Nếu bệnh nhân trụy huyết động, ngay trước khi ngưng tim (peri-arrest) thì không cần xác nhận PE mà phải dùng tiêu sợi huyết ngay (bolus 50mg Alteplase) và xem xét thực hiện CPR trong ít nhất 60-90 phút trước khi chấm dứt các nỗ lực hồi sức.
+- Các trường hợp thuyên tắc phổi không được chứng minh (Unprovoked pulmonary embolism) cần tìm bệnh ung thư chưa được phát hiện.
+- Trong massive PE, chỉ có đang xuất huyết nội hoặc xuất huyết nội sọ gần đây mới là chống chỉ định tuyệt đối với tiêu sợi huyết.
+- Ở BN không phải massive PE, tiêu sợi huyết thường quy không có lợi ích. NICE 2012 cho thấy rằng bệnh nhân ổn định huyết động không nên được làm tan huyết khối. Tuy nhiên, một số bác sĩ lâm sàng ủng hộ việc làm tan huyết khối cho những bệnh nhân mắc PE bình thường nhưng có bằng chứng về căng tim phải hoặc tổn thương cơ tim (ví dụ như trên siêu âm tim, tăng troponin). AHA thì đưa chung nhóm BN này vào nhóm massive PE luôn.
+- [Nghiên cứu PEITHO](https://clinicaltrials.gov/ct2/show/NCT00639743) đang tìm hiểu xem nhóm bệnh nhân trên dùng tiêu sợi huyết có lợi ích rõ ràng hơn dùng chống đông hay không 
 
 
  
