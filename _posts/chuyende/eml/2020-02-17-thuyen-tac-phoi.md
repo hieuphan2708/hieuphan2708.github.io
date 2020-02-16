@@ -93,7 +93,7 @@ notnumbering: 1
 	- Pulmonary Embolus Rule-Out Criteria (PERC)
 
 ### Tiêu chí Wells 
-{% include img/full-50.html src="/img/post/chuyende/unnamed.png" des="Tiêu chí Wells" nguồn vnha.org.vn" %} 
+{% include img/full-50.html src="/img/post/chuyende/unnamed.png" des="Tiêu chí Wells nguồn vnha.org.vn" %} 
 
 ### NICE 2012
 - Hỏi 2 câu: có yếu tố nguy cơ chính nào không? Có khả năng là PE không?
@@ -107,7 +107,7 @@ notnumbering: 1
 
 ### Thang điểm Geneva sửa đổi
 - Ưu điểm là không tiêu chí nào phụ thuộc vào độ nhạy lâm sàng của bác sĩ. Khả năng phân tầng nguy cơ tương tự thang điểm Well
-{% include img/full-50.html src="/img/post/chuyende/unnamed1.png" des="Thang điểm Geneva" nguồn vnha.org.vn" %}
+{% include img/full-50.html src="/img/post/chuyende/unnamed1.png" des="Thang điểm Geneva nguồn vnha.org.vn" %}
 
 ### Tiêu chí loại trừ thuyên tắc phổi (PERC)
 - PERC được đánh giá bởi bác sĩ cấp cứu "được chứng nhận" giúp tái phân tầng nhóm nguy cơ thấp để loại trừ PE (thậm chí không cần làm thêm D-dimer)
