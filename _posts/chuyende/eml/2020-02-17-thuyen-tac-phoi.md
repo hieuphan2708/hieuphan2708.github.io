@@ -173,8 +173,11 @@ notnumbering: 1
 	- Guideline của NICE 2015 ủng hộ việc chống đông trong 3 tháng cho tất cả bệnh nhân. Quyết định tiếp tục sau 3 tháng cần được đánh giá dựa trên các cá nhân có nguy cơ tái phát (tức là provoked hoặc unprovoked) so với nguy cơ xuất huyết.
 	- Nếu đã có nhiều đợt hoặc các yếu tố nguy cơ vẫn còn như ung thư thì cần dùng chống đông suốt đời.
 - Hầu hết dùng chống đông theo cách: wafarin liều tải - heparin liều duy trì. Nên tiếp tục LMWH tối thiểu trong 5 ngày và ít nhấ đến khi INR = 2.0. Có một số nhóm bệnh nhân dùng warfarin có thể không phù hợp như lạm dụng thuốc tiêm tĩnh mạch, bệnh nhân mang thai và bệnh nhân mắc bệnh gan hoặc ung thư. Trong nhóm này, hiệu quả thuốc chống đông thường chỉ đạt được khi tiêm LMWH.
+<div class="alert alert-danger" role="alert">
+  Fonduparinux, một thay thế mới hơn cho LMWH, có thể được xem xét cho một số nhóm tôn giáo nhất định như đạo Hồi (một phần của quy trình sản xuất LMWH sử dụng lợn) và những bệnh nhân không dung nạp với heparin (như giảm tiểu cầu do heparin)
+</div>
 
-
+### BN xác nhận/nghi ngờ mất ổn định huyết động
 
 
 
