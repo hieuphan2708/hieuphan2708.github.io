@@ -130,4 +130,52 @@ notnumbering: 1
 - Nếu được thực hiện một cách chính xác, thuyên tắc phổi có thể được loại trừ một cách hiệu quả ở những bệnh nhân có D-Dimer âm tính và không cần thêm xét nghiệm hình ảnh. **Điều quan trọng là đảm bảo rằng một chẩn đoán khác giải thích được các triệu chứng của bệnh nhân.** 
 {% include img/full-50.html src="/img/post/chuyende/diagnosispe.png" %}
 
+### Hình ảnh học
+- Chỉ định:
+	- Nguy cơ thấp/trung bình xét nghiệm D-dimer tăng
+	- Nguy cơ cao
+#### CT mạch máu phổi (CTPA) 
+{% include img/full-50.html src="/img/post/chuyende/CTPA_clin_img.jpg" %}
+- Độ nhạy 85-90% nhưng giá trị tiên đoán âm cao (96-97%) và do đó có thể loại trừ PE ngay cả trong nhóm nguy cơ cao.
+- CTPA có thể xác định các PE rất nhỏ nên kể cả nếu một số PE bị bỏ sót bởi CTPA thì hầu như không có ảnh hưởng gì.
+- Chú ý: CTPA có thể bị âm tính giả nên khi phân tầng nguy cơ là nhóm nguy cơ cao thì nên khảo sát thêm bằng các xét nghiệm khác.
+
+#### V/Q scanning 
+{% include img/full-50.html src="/img/post/chuyende/Perf_scan_Clin_img.gif" %}
+- Có thể được sử dụng cho bệnh nhân chụp X quang phổi bình thường và không có bệnh tim phổi mạn tính. Nó có nguy cơ phân tầng bệnh nhân thành nhóm "khả năng" thấp, trung bình và cao.
+	- V/Q "khả năng" cao + PE "nguy cơ" cao → xem xét chẩn đoán.
+	- V/Q "khả năng" thấp + PE "nguy cơ" thấp → xem xét loại trừ.
+- Tuy nhiên thực tế thì V/Q scanning không giúp chẩn đoán PE một cách tin cậy và đa số bệnh nhân có kết quả V/Q scanning khả năng trung bình.
+
+#### Siêu âm tim
+- Có thể hữu ích trong việc hỗ trợ chẩn đoán PE, đặc biệt ở những bệnh nhân bị bệnh nặng, quá yếu để chụp được CT.
+- Giá trị không nhiều
+
+#### Siêu âm tĩnh mạch ở chân
+- Rất hữu ích cho bệnh nhân có bằng chứng lâm sàng về DVT và việc xác định cục máu đông bằng siêu âm tĩnh mạch giúp chẩn đoán PE trong những trường hợp có chống chỉ định xét nghiệm hình ảnh khác (như mang thai) hoặc nhóm nguy cơ cao nhưng CTPA âm tính giả.
+- Tuy nhiên, siêu âm không thấy không loại trừ được (độ nhạy ~ 67%).
+ 
+## Quản lý lâm sàng
+### BN đang chờ khảo sát thêm
+- **Dùng chống đông** (thường là heparin trọng lượng phân tử thấp) trong khi chờ đợi cho đến khi các XN khác sẵn sàng, ở nhóm bệnh nhân:
+	- Có khả năng là PE
+	- Không có khả năng là PE nhưng D-dimer dương tính
+
+<div class="alert alert-warning" role="alert">
+  Tất cả các bệnh nhân có khả năng PE và nkhông có khả năng PE có D-dimer dương tính, đang chờ khảo sát cần được điều trị chống đông
+</div>
+
+### BN xác nhận PE có huyết động ổn định
+- Những điều sau đây nên được thực hiện
+- Oxy cho bất kỳ bệnh nhân nào có độ bão hòa oxy < 94%.
+- Chống đông: tất cả các bệnh nhân PE đều yêu cầu dùng chống đông, nhưng có tranh luận về thời gian
+	- Không có bằng chứng rõ ràng rằng bệnh nhân chống đông trong 6 tháng có ích hơn so với làm trong 3 tháng, nhưng nguy cơ xuất huyết tăng lên.
+	- Guideline của NICE 2015 ủng hộ việc chống đông trong 3 tháng cho tất cả bệnh nhân. Quyết định tiếp tục sau 3 tháng cần được đánh giá dựa trên các cá nhân có nguy cơ tái phát (tức là provoked hoặc unprovoked) so với nguy cơ xuất huyết.
+	- Nếu đã có nhiều đợt hoặc các yếu tố nguy cơ vẫn còn như ung thư thì cần dùng chống đông suốt đời.
+- Hầu hết dùng chống đông theo cách: wafarin liều tải - heparin liều duy trì. Nên tiếp tục LMWH tối thiểu trong 5 ngày và ít nhấ đến khi INR = 2.0. Có một số nhóm bệnh nhân dùng warfarin có thể không phù hợp như lạm dụng thuốc tiêm tĩnh mạch, bệnh nhân mang thai và bệnh nhân mắc bệnh gan hoặc ung thư. Trong nhóm này, hiệu quả thuốc chống đông thường chỉ đạt được khi tiêm LMWH.
+
+
+
+
+
  
