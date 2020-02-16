@@ -177,13 +177,54 @@ notnumbering: 1
   Fonduparinux, một thay thế mới hơn cho LMWH, có thể được xem xét cho một số nhóm tôn giáo nhất định như đạo Hồi (một phần của quy trình sản xuất LMWH sử dụng lợn) và những bệnh nhân không dung nạp với heparin (như giảm tiểu cầu do heparin)
 </div>
 
-### BN xác nhận/nghi ngờ mất ổn định huyết động
+### BN xác nhận/nghi ngờ mất ổn định huyết động 
 - Tiêu sợi huyết được chỉ định cho những bệnh nhân bị trụy tuần hoàn hoặc hình ảnh của massive.
 - Nếu bệnh nhân trụy huyết động, ngay trước khi ngưng tim (peri-arrest) thì không cần xác nhận PE mà phải dùng tiêu sợi huyết ngay (bolus 50mg Alteplase) và xem xét thực hiện CPR trong ít nhất 60-90 phút trước khi chấm dứt các nỗ lực hồi sức.
 - Các trường hợp thuyên tắc phổi không được chứng minh (Unprovoked pulmonary embolism) cần tìm bệnh ung thư chưa được phát hiện.
 - Trong massive PE, chỉ có đang xuất huyết nội hoặc xuất huyết nội sọ gần đây mới là chống chỉ định tuyệt đối với tiêu sợi huyết.
 - Ở BN không phải massive PE, tiêu sợi huyết thường quy không có lợi ích. NICE 2012 cho thấy rằng bệnh nhân ổn định huyết động không nên được làm tan huyết khối. Tuy nhiên, một số bác sĩ lâm sàng ủng hộ việc làm tan huyết khối cho những bệnh nhân mắc PE bình thường nhưng có bằng chứng về căng tim phải hoặc tổn thương cơ tim (ví dụ như trên siêu âm tim, tăng troponin). AHA thì đưa chung nhóm BN này vào nhóm massive PE luôn.
 - [Nghiên cứu PEITHO](https://clinicaltrials.gov/ct2/show/NCT00639743) đang tìm hiểu xem nhóm bệnh nhân trên dùng tiêu sợi huyết có lợi ích rõ ràng hơn dùng chống đông hay không 
+
+{% include img/full-50.html src="/img/post/chuyende/AHA.png" des="Hướng dẫn của Hiệp hội Tim mạch Hoa Kỳ về điều trị PE bằng tiêu sợi huyết" %}
+
+### Ngoại trú
+- Chỉ số mức độ nghiêm trọng của thuyên tắc phổi (PESI) và phiên bản đơn giản của PESI đã được sử dụng để quyết định bệnh nhân nào có thể chăm sóc ngoại trú. những bệnh nhân có điểm PESI đơn giản bằng 0 được coi là có nguy cơ đủ thấp để điều trị như bệnh nhân ngoại trú và có thể dùng chống đông an toàn mà không cần phải nhập viện.
+{% include img/full-50.html src="/img/post/chuyende/Screenshot_18.png" %}
+
+## Điều trị PE trong các trường hợp đặc biệt
+### Đang mắc ung thư
+- Có bằng chứng về việc giảm VTE tái phát ở bệnh nhân ung thư được dùng LMWH so với warfarin (Bệnh nhân đang bị ung thư có nguy cơ xuất huyết đáng kể do hậu quả của việc dùng chống đông và do đó LMWH là một lựa chọn an toàn hơn warfarin vì thời gian bán hủy ngắn hơn). Ngoài ra, việc kiểm soát INR thường khó khăn hơn ở những bệnh nhân được hóa trị.
+- Khuyến cáo hiện tại là tiếp tục dùng chống đông cho bệnh nhân đang mắc ung thư sau 6 tháng.
+<div class="alert alert-danger" role="alert">
+  Bệnh nhân được chẩn đoán VTE có khối u ác tính hoạt động nên được điều trị bằng LMWH thay vì warfarin.
+</div>
+
+### Mang thai
+- Mang thai là một yếu tố nguy cơ đáng kể (gấp 4 lần nguy cơ tương đối) của sự phát triển huyết khối tĩnh mạch. D-dimer thường tăng cao trong thai kỳ làm hạn chế việc sử dụng nó như một công cụ chẩn đoán. Mặc dù D-dimer âm tính ở bệnh nhân có nguy cơ thấp trong thai kỳ có thể được coi là hữu ích, nhưng việc sử dụng D-Dimer để loại trừ PE không được ủng hộ bởi RCOG.
+- Chiến lược khảo sát ở bệnh nhân mang thai thường ủng hộ siêu âm tĩnh mạch chân hai bên để giảm thiểu phơi nhiễm bức xạ ion hóa. Tuy nhiên, để chẩn đoán thì được nhưng loại trừ thì không [xem lại](https://hieuphan2708.github.io/eml/thuyen-tac-phoi#si%C3%AAu-%C3%A2m-t%C4%A9nh-m%E1%BA%A1ch-%E1%BB%9F-ch%C3%A2n).
+- CTPA thì tăng phơi nhiễm bức xạ với mô vú của người mẹ (tăng nguy cơ mắc ung thư vú), còn V/Q scan thì tăng phơi nhiễm bức xạ với thai nhi (tăng nguy cơ mắc ung thư ở trẻ em). 
+<div class="alert alert-danger" role="alert">
+  Bác sĩ cấp cứu sẽ phải giải thích nguy cơ cho mẹ và thai nhi khi khảo sát bằng CTPA hay V/Q scan
+</div>
+
+- LMWH là lựa chọn điều trị cho PE trong thai kỳ. Trong thai kỳ, dược động học của LMWH bị thay đổi nên dùng hai lần mỗi ngày. Liều Enoxaparin là 1mg/kg.
+- Heparin không phân đoạn (UH) có liên quan đến loãng xương và giảm tiểu cầu nên không được khuyến cáo sử dụng kéo dài, chỉ sử dụng cho các trường hợp massive PE (dùng kết hợp với tiêu sợi huyết).
+- Thuốc chống đông đường uống không dùng trong thai kỳ do nguy cơ xuất huyết lớn hơn và nguy cơ gây quái thai.
+<div class="alert alert-danger" role="alert">
+  LMWH nên được dùng 2 lần/ngày cho bệnh nhân mắc PE trong thai kỳ
+</div>
+
+### Lạm dụng thuốc tiêm tĩnh mạch
+- Bệnh nhân lạm dụng thuốc tiêm tĩnh mạch, đặc biệt là thuốc tiêm vào tĩnh mạch trung tâm, có nguy cơ mắc DVT và PE thứ phát.
+- Cơ chế hình thành DVT trong nhóm này có lẽ liên quan đến việc chọc tĩnh mạch đùi lặp đi lặp lại và tiêm các chất gây kích thích, dẫn đến tổn thương nội mô và giải phóng yếu tố mô.
+- Lạm dụng thuốc tiêm tĩnh mạch là một yếu tố nguy cơ đặc biệt đối với DVT nhưng với PE thì vẫn chưa rõ ràng.
+- PE thường liên quan đến nhiễm trùng và huyết khối nhiễm trùng ở phổi là biến chứng phổi thường gặp nhất.
+- Điều trị thuyên tắc phổi ở người lạm dụng thuốc tiêm tĩnh mạch thường khó khăn do lối của họ. Thuốc chống đông đường uống hiếm khi được kê do nguy cơ không tuân thủ thuốc mà dùng đường tiêm thì BN lại tiếp tục lạm dụng thuốc, chưa kể đến nguy cơ xuất huyết. Cho nên hầu hết những người này được điều trị với **LMWH**, thường trong 3-6 tháng và cân nhắc sử dụng đồng thời các loại **kháng sinh** vì rằng PE trong nhóm này thường liên quan đến sepsis. IVC filters có thể là biện pháp cuối cùng khi mà không thể dùng chống đông kéo dài.
+
+
+
+
+
 
 
  
