@@ -177,7 +177,7 @@ notnumbering: 1
   Fonduparinux, một thay thế mới hơn cho LMWH, có thể được xem xét cho một số nhóm tôn giáo nhất định như đạo Hồi (một phần của quy trình sản xuất LMWH sử dụng lợn) và những bệnh nhân không dung nạp với heparin (như giảm tiểu cầu do heparin)
 </div>
 
-### BN xác nhận/nghi ngờ mất ổn định huyết động 
+### BN xác nhận/nghi ngờ PE mất ổn định huyết động 
 - Tiêu sợi huyết được chỉ định cho những bệnh nhân bị trụy tuần hoàn hoặc hình ảnh của massive.
 - Nếu bệnh nhân trụy huyết động, ngay trước khi ngưng tim (peri-arrest) thì không cần xác nhận PE mà phải dùng tiêu sợi huyết ngay (bolus 50mg Alteplase) và xem xét thực hiện CPR trong ít nhất 60-90 phút trước khi chấm dứt các nỗ lực hồi sức.
 - Các trường hợp thuyên tắc phổi không được chứng minh (Unprovoked pulmonary embolism) cần tìm bệnh ung thư chưa được phát hiện.
