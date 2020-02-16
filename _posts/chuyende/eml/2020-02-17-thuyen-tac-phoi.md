@@ -12,7 +12,7 @@ notnumbering: 1
 ## Bối cảnh
 - Bệnh nhân trải qua phẫu thuật thay khớp háng hoặc khớp gối, phẫu thuật gãy xương chi dưới và phẫu thuật ung thư có nguy cơ đặc biệt. Tuy nhiên, số lượng lớn nhất của các biến cố huyết khối xảy ra ở bệnh nhân nhập viện vì bệnh nội khoa cấp tính.
 - Tỷ lệ tử vong tại bệnh viện đối với thuyên tắc phổi dao động từ 6% đến 15%.
-- PE là một chẩn đoán khó thực hiện một cách tự tin vì nó không thể được xác nhận hoặc loại trừ dựa trên lâm sàng. Chẩn đoán thường bị bỏ qua, nhất là bệnh nhân lớn tuổi mắc nhiều bệnh đồng mắc và phần lớn thuyên tắc phổi gây tử vong không nghi ngờ tới lúc trước khi chết. Ngược lại, Wells nói rằng chỉ có 9,5% những bệnh nhân có triệu chứng gợi ý chẩn đoán, cuối cùng được xác định là bị thuyên tắc phổi. Cần chẩn đoán đúng vì điều trị sẽ giảm tỷ lệ tử vong khoảng 20%. Chẩn đoán chính xác cũng rất cần thiết để ngăn ngừa việc dùng chống đông không cần thiết có liên quan đến một loạt các tác dụng phụ nghiêm trọng.
+- PE là một chẩn đoán khó thực hiện một cách tự tin vì nó không thể được xác nhận hoặc loại trừ dựa trên lâm sàng. Chẩn đoán thường bị bỏ qua, nhất là bệnh nhân lớn tuổi mắc nhiều bệnh đồng mắc và phần lớn thuyên tắc phổi gây tử vong không nghi ngờ tới lúc trước khi chết. Ngược lại, Wells nói rằng chỉ có 9,5% những bệnh nhân có triệu chứng gợi ý chẩn đoán, cuối cùng được xác định là bị thuyên tắc phổi. Cần chẩn đoán đúng vì điều trị sẽ giảm tỷ lệ tử vong khoảng 20%. Chẩn đoán chính xác cũng rất cần thiết để ngăn ngừa việc dùng kháng đông không cần thiết có liên quan đến một loạt các tác dụng phụ nghiêm trọng.
 
 ## Sinh lý bệnh
 - PE được coi là một biến chứng của huyết khối tĩnh mạch. Bình thường, các vi huyết khối liên tục được hình thành và ly giải với số lượng bằng nhau trong hệ thống tuần hoàn tĩnh mạch, tức là có sự cân bằng giữa hệ thống tạo huyết khối và tan huyết khối. Trong bệnh lý, vi huyết khối thoát khỏi (escape) sự ly giải và tạo thành các cục huyết khối lớn hơn.
@@ -157,22 +157,22 @@ notnumbering: 1
  
 ## Quản lý lâm sàng
 ### BN đang chờ khảo sát thêm
-- **Dùng chống đông** (thường là heparin trọng lượng phân tử thấp) trong khi chờ đợi cho đến khi các XN khác sẵn sàng, ở nhóm bệnh nhân:
+- **Dùng kháng đông** (thường là heparin trọng lượng phân tử thấp) trong khi chờ đợi cho đến khi các XN khác sẵn sàng, ở nhóm bệnh nhân:
 	- Có khả năng là PE
 	- Không có khả năng là PE nhưng D-dimer dương tính
 
 <div class="alert alert-warning" role="alert">
-  Tất cả các bệnh nhân có khả năng PE và không có khả năng PE có D-dimer dương tính, đang chờ khảo sát cần được điều trị chống đông
+  Tất cả các bệnh nhân có khả năng PE và không có khả năng PE có D-dimer dương tính, đang chờ khảo sát cần được điều trị kháng đông
 </div>
 
 ### BN xác nhận PE có huyết động ổn định
 - Những điều sau đây nên được thực hiện
 - Oxy cho bất kỳ bệnh nhân nào có độ bão hòa oxy < 94%.
-- Chống đông: tất cả các bệnh nhân PE đều yêu cầu dùng chống đông, nhưng có tranh luận về thời gian
-	- Không có bằng chứng rõ ràng rằng bệnh nhân chống đông trong 6 tháng có ích hơn so với làm trong 3 tháng, nhưng nguy cơ xuất huyết tăng lên.
-	- Guideline của NICE 2015 ủng hộ việc chống đông trong 3 tháng cho tất cả bệnh nhân. Quyết định tiếp tục sau 3 tháng cần được đánh giá dựa trên các cá nhân có nguy cơ tái phát (tức là provoked hoặc unprovoked) so với nguy cơ xuất huyết.
-	- Nếu đã có nhiều đợt hoặc các yếu tố nguy cơ vẫn còn như ung thư thì cần dùng chống đông suốt đời.
-- Hầu hết dùng chống đông theo cách: wafarin liều tải - heparin liều duy trì. Nên tiếp tục LMWH tối thiểu trong 5 ngày và ít nhấ đến khi INR = 2.0. Có một số nhóm bệnh nhân dùng warfarin có thể không phù hợp như lạm dụng thuốc tiêm tĩnh mạch, bệnh nhân mang thai và bệnh nhân mắc bệnh gan hoặc ung thư. Trong nhóm này, hiệu quả thuốc chống đông thường chỉ đạt được khi tiêm LMWH.
+- Chống đông: tất cả các bệnh nhân PE đều yêu cầu dùng kháng đông, nhưng có tranh luận về thời gian
+	- Không có bằng chứng rõ ràng rằng bệnh nhân kháng đông trong 6 tháng có ích hơn so với làm trong 3 tháng, nhưng nguy cơ xuất huyết tăng lên.
+	- Guideline của NICE 2015 ủng hộ việc kháng đông trong 3 tháng cho tất cả bệnh nhân. Quyết định tiếp tục sau 3 tháng cần được đánh giá dựa trên các cá nhân có nguy cơ tái phát (tức là provoked hoặc unprovoked) so với nguy cơ xuất huyết.
+	- Nếu đã có nhiều đợt hoặc các yếu tố nguy cơ vẫn còn như ung thư thì cần dùng kháng đông suốt đời.
+- Hầu hết dùng kháng đông theo cách: wafarin liều tải - heparin liều duy trì. Nên tiếp tục LMWH tối thiểu trong 5 ngày và ít nhấ đến khi INR = 2.0. Có một số nhóm bệnh nhân dùng warfarin có thể không phù hợp như lạm dụng thuốc tiêm tĩnh mạch, bệnh nhân mang thai và bệnh nhân mắc bệnh gan hoặc ung thư. Trong nhóm này, hiệu quả thuốc kháng đông thường chỉ đạt được khi tiêm LMWH.
 <div class="alert alert-danger" role="alert">
   Fonduparinux, một thay thế mới hơn cho LMWH, có thể được xem xét cho một số nhóm tôn giáo nhất định như đạo Hồi (một phần của quy trình sản xuất LMWH sử dụng lợn) và những bệnh nhân không dung nạp với heparin (như giảm tiểu cầu do heparin)
 </div>
@@ -183,18 +183,18 @@ notnumbering: 1
 - Các trường hợp thuyên tắc phổi không được chứng minh (Unprovoked pulmonary embolism) cần tìm bệnh ung thư chưa được phát hiện.
 - Trong massive PE, chỉ có đang xuất huyết nội hoặc xuất huyết nội sọ gần đây mới là chống chỉ định tuyệt đối với tiêu sợi huyết.
 - Ở BN không phải massive PE, tiêu sợi huyết thường quy không có lợi ích. NICE 2012 cho thấy rằng bệnh nhân ổn định huyết động không nên được làm tan huyết khối. Tuy nhiên, một số bác sĩ lâm sàng ủng hộ việc làm tan huyết khối cho những bệnh nhân mắc PE bình thường nhưng có bằng chứng về căng tim phải hoặc tổn thương cơ tim (ví dụ như trên siêu âm tim, tăng troponin). AHA thì đưa chung nhóm BN này vào nhóm massive PE luôn.
-- [Nghiên cứu PEITHO](https://clinicaltrials.gov/ct2/show/NCT00639743) đang tìm hiểu xem nhóm bệnh nhân trên dùng tiêu sợi huyết có lợi ích rõ ràng hơn dùng chống đông hay không 
+- [Nghiên cứu PEITHO](https://clinicaltrials.gov/ct2/show/NCT00639743) đang tìm hiểu xem nhóm bệnh nhân trên dùng tiêu sợi huyết có lợi ích rõ ràng hơn dùng kháng đông hay không 
 
 {% include img/full-50.html src="/img/post/chuyende/AHA.png" des="Hướng dẫn của Hiệp hội Tim mạch Hoa Kỳ về điều trị PE bằng tiêu sợi huyết" %}
 
 ### Ngoại trú
-- Chỉ số mức độ nghiêm trọng của thuyên tắc phổi (PESI) và phiên bản đơn giản của PESI đã được sử dụng để quyết định bệnh nhân nào có thể chăm sóc ngoại trú. những bệnh nhân có điểm PESI đơn giản bằng 0 được coi là có nguy cơ đủ thấp để điều trị như bệnh nhân ngoại trú và có thể dùng chống đông an toàn mà không cần phải nhập viện.
+- Chỉ số mức độ nghiêm trọng của thuyên tắc phổi (PESI) và phiên bản đơn giản của PESI đã được sử dụng để quyết định bệnh nhân nào có thể chăm sóc ngoại trú. những bệnh nhân có điểm PESI đơn giản bằng 0 được coi là có nguy cơ đủ thấp để điều trị như bệnh nhân ngoại trú và có thể dùng kháng đông an toàn mà không cần phải nhập viện.
 {% include img/full-50.html src="/img/post/chuyende/Screenshot_18.png" %}
 
 ## Điều trị PE trong các trường hợp đặc biệt
 ### Đang mắc ung thư
-- Có bằng chứng về việc giảm VTE tái phát ở bệnh nhân ung thư được dùng LMWH so với warfarin (Bệnh nhân đang bị ung thư có nguy cơ xuất huyết đáng kể do hậu quả của việc dùng chống đông và do đó LMWH là một lựa chọn an toàn hơn warfarin vì thời gian bán hủy ngắn hơn). Ngoài ra, việc kiểm soát INR thường khó khăn hơn ở những bệnh nhân được hóa trị.
-- Khuyến cáo hiện tại là tiếp tục dùng chống đông cho bệnh nhân đang mắc ung thư sau 6 tháng.
+- Có bằng chứng về việc giảm VTE tái phát ở bệnh nhân ung thư được dùng LMWH so với warfarin (Bệnh nhân đang bị ung thư có nguy cơ xuất huyết đáng kể do hậu quả của việc dùng kháng đông và do đó LMWH là một lựa chọn an toàn hơn warfarin vì thời gian bán hủy ngắn hơn). Ngoài ra, việc kiểm soát INR thường khó khăn hơn ở những bệnh nhân được hóa trị.
+- Khuyến cáo hiện tại là tiếp tục dùng kháng đông cho bệnh nhân đang mắc ung thư sau 6 tháng.
 <div class="alert alert-danger" role="alert">
   Bệnh nhân được chẩn đoán VTE có khối u ác tính hoạt động nên được điều trị bằng LMWH thay vì warfarin.
 </div>
@@ -209,7 +209,7 @@ notnumbering: 1
 
 - LMWH là lựa chọn điều trị cho PE trong thai kỳ. Trong thai kỳ, dược động học của LMWH bị thay đổi nên dùng hai lần mỗi ngày. Liều Enoxaparin là 1mg/kg.
 - Heparin không phân đoạn (UH) có liên quan đến loãng xương và giảm tiểu cầu nên không được khuyến cáo sử dụng kéo dài, chỉ sử dụng cho các trường hợp massive PE (dùng kết hợp với tiêu sợi huyết).
-- Thuốc chống đông đường uống không dùng trong thai kỳ do nguy cơ xuất huyết lớn hơn và nguy cơ gây quái thai.
+- Thuốc kháng đông đường uống không dùng trong thai kỳ do nguy cơ xuất huyết lớn hơn và nguy cơ gây quái thai.
 <div class="alert alert-danger" role="alert">
   LMWH nên được dùng 2 lần/ngày cho bệnh nhân mắc PE trong thai kỳ
 </div>
@@ -219,7 +219,7 @@ notnumbering: 1
 - Cơ chế hình thành DVT trong nhóm này có lẽ liên quan đến việc chọc tĩnh mạch đùi lặp đi lặp lại và tiêm các chất gây kích thích, dẫn đến tổn thương nội mô và giải phóng yếu tố mô.
 - Lạm dụng thuốc tiêm tĩnh mạch là một yếu tố nguy cơ đặc biệt đối với DVT nhưng với PE thì vẫn chưa rõ ràng.
 - PE thường liên quan đến nhiễm trùng và huyết khối nhiễm trùng ở phổi là biến chứng phổi thường gặp nhất.
-- Điều trị thuyên tắc phổi ở người lạm dụng thuốc tiêm tĩnh mạch thường khó khăn do lối của họ. Thuốc chống đông đường uống hiếm khi được kê do nguy cơ không tuân thủ thuốc mà dùng đường tiêm thì BN lại tiếp tục lạm dụng thuốc, chưa kể đến nguy cơ xuất huyết. Cho nên hầu hết những người này được điều trị với **LMWH**, thường trong 3-6 tháng và cân nhắc sử dụng đồng thời các loại **kháng sinh** vì rằng PE trong nhóm này thường liên quan đến sepsis. IVC filters có thể là biện pháp cuối cùng khi mà không thể dùng chống đông kéo dài.
+- Điều trị thuyên tắc phổi ở người lạm dụng thuốc tiêm tĩnh mạch thường khó khăn do lối của họ. Thuốc kháng đông đường uống hiếm khi được kê do nguy cơ không tuân thủ thuốc mà dùng đường tiêm thì BN lại tiếp tục lạm dụng thuốc, chưa kể đến nguy cơ xuất huyết. Cho nên hầu hết những người này được điều trị với **LMWH**, thường trong 3-6 tháng và cân nhắc sử dụng đồng thời các loại **kháng sinh** vì rằng PE trong nhóm này thường liên quan đến sepsis. IVC filters có thể là biện pháp cuối cùng khi mà không thể dùng kháng đông kéo dài.
 
 ## Cạm bẫy
 - Không nghĩ đến PE là 1 chẩn đoán ở bệnh nhân có các triệu chứng như khó thở không rõ nguyên nhân, ngất, hạ huyết áp tư thế hoặc đau ngực không điển hình.
@@ -230,7 +230,7 @@ notnumbering: 1
 - Sau khi chẩn đoán đã được xem xét, khám thực thể để phân tầng nguy cơ nguy cơ mắc PE.
 	- Nhóm nguy cơ thấp thì làm d-dimer, nếu âm tính thì loại trừ. Nếu dương tính thì gom vào nhóm dưới để khảo sát tiếp.
 	- Nhóm nguy cơ trung bình, nguy cơ cao nguy cơ thấp nhưng D-dimer dương tính:
-		- Huyết động ổn định thì dùng chống đông.
+		- Huyết động ổn định thì dùng kháng đông.
 		- Trụy huyết động thì dùng tiêu sợi huyết.
 
 
