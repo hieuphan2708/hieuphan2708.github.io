@@ -126,9 +126,9 @@ notnumbering: 1
 - Có hai loại xét nghiệm D-dimer cơ bản: **định tính** tại giường (SimpliRED, Simplify D-dimer) và **định lượng** bằng ELISA hoặc Latex (Vidas hoặc MDA)
 {% include img/full-50.html src="/img/post/chuyende/Simple_d-dimer.jpg" %}
 - Hầu hết các xét nghiệm định tính chỉ có thể loại trừ đáng tin cậy thuyên tắc phổi ở bệnh nhân có xác suất lâm sàng thấp. Mặt khác, các xét nghiệm định lượng đã được chứng minh là rất nhạy trong việc loại trừ PE ở bệnh nhân ở xác suất lâm sàng thấp hoặc trung bình.
-- Tuy NICE đã đề xuất chỉ sử dụng D-Dimer cho những bệnh nhân được phân loại là PE không có khả năng, còn xác suất lâm sàng trung bình không xét tới. NICE cũng không khuyến cáo ưu tiên dùng định tính hay định lượng, nên điều này phụ thuộc vào tính sẵn có của bệnh viện và độ nhạy, độ đặc hiệu của từng dụng cụ cụ thể.
+- Tuy NICE đã đề xuất chỉ sử dụng D-Dimer cho những bệnh nhân được phân loại không có khả năng là PE (nguy cơ thấp), còn nguy cơ lâm sàng trung bình không xét tới. NICE cũng không khuyến cáo ưu tiên dùng định tính hay định lượng, nên điều này phụ thuộc vào tính sẵn có của bệnh viện và độ nhạy, độ đặc hiệu của từng dụng cụ cụ thể.
 - Nếu được thực hiện một cách chính xác, thuyên tắc phổi có thể được loại trừ một cách hiệu quả ở những bệnh nhân có D-Dimer âm tính và không cần thêm xét nghiệm hình ảnh. **Điều quan trọng là đảm bảo rằng một chẩn đoán khác giải thích được các triệu chứng của bệnh nhân.** 
-{% include img/full-50.html src="/img/post/chuyende/diagnosispe.png" %}
+{% include img/full.html src="/img/post/chuyende/diagnosispe.png" %}
 
 ### Hình ảnh học
 - Chỉ định:
