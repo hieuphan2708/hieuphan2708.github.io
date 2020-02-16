@@ -162,7 +162,7 @@ notnumbering: 1
 	- Không có khả năng là PE nhưng D-dimer dương tính
 
 <div class="alert alert-warning" role="alert">
-  Tất cả các bệnh nhân có khả năng PE và nkhông có khả năng PE có D-dimer dương tính, đang chờ khảo sát cần được điều trị chống đông
+  Tất cả các bệnh nhân có khả năng PE và không có khả năng PE có D-dimer dương tính, đang chờ khảo sát cần được điều trị chống đông
 </div>
 
 ### BN xác nhận PE có huyết động ổn định
@@ -220,6 +220,18 @@ notnumbering: 1
 - Lạm dụng thuốc tiêm tĩnh mạch là một yếu tố nguy cơ đặc biệt đối với DVT nhưng với PE thì vẫn chưa rõ ràng.
 - PE thường liên quan đến nhiễm trùng và huyết khối nhiễm trùng ở phổi là biến chứng phổi thường gặp nhất.
 - Điều trị thuyên tắc phổi ở người lạm dụng thuốc tiêm tĩnh mạch thường khó khăn do lối của họ. Thuốc chống đông đường uống hiếm khi được kê do nguy cơ không tuân thủ thuốc mà dùng đường tiêm thì BN lại tiếp tục lạm dụng thuốc, chưa kể đến nguy cơ xuất huyết. Cho nên hầu hết những người này được điều trị với **LMWH**, thường trong 3-6 tháng và cân nhắc sử dụng đồng thời các loại **kháng sinh** vì rằng PE trong nhóm này thường liên quan đến sepsis. IVC filters có thể là biện pháp cuối cùng khi mà không thể dùng chống đông kéo dài.
+
+## Cạm bẫy
+- Không nghĩ đến PE là 1 chẩn đoán ở bệnh nhân có các triệu chứng như khó thở không rõ nguyên nhân, ngất, hạ huyết áp tư thế hoặc đau ngực không điển hình.
+- Dùng D-dimer để loại trừ PE ở nhóm bệnh nhân có PTP cao, phụ nữ mang thai, CTPA âm tính/nguy cơ cao, siêu âm tĩnh mạch ở chân âm tính.
+ 
+## Các điểm chính
+- Xem xét chẩn đoán PE ở tất cả các bệnh nhân có triệu chứng khó thở, thở nhanh, đau ngực, ngất hoặc trụy huyết động.
+- Sau khi chẩn đoán đã được xem xét, khám thực thể để phân tầng nguy cơ nguy cơ mắc PE.
+	- Nhóm nguy cơ thấp thì làm d-dimer, nếu âm tính thì loại trừ. Nếu dương tính thì gom vào nhóm dưới để khảo sát tiếp.
+	- Nhóm nguy cơ trung bình, nguy cơ cao nguy cơ thấp nhưng D-dimer dương tính:
+		- Huyết động ổn định thì dùng chống đông.
+		- Trụy huyết động thì dùng tiêu sợi huyết.
 
 
 
