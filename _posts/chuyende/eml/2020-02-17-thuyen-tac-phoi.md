@@ -51,7 +51,7 @@ notnumbering: 1
 - Với PE bán cấp, chẩn đoán đặc biệt khó vì bệnh nhân có thể than phiền về việc tăng dần mức độ các triệu chứng, thay vì cấp tính đột ngột như khó thở tăng dần hoặc dung nạp gắng sức tệ đi.
 
 ### Yếu tố nguy cơ
-- Hiệp hội lồng ngực Anh năm 2003 chia những yếu tố này thành các [yếu tố rủi ro chính và phụ](, còn NICE 2015 bao gồm tiền căn DVT trước đó, tuổi trên 60, phẫu thuật, béo phì, chuyến đi dài, bệnh nội khoa cấp tính, ung thư, bất động, thrombophilia và thai kỳ.
+- Hiệp hội lồng ngực Anh năm 2003 chia những yếu tố này thành các yếu tố rủi ro chính và phụ, còn NICE 2015 bao gồm tiền căn DVT trước đó, tuổi trên 60, phẫu thuật, béo phì, chuyến đi dài, bệnh nội khoa cấp tính, ung thư, bất động, thrombophilia và thai kỳ.
 
 ### Khám thực thể
 - Việc khám thực thể nên đặc biệt tập trung vào việc tìm kiếm các dấu hiệu cho thấy huyết khối tĩnh mạch sâu và các tình trạng có thể giả dạng PE như viêm phổi (ví dụ như sốt, ran phổi). Theo kinh điển, khám ngực ở bệnh nhân PE bình thường.
