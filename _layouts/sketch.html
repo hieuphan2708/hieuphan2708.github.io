@@ -26,9 +26,9 @@ more-js:
     {% endif %}
     <div class="row justify-content-center">
       {% if cpage == 1 %}
-        {% include sketch.html offset=0 limit=24 nbphotos=nb_photos %}
+        {% include sketch.html offset=0 limit=12 nbphotos=nb_photos %}
       {% else %}
-        {% include sketch.html offset=off_set limit=24 nbphotos=nb_photos %}
+        {% include sketch.html offset=off_set limit=12 nbphotos=nb_photos %}
       {% endif %}
     </div>
     {% if total_page > 1 %}
