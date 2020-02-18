@@ -61,7 +61,7 @@ ECG nhịp không đều nên không thể là nhịp nhanh thất cũng như nh
 
 ### Câu 1
 <div class="alert alert-dark" role="alert">
-  BN nam, 72 tuổi, nhập cấp cứu vì khó thở và tay phải lạnh. 2 tuần trước nhập viện BN ho đàm, lạnh tay 2 ngày nay, khó thở 6 tiếng trước. Tiền căn đau thắt ngực, tăng huyết áp, tăng mỡ máu đang uống Atorvastatin, Clopidogrel, Atenolol, Ramipril. Khám M 110 bpm không đều, HA 150/90, NT 28, không tím, âm thổi hở 2 lá nhẹ, ran nổ hai bên phổi, phù ấn lõm cổ chân. Tay phải tím đầu ngón, lạnh, tái, mất mạch quay. ECG xem hình. Chẩn đoán là gì?<br>1. Rung nhĩ khởi phát cấp tính<br>NMCT cấp và sốc tim<br>3. Rung nhĩ với huyết khối thuyên tắc và phù phổi<br>4. NMCT yên lặng và nhịp thất đơn độc
+  BN nam, 72 tuổi, nhập cấp cứu vì khó thở và tay phải lạnh. 2 tuần trước nhập viện BN ho đàm, lạnh tay 2 ngày nay, khó thở 6 tiếng trước. Tiền căn đau thắt ngực, tăng huyết áp, tăng mỡ máu đang uống Atorvastatin, Clopidogrel, Atenolol, Ramipril. Khám M 110 bpm không đều, HA 150/90, NT 28, không tím, âm thổi hở 2 lá nhẹ, ran nổ hai bên phổi, phù ấn lõm cổ chân. Tay phải tím đầu ngón, lạnh, tái, mất mạch quay. ECG xem hình. Chẩn đoán là gì?<br>1. Rung nhĩ khởi phát cấp tính<br>2. NMCT cấp và sốc tim<br>3. Rung nhĩ với huyết khối thuyên tắc và phù phổi<br>4. NMCT yên lặng và nhịp thất đơn độc
   {% include img/full-normal.html src="/img/post/chuyende/Screenshot_36.png" %}
 </div>
 

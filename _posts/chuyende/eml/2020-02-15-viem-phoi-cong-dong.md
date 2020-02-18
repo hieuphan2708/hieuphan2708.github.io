@@ -77,7 +77,7 @@ notnumbering: 1
 - Thang điểm CURB-65
 {% include img/full-50.html src="/img/post/chuyende/thoraxjnl.jpg" %}
 - Thang điểm AMT
-{% include img/full-50.html src="/img/post/chuyende/unnamed.jpg" %}
+{% include img/full-50.html src="/img/post/chuyende/unname.jpg" %}
 - Phần lớn bệnh nhân có điểm số CURB-65 là 0 hoặc 1 có thể được xuất viện. Tuy nhiên, BTS coi các yếu tố bổ sung có liên quan bất lợi đến tiên lượng là rất quan trọng trong việc quyết định liệu bệnh nhân có cần điều trị nội trú hay không, bất kể điểm số CURB-65 của họ là bao nhiêu. Bao gồm:
 	- Hạ oxy máu (SaO<sub>2</sub> <94%)
 	- Xquang tổn thương hai bên hoặc đa thùy
