@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Case lâm sàng viêm phổi cộng đồng"
+title: "Case lâm sàng rung nhĩ"
 tags: [tim-mạch, case, eml]
 categories: eml
 img: caf.jpg
