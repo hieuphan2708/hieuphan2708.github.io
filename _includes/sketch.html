@@ -4,8 +4,8 @@
   <div class="box">
     {% assign ri = include.nbphotos | minus: i %}
     {% assign ri = ri | plus: 1 %}
-    <a href="{{ site.baseurl }}/img/sketch/{{ri}}_bigger.jpg" data-lightbox="gallery-set" data-title="Hình. {{i}}">
-      <img src="{{ site.baseurl }}/img/sketch/{{ri}}_thumbnail.jpg" class="img-fluid" alt="Hình. {{i}}">
+    <a href="{{ site.baseurl }}/img/sketch/{{ri}}_bigger.jpg" data-lightbox="gallery-set" data-title="Hình {{i}}">
+      <img src="{{ site.baseurl }}/img/sketch/{{ri}}_thumbnail.jpg" class="img-fluid" alt="Hình {{i}}">
     </a>
   </div>
 </div>
