@@ -26,7 +26,7 @@ notnumbering: 1
 
 ## Đánh giá 
 ### Bệnh sử
-- Biểu hiện lâm sàng thường là một cơn đau ngực cấp tính; thường là đau ngực kiểm màng phổi và giảm bớt bằng cách ngồi dậy và chúi về trước. Cơn đau có thể ở bất cứ đâu trên thành ngực, nhưng nó thường ở sau xương ức. Có thể lan ra cánh tay như đau ngực do thiếu máu cục bộ. Cơn đau đặc trưng của viêm màng ngoài tim là lan đến đỉnh cơ thang (trapezius ridge); các dây thần kinh hoành đi qua cơ màng ngoài tim và cũng bẩm sinh cơ này.
+- Biểu hiện lâm sàng thường là một cơn đau ngực cấp tính; thường là đau ngực kiểu màng phổi và giảm bớt bằng cách ngồi dậy và chúi về trước. Cơn đau có thể ở bất cứ đâu trên thành ngực, nhưng nó thường ở sau xương ức. Có thể lan ra cánh tay như đau ngực do thiếu máu cục bộ. Cơn đau đặc trưng của viêm màng ngoài tim là lan đến đỉnh cơ thang (trapezius ridge); các dây thần kinh hoành đi qua cơ màng ngoài tim và cũng bẩm sinh cơ này.
 <div class="alert alert-danger" role="alert">
   Cơn đau lan đến đỉnh cơ thang có độ đặc hiệu cao với viêm màng ngoài tim cấp.
 </div>
@@ -111,6 +111,8 @@ notnumbering: 1
 ### CT ngực
 - Có thể làm CT ngực để tìm kiếm các chẩn đoán thay thế như bóc tách động mạch chủ hoặc thuyên tắc phổi.
 
+## Viêm màng ngoài tim và viêm cơ-màng ngoài tim
+- Viêm màng ngoài tim cấp có thể đi kèm với một số liên quan đến cơ tim. Một khi chẩn đoán viêm màng ngoài tim cấp, nên xem xét liệu có bất kỳ sự liên quan nào đến cơ tim. Troponin không thể được sử dụng để phân biệt một mình [9], tuy nhiên, sự khởi đầu mới của chức năng LV khu trú hoặc trầm cảm trên siêu âm tim sẽ cho thấy sự liên quan đến viêm và tổn thương cơ tim.
 
 
 
