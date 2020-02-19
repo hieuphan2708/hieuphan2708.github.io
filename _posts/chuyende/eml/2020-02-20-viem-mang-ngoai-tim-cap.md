@@ -112,10 +112,45 @@ notnumbering: 1
 - Có thể làm CT ngực để tìm kiếm các chẩn đoán thay thế như bóc tách động mạch chủ hoặc thuyên tắc phổi.
 
 ## Viêm màng ngoài tim và viêm cơ-màng ngoài tim
-- Viêm màng ngoài tim cấp có thể đi kèm với một số liên quan đến cơ tim. Một khi chẩn đoán viêm màng ngoài tim cấp, nên xem xét liệu có bất kỳ sự liên quan nào đến cơ tim. Troponin không thể được sử dụng để phân biệt một mình [9], tuy nhiên, sự khởi đầu mới của chức năng LV khu trú hoặc trầm cảm trên siêu âm tim sẽ cho thấy sự liên quan đến viêm và tổn thương cơ tim.
+- Viêm màng ngoài tim cấp có thể đi kèm với một số liên quan đến cơ tim. Một khi chẩn đoán viêm màng ngoài tim cấp, nên xem xét liệu có bất kỳ sự liên quan nào đến cơ tim. Không thể sử dụng troponin một mình để phân biệt, tuy nhiên, chức năng thất trái khu trú hoặc giảm mới khởi phát trên siêu âm tim sẽ cho thấy sự liên quan đến viêm và tổn thương cơ tim.
+<div class="alert alert-warning" role="alert">
+  Mặc dù nồng độ troponin tăng ở 30-70% bệnh nhân bị viêm màng ngoài tim, tuy nhiên sẽ giúp gợi ý đánh giá thêm để loại trừ viêm cơ tim.
+</div>
 
+## Điều trị
+### Ở khoa cấp cứu
+- Trong trường hợp không nguy cơ cao, những bệnh nhân này có thể được quản lý trong cộng đồng.
+- Nền tảng chính của điều trị là hạn chế hoạt động và điều trị triệu chứng bằng thuốc kháng viêm (NSAIDS).
+- Bệnh nhân nên được hướng dẫn để hạn chế hoạt động gắng sức cho đến khi các triệu chứng đã được giải quyết và xét nghiệm sinh hóa trở về bình thường.
 
+### Điều trị bằng thuốc
+- Bất kỳ nguyên nhân nền rõ ràng nào gây viêm màng ngoài tim cấp nên được điều trị (ví dụ như viêm phổi, lao, tăng ure huyết, vv).
+- NSAIDS là phương pháp điều trị chính cho viêm màng ngoài tim (ví dụ: aspirin, ibuprofen, indomethacin, vv). Aspirin ưa được sử dụng nếu viêm màng ngoài tim là một biến chứng của nhồi máu cơ tim cấp.
+- Thêm colchicine vào NSAIDs nên được xem xét vì nó đã được chứng minh là làm giảm triệu chứng, giảm tỷ lệ viêm màng ngoài tim tái phát và chế độ liều thấp (0,5-1,2mg mỗi ngày) thường được dung nạp tốt.
+- Người ta đã khuyến cáo rằng có thể dừng NSAIDs sau khi giải quyết các triệu chứng nhưng colchicine nên được tiếp tục trong 3 tháng.
+- Bệnh nhân không đáp ứng với điều trị ban đầu trong vòng 1-2 tuần nên được nhập viện để đánh giá thêm.
+- Steroid không được chỉ định cho viêm màng ngoài tim cấp trong giai đoạn đầu vì chúng có liên quan đến tăng nguy cơ viêm màng ngoài tim tái phát . Steroid chỉ nên được coi là điều trị đầu tay khi nguyên nhân nền được cho là qua trung gian miễn dịch, do rối loạn mô liên kết, hoặc trong viêm màng ngoài tim do tăng ure huyết (ESC 2015).
 
+<div class="alert alert-success" role="alert">
+  Thuốc điều trị đầu tay trong viêm màng ngoài tim vô căn không có biến chứng là NSAIDs và colchicine.
+</div>
 
+### Biến chứng
+- Theo [các nghiên cứu](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.106.662114) đánh giá nguyên nhân của viêm màng ngoài tim cấp, chỉ có 17% là tìm được nguyên nhân cụ thể và biến chứng cũng chủ yếu ở nhóm bệnh nhân này.
+- Các biến chứng gồm: chèn ép tim cấp và viêm màng ngoài tim co thắt mạn tính.
+- Viêm màng ngoài tim mủ (purulent pericarditis) liên quan đến chèn ép tim có khả năng gây tử vong và cần phải dẫn lưu khẩn cấp và dùng kháng sinh tiêm tĩnh mạch; tỷ lệ tử vong 40%.
+- Viêm màng ngoài tim tái phát xảy ra ở 15-30% bệnh nhân được cho là vô căn, một tỷ lệ nhỏ trong số họ tiếp tục bị tái phát mạn tính.
 
-  
+<div class="alert alert-warning" role="alert">
+  Cạm bẫy chính là không thực hiện phân tầng nguy cơ đầy đủ (bao gồm siêu âm tim) trước khi cho bệnh nhân xuất viện.
+</div>
+
+## NHỮNG ĐIỂM CHÍNH CỦA BÀI
+- 5% bệnh nhân nhập cấp cứu vì đau ngực không do thiếu máu cục bộ bị viêm màng ngoài tim cấp.
+- Cơn đau lan đến đỉnh cơ thang có độ đặc hiệu cao với viêm màng ngoài tim cấp.
+- 80-90% viêm màng ngoài tim cấp là do virus và thường được cho là vô căn.
+- Sự hiện diện của bất kỳ một trong những đặc điểm nguy cơ cao có liên quan đến tiên lượng kém hơn. Những bệnh nhân này nên được nhập viện.
+- Tỉ lệ ST:T ở chuyển đạo V6 giúp phân biệt viêm màng ngoài tim cấp với tái cực sớm lành tính.
+- Nồng độ troponin tăng ở 30-70% bệnh nhân bị viêm màng ngoài tim, chúng không mang giá trị tiên lượng nào.
+- NSAIDs là thuốc điều trị chính trong viêm màng ngoài tim cấp.
+ 
