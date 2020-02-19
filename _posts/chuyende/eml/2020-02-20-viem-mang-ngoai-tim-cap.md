@@ -79,6 +79,41 @@ notnumbering: 1
 ### ECG
 - Giúp chẩn đoán cũng như phân biệt các nguyên nhân khác của đau ngực.
 - Những đặc điểm trên ECG của viêm màng ngoài tim cấp (xem hình)
- 
+- Về kinh điển, sự tiến triển của viêm màng ngoài tim diễn ra theo 4 giai đoạn:
+	- Giai đoạn 1 (giai đoạn cấp tính trong vài giờ đến vài ngày) được đặc trưng bởi ST chênh lên ở nhiều chuyển đạo (thường chênh lõm) và đoạn PR chênh xuống.
+	- Giai đoạn 2, thường thấy trong tuần đầu tiên, ST và PR về bình thường.
+	- Giai đoạn 3, T đảo.
+	- Giai đoạn 4, ECG bình thường hoặc sóng T đảo tồn tại. 
+{% include img/full-normal.html src="/img/post/chuyende/PREvaluation.jpg" des="ECG điển hình giai đoạn cấp tính, được báo cáo chỉ ở 60% trường hợp" %}
+- Những thay đổi sóng T tồn tại vài tuần hay vài tháng nhưng không có ý nghĩa nếu như bệnh nhân đã phục hồi về mặt lâm sàng.
+- Rối loạn nhịp ít gặp nhưng nếu có thì gợi ý liên quan đến cơ tim (viêm cơ màng ngoài tim - myopericarditis).
+- Những thay đổi ECG thấy trong viêm màng ngoài tim có thể bị nhầm lẫn với tái cực sớm lành tính (BER). Dấu hiệu phân biệt trên ECG đáng tin cậy nhất được thấy ở chuyển đạo V6. Cụ thể, khi tỷ lệ ST chênh lên (mm)/chiều cao sóng T (mm) > 0,25 thì khả năng viêm màng ngoài tim cấp cao hơn BER.
+{% include img/full-normal.html src="/img/post/chuyende/benignEarly.jpg" des="Tái cực sớm lành tính" %}  
+{% include img/full-normal.html src="/img/post/chuyende/pericarditis.jpg" des="Viêm màng ngoài tim cấp" %}
+
+<div class="alert alert-warning" role="alert">
+  Tỉ lệ ST:T ở chuyển đạo V6 giúp phân biệt viêm màng ngoài tim cấp với tái cực sớm lành tính.
+</div>
+
+
+### Troponin
+- Troponin tăng ở 30-70% bệnh nhân bị viêm màng ngoài tim cấp. Có lẽ do viêm cơ tim cùng tồn tại nhưng không như AMI, sự gia tăng của troponin không liên quan đến kết cục bất lợi trong viêm màng ngoài tim.
+
+### XN máu
+- CTM thường có bạch cầu tăng nhẹ.
+
+### Siêu âm tim
+- Giúp chẩn đoán, tìm sự hiện diện của tràn dịch màng ngoài tim (có ở 60% BN) hoặc chèn ép tim (5%).
+
+### Xquang ngực
+- Thường để chẩn đoán phân biệt các nguyên nhân của đau ngực. Có thể có hình ảnh viêm phổi nếu là viêm màng ngoài tim do vi khuẩn, hoặc sang thương dạng khối chỉ ra bệnh ác tính.
+
+### CT ngực
+- Có thể làm CT ngực để tìm kiếm các chẩn đoán thay thế như bóc tách động mạch chủ hoặc thuyên tắc phổi.
+
+
+
+
+
 
   
