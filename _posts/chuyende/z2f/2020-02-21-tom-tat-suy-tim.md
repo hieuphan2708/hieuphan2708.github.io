@@ -9,7 +9,7 @@ notnumbering: 1
 
 {% include toc.html h_max=1 %} 
 
-##
+## Tổng quan
 - Suy tim mạn về cơ bản là phiên bản mạn tính của suy tim cấp. Nó được gây ra bởi một trong hai: giảm khả năng co bóp thất trái (suy tim tâm thu) hoặc giãn thất trái (suy tim tâm trương). Chức năng thất trái giảm dẫn đến áp lực ngược trở lại mạn tính.
 
 ## Biểu hiện
