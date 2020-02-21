@@ -76,6 +76,11 @@ published: true
 - **A - A**tenolol (hoặc thuốc chẹn beta khác - thường là bisoprolol) liều dung nạp đến liều đích
 - **A - A**CEi-Thuốc ức chế men chuyển (thường là ramipril) được chuẩn độ ở liều dung nạp tối đa
 
-
-
+### Tác dụng phụ đáng chú ý của Statin
+- Bệnh cơ (kiểm tra creatine kinase ở bệnh nhân đau cơ hoặc yếu cơ).
+- Bệnh đái tháo đường type 2
+- Đột quỵ xuất huyết (rất hiếm khi)
+<div class="alert alert-success" role="alert">
+  Thông thường lợi ích của statin vượt xa rủi ro và statin mới hơn (như atorvastatin) hầu hết được dung nạp rất tốt.
+</div>
 
