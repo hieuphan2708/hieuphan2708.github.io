@@ -4,7 +4,7 @@ title: Tâm phế mạn - tóm tắt chính
 tags:
   - tim-mạch
   - z2f
-img: anginaz2f.jpg
+img: cp.jpg
 categories: z2f
 notnumbering: 1
 published: true
