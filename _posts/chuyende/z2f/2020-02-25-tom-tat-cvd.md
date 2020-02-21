@@ -65,10 +65,10 @@ published: true
 	- Điều trị chặt chẽ các bệnh đồng mắc (như bệnh đái tháo đường)
 
 ### Phòng ngừa nguyên phát
-	- Tính điểm QRISK®3. Điều này sẽ tính toán rủi ro theo phần trăm mà bệnh nhân sẽ bị đột quỵ hoặc nhồi máu cơ tim trong 10 năm tới. Nếu họ có > 10% nguy cơ bị đột quỵ hoặc đau tim trong 10 năm tới (tức là điểm QRISK 3 của họ > 10%), bạn nên bắt đầu dùng statin (hướng dẫn của NICE hiện tại là dùng atorvastatin 20mg vào ban đêm).
-	- Tất cả bệnh nhân mắc bệnh thận mạn (CKD) hoặc đái tháo đường type 1 trên 10 năm nên được dùng atorvastatin 20mg.
-	- NICE khuyên BN nên kiểm tra lipid sau 3 tháng và tăng liều nhằm mục đích giảm hơn 40% lượng cholesterol không HDL. Luôn luôn kiểm tra tuân thủ trước khi tăng liều.
-	- NICE cũng khuyên BN nên kiểm tra LFTs trong vòng 3 tháng kể từ khi bắt đầu dùng statin và một lần nữa sau 12 tháng. BN không cần phải kiểm tra sau đó nếu họ bình thường. Statin có thể gây ra sự gia tăng ALT và AST nhẹ và thoáng qua trong vài tuần đầu sử dụng và thường không cần dừng lại nếu mức tăng thấp hơn 3 lần giới hạn trên của ngưỡng bình thường.
+- Tính điểm QRISK®3. Điều này sẽ tính toán rủi ro theo phần trăm mà bệnh nhân sẽ bị đột quỵ hoặc nhồi máu cơ tim trong 10 năm tới. Nếu họ có > 10% nguy cơ bị đột quỵ hoặc đau tim trong 10 năm tới (tức là điểm QRISK 3 của họ > 10%), bạn nên bắt đầu dùng statin (hướng dẫn của NICE hiện tại là dùng atorvastatin 20mg vào ban đêm).
+- Tất cả bệnh nhân mắc bệnh thận mạn (CKD) hoặc đái tháo đường type 1 trên 10 năm nên được dùng atorvastatin 20mg.
+- NICE khuyên BN nên kiểm tra lipid sau 3 tháng và tăng liều nhằm mục đích giảm hơn 40% lượng cholesterol không HDL. Luôn luôn kiểm tra tuân thủ trước khi tăng liều.
+- NICE cũng khuyên BN nên kiểm tra LFTs trong vòng 3 tháng kể từ khi bắt đầu dùng statin và một lần nữa sau 12 tháng. BN không cần phải kiểm tra sau đó nếu họ bình thường. Statin có thể gây ra sự gia tăng ALT và AST nhẹ và thoáng qua trong vài tuần đầu sử dụng và thường không cần dừng lại nếu mức tăng thấp hơn 3 lần giới hạn trên của ngưỡng bình thường.
 
 ### Phòng ngừa thứ phát
 - **A - A**spirin (cộng với thuốc chống kết tập tiểu cầu thứ hai như clopidogrel trong 12 tháng)
