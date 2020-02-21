@@ -16,6 +16,7 @@ published: true
 - **Hội chứng vành cấp** thường là kết quả của một **huyết khối** từ một **mảng xơ vữa động mạch** làm tắc một động mạch vành. Khi một cục máu đông hình thành trong một động mạch chảy nhanh, nó được tạo thành chủ yếu từ **tiểu cầu**. Đây là lý do tại sao các loại thuốc **kháng kết tập tiểu cầu** như **aspirin, clopidogrel** và **ticagrelor** là những thuốc chính trong điều trị.
 
 ## Động mạch vành
+{% include img/full-50.html src="/img/chuyende/acs.jpg" %} 
 - **Động mạch vành trái** bắt nguồn từ **động mạch mũ** và **động mạch xuống trái trước** (LAD).
 - **Động mạch vành phải** vòng bên phải và bên dưới, cấp máu cho:
 	- Nhĩ phải
@@ -59,7 +60,7 @@ published: true
 	- **ST chênh xuống**
 	- **Sóng T đảo**
 	- **Sóng Q bệnh lý** (gợi ý vùng nhồi máu sâu - một dấu hiệu muộn)  	
-{% include img/full-50.html src="/img/chuyende/Screenshot_40.png" %} 
+{% include img/full-50.html src="/img/post/chuyende/Screenshot_40.png" %} 
 
 ## Troponin
 - **Troponin** là protein được tìm thấy trong cơ tim. Loại troponin, ngưỡng bình thường và tiêu chí chẩn đoán khác nhau dựa trên các phòng thí nghiệm khác nhau. Chẩn đoán ACS thường yêu cầu **động học troponin** (ví dụ: lúc 0h và 6h hoặc 12h sau khi xuất hiện các triệu chứng). Sự gia tăng của troponin phù hợp với thiếu máu cơ tim do các protein được giải phóng từ cơ tim bị thiếu máu. Chúng **không đặc hiệu**, có nghĩa tăng troponin không có nghĩa là ACS.
