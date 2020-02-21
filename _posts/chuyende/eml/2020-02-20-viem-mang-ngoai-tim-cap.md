@@ -38,6 +38,7 @@ notnumbering: 1
 	- Tiếng cọ màng ngoài tim.
 	- Thay đổi ECG gợi ý.
 	- Tràn dịch màng ngoài tim mới xuất hiện hoặc nặng lên.
+
 ### Cận lâm sàng
 - Các cận lâm sàng hỗ trợ: tăng marker viêm (CRP/ESR/WBC) và bằng chứng viêm trên hình ảnh học (CT/CMR).
 
