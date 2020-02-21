@@ -15,7 +15,7 @@ published: true
 ## Xơ vữa động mạch (Atherosclerosis)
 - Athero - mềm hoặc giống như cháo. Sclerosis - xơ cứng. Xơ vữa động mạch là sự kết hợp của atheromas - mảng xơ vữa (chất béo tích tụ trong thành động mạch) và xơ cứng (quá trình xơ cứng hoặc cứng của thành mạch máu). Xơ vữa động mạch ảnh hưởng đến các động mạch trung bình và lớn. Nó được gây ra bởi **viêm mạn tính** và **kích hoạt hệ thống miễn dịch** trong thành động mạch. Điều này gây ra sự **lắng đọng lipit** trong thành động mạch, sau đó là sự phát triển của các mảng xơ vữa động mạch.
 - Những mảng xơ vữa gây ra:
-	- Làm **cứng** các thành động mạch dẫn đến **tăng huyết áp** và làm căng trái tim đang cố bơm máu chống lại kháng lực.
+	- **Cứng** các thành động mạch dẫn đến **tăng huyết áp** và làm căng trái tim đang cố bơm máu chống lại kháng lực.
 	- **Hẹp** dẫn đến giảm lưu lượng máu (ví dụ như trong đau thắt ngực).
 	- **Vỡ mảng xơ vữa** tạo ra **huyết khối** làm tắc nghẽn mạch máu dẫn đến **thiếu máu cục bộ**, ví dụ trong **hội chứng vành cấp**).
 {% include img/full-50.html src="/img/post/chuyende/Cardiovascular_Disease-1-1024x365.jpg" %}
