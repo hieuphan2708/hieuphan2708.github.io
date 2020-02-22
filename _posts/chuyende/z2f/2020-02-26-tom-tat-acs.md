@@ -60,7 +60,7 @@ published: true
 	- **ST chênh xuống**
 	- **Sóng T đảo**
 	- **Sóng Q bệnh lý** (gợi ý vùng nhồi máu sâu - một dấu hiệu muộn)  	
-{% include img/full-50.html src="/img/post/chuyende/Screenshot_40.png" %} 
+{% include img/full-normal.html src="/img/post/chuyende/Screenshot_40.png" %} 
 
 ## Troponin
 - **Troponin** là protein được tìm thấy trong cơ tim. Loại troponin, ngưỡng bình thường và tiêu chí chẩn đoán khác nhau dựa trên các phòng thí nghiệm khác nhau. Chẩn đoán ACS thường yêu cầu **động học troponin** (ví dụ: lúc 0h và 6h hoặc 12h sau khi xuất hiện các triệu chứng). Sự gia tăng của troponin phù hợp với thiếu máu cơ tim do các protein được giải phóng từ cơ tim bị thiếu máu. Chúng **không đặc hiệu**, có nghĩa tăng troponin không có nghĩa là ACS.
