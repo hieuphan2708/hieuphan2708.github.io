@@ -174,9 +174,18 @@ Những thử nghiệm này chứng minh rằng sắt làm tăng nồng độ Hb
 
 <div class="row align-items-center img-aside">
 <p class="col-md-6" markdown="1">
-![Thiếu máu liên quan đến CKD](/img/post/chuyende/Slide35.png)
+![Thiếu máu liên quan đến CKD](/img/post/chuyende/Slide36.png)
 </p>
 <p class="col-md-6" markdown="1">
-Những thử nghiệm này chứng minh rằng sắt làm tăng nồng độ Hb cho dù đó là sắt truyền tĩnh mạch hay sắt uống. Sắt uống có hiệu quả trong việc tăng Hb, nhưng ít hơn so với sắt IV.
+Bệnh nhân bị thiếu sắt thực sự đáp ứng với sắt uống hoặc sắt IV liều thấp với mức tăng Hb thông thường từ 1 đến 2 g/dL. Bệnh nhân thiếu sắt chức năng thường cần dùng sắt IV liều cao.
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide33.png)
+</p>
+<p class="col-md-6" markdown="1">
+Mối liên quan giữa liều sắt cao IV và tỷ lệ tử vong trong chạy thận nhân tạo
 </p>
 </div>
