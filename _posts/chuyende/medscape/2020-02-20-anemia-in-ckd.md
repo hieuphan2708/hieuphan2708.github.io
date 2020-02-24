@@ -11,7 +11,7 @@ notnumbering: 1
 
 <div class="row align-items-center img-aside">
 <p class="col-md-6" markdown="1">
-![Quá trình tạo máu bình thường](/img/post/chuyende/Slide8.png)
+!["Quá trình tạo máu bình thường"](/img/post/chuyende/Slide8.png)
 </p>
 <p class="col-md-6" markdown="1">
 Erythropoietin (EPO) kiểm soát tốc độ tạo máu. Hypoxia-inducible factor (HIF) kích thích thận tiết EPO, EPO kích thích erythroblasts tiết erythroferrone (ERFE).<br>ERFE ức chế gan sản xuất hepcidin.<br> Sắt được điều chỉnh bởi đại thực bào và tế bào ruột.
@@ -132,6 +132,51 @@ Khi bị viêm, sản xuất hepcidin tăng lên, ức chế bổ sung sắt đ�
 ![Thiếu máu liên quan đến CKD: Phương pháp điều trị có sẵn](/img/post/chuyende/Slide31.png)
 </p>
 <p class="col-md-6" markdown="1">
-Có những bệnh nhân bị thiếu EPO và đáp ứng với việc bổ sung EPO; tuy nhiên, có những bệnh nhân không đáp ứng, thậm chí EPO liều cao. Thiếu sắt tuyệt đối (thực sự) do mất sắt cần được điều trị bằng bổ sung sắt. Thiếu sắt chức năng, là kết quả của việc giải phóng sắt bị suy yếu từ các nơi trữ sắt, không đáp ứng với việc bổ sung sắt truyền thống
+Có những bệnh nhân bị thiếu EPO và đáp ứng với việc bổ sung EPO; tuy nhiên, có những bệnh nhân không đáp ứng, thậm chí EPO liều cao. Thiếu sắt tuyệt đối (thực sự) do mất sắt cần được điều trị bằng bổ sung sắt. Thiếu sắt chức năng, là kết quả của việc giải phóng sắt bị suy yếu từ các nơi trữ sắt, không đáp ứng với việc bổ sung sắt thông thường.
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![Thiếu máu thiếu sắt trong CKD: Guideline của KDIGO về thiếu máu](/img/post/chuyende/Slide32.png)
+</p>
+<p class="col-md-6" markdown="1">
+
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![Lựa chọn điều trị: PO và sắt truyền tĩnh mạch](/img/post/chuyende/Slide33.png)
+</p>
+<p class="col-md-6" markdown="1">
+
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![Lựa chọn điều trị: ESAs](/img/post/chuyende/Slide34.png)
+</p>
+<p class="col-md-6" markdown="1">
+KDIGO khuyến cáo bắt đầu điều trị bằng thuốc kích thích tạo hồng cầu (ESA) ở người lớn mắc CKD khi nồng độ hemoglobin **(Hb) < 10 g/dL**.
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![Điều trị bằng sắt truyền tĩnh mạch và sắt uống ở bệnh nhân NDD-CKD (bệnh thận mạn không ĐTĐ) thiếu máu mà không cần điều trị ESA đồng thời](/img/post/chuyende/Slide35.png)
+</p>
+<p class="col-md-6" markdown="1">
+Những thử nghiệm này chứng minh rằng sắt làm tăng nồng độ Hb cho dù đó là sắt truyền tĩnh mạch hay sắt uống. Sắt uống có hiệu quả trong việc tăng Hb, nhưng ít hơn so với sắt IV.
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![Thiếu máu liên quan đến CKD](/img/post/chuyende/Slide35.png)
+</p>
+<p class="col-md-6" markdown="1">
+Những thử nghiệm này chứng minh rằng sắt làm tăng nồng độ Hb cho dù đó là sắt truyền tĩnh mạch hay sắt uống. Sắt uống có hiệu quả trong việc tăng Hb, nhưng ít hơn so với sắt IV.
 </p>
 </div>
