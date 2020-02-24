@@ -95,7 +95,7 @@ Hai nghiên cứu của Zaritsky đã so sánh bệnh nhân mắc bệnh thận 
 ![Biểu hiện hepcidin được điều hòa bởi các tín hiệu sắt, sự tạo máu và viêm](/img/post/chuyende/Slide25.png)
 </p>
 <p class="col-md-6" markdown="1">
-Viêm kích thích sản xuất hepcidin, ức chế giải phóng sắt vào huyết tương.<br>Các nơi trữ sắt cao cũng sẽ kích thích sản xuất hepcidin (không cần sắt nên không để sắt ra khỏi tuần hoàn làm gì), trong khi các nơi trữ sắt thấp sẽ ức chế sản xuất hepcidin (ngược lại).<br>Hoạt động tạo máu tăng làm tăng nồng độ ERFE trong huyết tương, giúp ức chế hepcidin thông qua các con đường chưa biết và giải phóng nhiều sắt hơn vào tuần hoàn.
+Viêm kích thích sản xuất hepcidin, ức chế giải phóng sắt vào huyết tương.<br>Các nơi trữ sắt cao cũng sẽ kích thích sản xuất hepcidin, trong khi các nơi trữ sắt thấp sẽ ức chế sản xuất hepcidin.<br>Hoạt động tạo máu tăng làm tăng nồng độ ERFE trong huyết tương, giúp ức chế hepcidin thông qua các con đường chưa biết và giải phóng nhiều sắt hơn vào tuần hoàn.
 </p>
 </div>
 
@@ -124,5 +124,14 @@ Khi bị viêm, sản xuất hepcidin tăng lên, ức chế bổ sung sắt đ�
 </p>
 <p class="col-md-6" markdown="1">
 
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![Thiếu máu liên quan đến CKD: Phương pháp điều trị có sẵn](/img/post/chuyende/Slide31.png)
+</p>
+<p class="col-md-6" markdown="1">
+Có những bệnh nhân bị thiếu EPO và đáp ứng với việc bổ sung EPO; tuy nhiên, có những bệnh nhân không đáp ứng, thậm chí EPO liều cao. Thiếu sắt tuyệt đối (thực sự) do mất sắt cần được điều trị bằng bổ sung sắt. Thiếu sắt chức năng, là kết quả của việc giải phóng sắt bị suy yếu từ các nơi trữ sắt, không đáp ứng với việc bổ sung sắt truyền thống
 </p>
 </div>
