@@ -195,6 +195,33 @@ Mối liên quan giữa liều sắt cao IV và tỷ lệ tử vong trong chạy
 ![Thiếu máu liên quan đến CKD](/img/post/chuyende/Slide38.png)
 </p>
 <p class="col-md-6" markdown="1">
-Bệnh nhân bị thiếu sắt thực sự đáp ứng với sắt uống hoặc sắt IV liều thấp với mức tăng Hb thông thường từ 1 đến 2 g/dL. Bệnh nhân thiếu sắt chức năng thường cần dùng sắt IV liều cao.
+Một số bệnh nhân sẽ đáp ứng với ít đơn vị ESA hơn và vẫn đạt được mức Hb bình thường. Các bệnh nhân khác là "EPO hyporesponsive" cần EPO liều cao hơn, có thể Hb bình thường hoặc không mặc dù dùng liều cao.
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide39.png)
+</p>
+<p class="col-md-6" markdown="1">
+
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![Thiếu máu liên quan đến CKD](/img/post/chuyende/Slide40.png)
+</p>
+<p class="col-md-6" markdown="1">
+Hình minh họa này cho thấy thách thức của những bệnh nhân bị thiếu sắt chức năng (chủ yếu là do viêm) cũng như EPO hyporesponsiveness. Họ nhận được sắt liều cao và ESA liều cao để bình thường hóa Hb và tránh truyền máu.
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide39.png)
+</p>
+<p class="col-md-6" markdown="1">
+Các lựa chọn điều trị mới và mới nổi đối với bệnh thiếu máu ở CKD. Ferric maltol được phê duyệt ở châu Âu để điều trị thiếu máu thiếu sắt (IDA) ở bệnh nhân mắc bệnh viêm ruột. Nó hiện đang trải qua thử nghiệm giai đoạn 3 ở Hoa Kỳ trên những bệnh nhân bị IDA do CKD không được chạy thận nhân tạo.
 </p>
 </div>
