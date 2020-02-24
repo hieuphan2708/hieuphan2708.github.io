@@ -225,3 +225,130 @@ Hình minh họa này cho thấy thách thức của những bệnh nhân bị t
 Các lựa chọn điều trị mới và mới nổi đối với bệnh thiếu máu ở CKD. Ferric maltol được phê duyệt ở châu Âu để điều trị thiếu máu thiếu sắt (IDA) ở bệnh nhân mắc bệnh viêm ruột. Nó hiện đang trải qua thử nghiệm giai đoạn 3 ở Hoa Kỳ trên những bệnh nhân bị IDA do CKD không được chạy thận nhân tạo.
 </p>
 </div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide63.png)
+</p>
+<p class="col-md-6" markdown="1">
+Case lâm sàng. BN nam 58t, chạy thận đc 1 năm, bệnh thận giai đoạn cuối do tăng huyết áp, bệnh gan mạn do HCV, đang điều trị EPO afla 4000 đv x 3/tuần + sắt IV 200mg hàng tháng. XN Hb 9.4g/dL, Ferritin 1145, TSAT 18%, CRP 2 mg/L.  
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide64.png)
+</p>
+<p class="col-md-6" markdown="1">
+BN TMTS chức năng vì TSAT < 20% nhưng ferritin cao (TMTS thực sự cả 2 đều giảm). TSAT cung cấp thông tin quan trọng về tình trạng sắt của BN, ferritin thì không phải lúc nào cũng phản ánh đúng (ảnh hưởng bởi bệnh gan mạn).
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide65.png)
+</p>
+<p class="col-md-6" markdown="1">
+Người ta đã đưa ra giả thuyết rằng sự dư thừa sắt nhu mô và sắt không bền có thể gây hại, trong khi sắt được cô lập trong các tế bào của hệ lưới nội mô có thể ít được quan tâm.
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide66.png)
+</p>
+<p class="col-md-6" markdown="1">
+
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide67.png)
+</p>
+<p class="col-md-6" markdown="1">
+
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide68.png)
+</p>
+<p class="col-md-6" markdown="1">
+
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide69.png)
+</p>
+<p class="col-md-6" markdown="1">
+Hepcidin và đại thực bào chứa sắt tăng, có thể góp phần thúc đẩy quá trình phát sinh xơ vữa và/hoặc mất ổn định mảng xơ vữa.
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide70.png)
+</p>
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Screenshot_41.png)
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide71.png)
+</p>
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Screenshot_42.png)
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide72.png)
+</p>
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Screenshot_43.png)
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide73.png)
+</p>
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Screenshot_44.png)
+</p>
+</div>
+
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide77.png)
+</p>
+<p class="col-md-6" markdown="1">
+Chuyện gì đã xảy ra?
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide78.png)
+</p>
+<p class="col-md-6" markdown="1">
+Đây là một phản ứng nhỏ với sắt IV và cũng có thể đi kèm với tức ngực, ngứa hoặc buồn nôn. Chiến lược thích hợp ở đây là tạm thời ngưng truyền, tiêm hydrocortison và/hoặc thuốc kháng H1 đường uống, sau đó khởi động lại với tốc độ chậm hơn.
+</p>
+</div>
+
+<div class="row align-items-center img-aside">
+<p class="col-md-6" markdown="1">
+![](/img/post/chuyende/Slide79.png)
+</p>
+<p class="col-md-6" markdown="1">
+
+</p>
+</div>
