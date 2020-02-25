@@ -62,8 +62,8 @@ notnumbering: 1
 - Trong AKI nghiêm trọng hoặc khi có nghi ngờ về nguyên nhân hoặc biến chứng, cần tham khảo bác sĩ chuyên khoa thận. BN có thể cần chạy thận nhân tạo.
 
 ## Biến chứng
-	- Tăng kali máu
-	- Quá tải dịch, suy tim và phù phổi
-	- Nhiễm toan chuyển hóa
-	- Ure huyết cao có thể dẫn đến **bệnh não** hoặc **viêm màng ngoài tim**
+- Tăng kali máu
+- Quá tải dịch, suy tim và phù phổi
+- Nhiễm toan chuyển hóa
+- Ure huyết cao có thể dẫn đến **bệnh não** hoặc **viêm màng ngoài tim**
  
