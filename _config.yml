@@ -35,10 +35,3 @@ exclude:
 
 plugins:
   - jekyll-feed
-
-comments:
-	provider : "facebook"
-	facebook:
-		appid : 208703010516551
-		num_posts : # 5 (default)
-		colorscheme : # "light" (default), "dark"
