@@ -5,6 +5,7 @@ tags: [thận, case, medscape]
 categories: medscape
 img: caseackd.jpg
 notnumbering: 1
+published: false
 ---
 
 ## Câu 1
