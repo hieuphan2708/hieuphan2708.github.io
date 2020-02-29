@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hội chứng vành cấp - tóm tắt chính
+title: Hội chứng vành cấp - Zero to Final
 tags:
   - tim-mạch
   - z2f

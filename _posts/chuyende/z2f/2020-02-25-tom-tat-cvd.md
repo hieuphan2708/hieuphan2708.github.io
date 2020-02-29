@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bệnh tim mạch - tóm tắt chính
+title: Bệnh tim mạch - Zero to Final
 tags:
   - tim-mạch
   - z2f

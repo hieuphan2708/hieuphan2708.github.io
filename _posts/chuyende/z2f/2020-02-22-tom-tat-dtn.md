@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Đau thắt ngực ổn định - tóm tắt chính
+title: Đau thắt ngực ổn định - Zero to Final
 tags:
   - tim-mạch
   - z2f

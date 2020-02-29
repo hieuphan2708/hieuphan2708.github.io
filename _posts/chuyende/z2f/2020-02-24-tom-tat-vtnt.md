@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Van tim nhân tạo - tóm tắt chính
+title: Van tim nhân tạo - Zero to Final
 tags:
   - tim-mạch
   - z2f

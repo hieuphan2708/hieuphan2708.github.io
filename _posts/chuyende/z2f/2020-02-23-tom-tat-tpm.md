@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tâm phế mạn - tóm tắt chính
+title: Tâm phế mạn - Zero to Final
 tags:
   - tim-mạch
   - z2f

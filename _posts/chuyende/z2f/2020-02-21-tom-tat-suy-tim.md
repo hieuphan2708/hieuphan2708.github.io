@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Suy tim mạn - tóm tắt chính"
+title: "Suy tim mạn - Zero to Final"
 tags: [tim-mạch, z2f]
 img: hfz2f.jpg
 categories: z2f

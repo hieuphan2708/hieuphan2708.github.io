@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tổn thương thận cấp - tóm tắt chính"
+title: "Tổn thương thận cấp - Zero to Final"
 tags: [thận, z2f]
 img: aki.jpg
 categories: z2f
