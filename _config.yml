@@ -23,7 +23,7 @@ permalink: /:categories/:title
 # paginate_path: "/chuyende/page-:num"
 
 # Facebook App ID
-# fb_app_id: ""
+# fb_app_id: "208703010516551"
 
 sass:
   style: compact
@@ -35,3 +35,10 @@ exclude:
 
 plugins:
   - jekyll-feed
+
+comments:
+	provider : "facebook"
+	facebook:
+		appid : 208703010516551
+		num_posts : # 5 (default)
+		colorscheme : # "light" (default), "dark"
