@@ -1,229 +1,129 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-	<loc>https://hieuphan2708.tk/</loc>
-	<lastmod>2020-03-01T16:34:10+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/chuyende</loc>
-	<lastmod>2020-03-01T16:34:13+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/about</loc>
-	<lastmod>2020-03-01T16:34:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/quote</loc>
-	<lastmod>2020-03-01T16:34:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml</loc>
-	<lastmod>2020-03-01T16:34:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/aki</loc>
-	<lastmod>2020-03-01T16:34:17+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/viem-mang-ngoai-tim-cap</loc>
-	<lastmod>2020-03-01T16:34:21+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/case-rung-nhi</loc>
-	<lastmod>2020-03-01T16:34:17+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/rung-nhi</loc>
-	<lastmod>2020-03-01T16:34:17+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/z2f</loc>
-	<lastmod>2020-03-01T16:34:17+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/z2f/tom-tat-aki</loc>
-	<lastmod>2020-03-01T16:34:17+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/z2f/tom-tat-acs</loc>
-	<lastmod>2020-03-01T16:34:18+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/z2f/tom-tat-cvd</loc>
-	<lastmod>2020-03-01T16:34:18+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/z2f/tom-tat-vtnt</loc>
-	<lastmod>2020-03-01T16:34:18+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/medscape</loc>
-	<lastmod>2020-03-01T16:34:18+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/medscape/case-anemia-ckd</loc>
-	<lastmod>2020-03-01T16:34:18+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/medscape/anemia-in-ckd</loc>
-	<lastmod>2020-03-01T16:34:19+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/mvv</loc>
-	<lastmod>2020-03-01T16:34:19+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/mvv/drug-diabetes</loc>
-	<lastmod>2020-03-01T16:34:19+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/mvv/he-sinh-duc-nu</loc>
-	<lastmod>2020-03-01T16:34:19+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/mvv/cau-truc-cua-mat</loc>
-	<lastmod>2020-03-01T16:34:19+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/mvv/anemia</loc>
-	<lastmod>2020-03-01T16:34:19+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/goljan</loc>
-	<lastmod>2020-03-01T16:34:20+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/goljan/Chapter-3c-acid-base</loc>
-	<lastmod>2020-03-01T16:34:24+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/goljan/Chapter-3b-hemodynamic</loc>
-	<lastmod>2020-03-01T16:34:20+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/goljan/Chapter-3a-fluids</loc>
-	<lastmod>2020-03-01T16:34:20+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/quote/page-2</loc>
-	<lastmod>2020-03-01T16:34:20+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/thuyen-tac-phoi</loc>
-	<lastmod>2020-03-01T16:34:20+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/case-cap</loc>
-	<lastmod>2020-03-01T16:34:21+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/viem-phoi-cong-dong</loc>
-	<lastmod>2020-03-01T16:34:21+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/viem-tuy-cap</loc>
-	<lastmod>2020-03-01T16:34:21+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/case-kho-tho</loc>
-	<lastmod>2020-03-01T16:34:21+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/phu-phoi-cap</loc>
-	<lastmod>2020-03-01T16:34:21+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/kho-tho</loc>
-	<lastmod>2020-03-01T16:34:24+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/xuat-huyet-tieu-hoa-tren</loc>
-	<lastmod>2020-03-01T16:34:21+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/ha-duong-huyet</loc>
-	<lastmod>2020-03-01T16:34:22+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/eml/hoi-chung-vanh-cap</loc>
-	<lastmod>2020-03-01T16:34:22+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/tags/eml</loc>
-	<lastmod>2020-03-01T16:34:22+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/z2f/tom-tat-tpm</loc>
-	<lastmod>2020-03-01T16:34:22+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/z2f/tom-tat-dtn</loc>
-	<lastmod>2020-03-01T16:34:22+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/z2f/tom-tat-suy-tim</loc>
-	<lastmod>2020-03-01T16:34:22+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/tags/z2f</loc>
-	<lastmod>2020-03-01T16:34:23+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/tags/medscape</loc>
-	<lastmod>2020-03-01T16:34:23+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/tags/mvv</loc>
-	<lastmod>2020-03-01T16:34:23+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hieuphan2708.tk/tags/goljan</loc>
-	<lastmod>2020-03-01T16:34:23+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://hieuphan2708.tk/</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/quote</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/chuyende</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/goljan/Chapter-3a-fluids</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/goljan/Chapter-3b-hemodynamic</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/goljan/Chapter-3c-acid-base</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/about</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/mvv/anemia</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/goljan</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/mvv/drug-diabetes</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/mvv/cau-truc-cua-mat</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/medscape/case-anemia-ckd</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/mvv/he-sinh-duc-nu</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/mvv</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/z2f/tom-tat-cvd</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/medscape/anemia-in-ckd</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/medscape</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/z2f</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/z2f/tom-tat-vtnt</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/z2f/tom-tat-acs</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/viem-mang-ngoai-tim-cap</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/z2f/tom-tat-aki</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/rung-nhi</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/quote/page-2</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/case-rung-nhi</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/aki</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/z2f/tom-tat-dtn</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/z2f/tom-tat-tpm</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/z2f/tom-tat-suy-tim</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/hoi-chung-vanh-cap</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/kho-tho</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/xuat-huyet-tieu-hoa-tren</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/viem-tuy-cap</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/case-kho-tho</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/thuyen-tac-phoi</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/case-cap</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/ha-duong-huyet</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/phu-phoi-cap</loc>
+  </url>
+  <url>
+    <loc>https://hieuphan2708.tk/eml/viem-phoi-cong-dong</loc>
+  </url>
 </urlset>
+<!--<guid value="3cf6e5d3-f0db-4883-a75a-fe83747f761f" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
