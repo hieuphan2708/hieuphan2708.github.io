@@ -13,7 +13,7 @@ author:
 
 
 # Build settings
-timezone: "Asia/Bangkok"
+timezone: "Asia/Ho_Chi_Minh"
 markdown: kramdown
 kramdown:
   input: GFM
