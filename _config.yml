@@ -34,5 +34,4 @@ exclude:
   - CNAME
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
