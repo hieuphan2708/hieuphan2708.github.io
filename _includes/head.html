@@ -93,6 +93,7 @@
     <meta property="fb:app_id"  content="208703010516551" />
     <meta property="fb:admins"  content="100006191744061"/>
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:type" content="article" />
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{page.image }}">
