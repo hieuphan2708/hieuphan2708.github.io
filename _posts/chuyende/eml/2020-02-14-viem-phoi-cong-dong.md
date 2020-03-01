@@ -121,7 +121,7 @@ notnumbering: 1
 - Không nhận biết bệnh nhân bị nhiễm trùng huyết
 
 ## Case lâm sàng áp dụng
-- 3 case lâm sàng áp dụng bài học xem ở [đây](https://hieuphan2708.github.io/eml/case-cap)
+- 3 case lâm sàng áp dụng bài học xem ở [đây](https://hieuphan2708.tk/eml/case-cap)
 
 
 

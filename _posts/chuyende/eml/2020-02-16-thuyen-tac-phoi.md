@@ -201,7 +201,7 @@ notnumbering: 1
 
 ### Mang thai
 - Mang thai là một yếu tố nguy cơ đáng kể (gấp 4 lần nguy cơ tương đối) của sự phát triển huyết khối tĩnh mạch. D-dimer thường tăng cao trong thai kỳ làm hạn chế việc sử dụng nó như một công cụ chẩn đoán. Mặc dù D-dimer âm tính ở bệnh nhân có nguy cơ thấp trong thai kỳ có thể được coi là hữu ích, nhưng việc sử dụng D-Dimer để loại trừ PE không được ủng hộ bởi RCOG.
-- Chiến lược khảo sát ở bệnh nhân mang thai thường ủng hộ siêu âm tĩnh mạch chân hai bên để giảm thiểu phơi nhiễm bức xạ ion hóa. Tuy nhiên, để chẩn đoán thì được nhưng loại trừ thì không. [xem lại](https://hieuphan2708.github.io/eml/thuyen-tac-phoi#si%C3%AAu-%C3%A2m-t%C4%A9nh-m%E1%BA%A1ch-%E1%BB%9F-ch%C3%A2n).
+- Chiến lược khảo sát ở bệnh nhân mang thai thường ủng hộ siêu âm tĩnh mạch chân hai bên để giảm thiểu phơi nhiễm bức xạ ion hóa. Tuy nhiên, để chẩn đoán thì được nhưng loại trừ thì không. [xem lại](https://hieuphan2708.tk/eml/thuyen-tac-phoi#si%C3%AAu-%C3%A2m-t%C4%A9nh-m%E1%BA%A1ch-%E1%BB%9F-ch%C3%A2n).
 - CTPA thì tăng phơi nhiễm bức xạ với mô vú của người mẹ (tăng nguy cơ mắc ung thư vú), còn V/Q scan thì tăng phơi nhiễm bức xạ với thai nhi (tăng nguy cơ mắc ung thư ở trẻ em). 
 <div class="alert alert-danger" role="alert">
   Bác sĩ cấp cứu sẽ phải giải thích nguy cơ cho mẹ và thai nhi khi khảo sát bằng CTPA hay V/Q scan
