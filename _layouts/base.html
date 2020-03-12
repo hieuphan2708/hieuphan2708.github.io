@@ -42,5 +42,12 @@ base-js:
    js.src = "//connect.facebook.net/vi-VN/all.js#xfbml=1&appId=208703010516551";
    fjs.parentNode.insertBefore(js, fjs);
    }(document, "script", "facebook-jssdk"));</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('*').bind('cut copy paste contextmenu', function (e) {
+    e.preventDefault();
+})});
+</script>
 </body>
 </html>
